@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# $1 exist 
+if [ -z $1 ]; then
+    # not exist
+    pwd | wl-copy
+
+else
+
+    echo $(pwd)/$1 | wl-copy
+fi
