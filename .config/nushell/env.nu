@@ -101,3 +101,4 @@ $env.NU_PLUGIN_DIRS = [
 
 alias time = bash -c time
 alias  m = python ~/code/KM911/pymake/pytest.py
+alias r = yazi 

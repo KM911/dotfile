@@ -20,7 +20,8 @@
         "memory",
         "bluetooth",
         // "custom/scratchpad",
-        "tray"
+        "tray",
+        "custom/sunset"
         // "sway/mode"
     ],
     "modules-center": [
@@ -30,13 +31,12 @@
     ],
     "modules-right": [
         // informational
-        "sway/language",
+        // "sway/language",
+        "network",
         // "custom/github",
         // "custom/clipboard",
         // "custom/zeit",
-        "battery",
         // connecting
-        "network",
         // "custom/valent",
         // media
         // "custom/playerctl",
@@ -48,11 +48,17 @@
         // "custom/adaptive-light",
         // "custom/sunset",
         // "custom/pacman",
+        "battery",
         "clock"
     ],
     // -------------------------------------------------------------------------
     // Modules
     // -------------------------------------------------------------------------
+    "sway/workspaces": {
+        "format": "{name}"
+        // "format": "{index}{name}"
+        // "format": "{index}"
+    },
     "battery": {
         "interval": 30,
         "states": {
@@ -75,16 +81,60 @@
         ],
         "tooltip": true
     },
+    // "clock": {
+    //     "interval": 60,
+    //     "format": "{:%e %b %Y %H:%M}",
+    //     "tooltip": true,
+    //     "tooltip-format": "<big>{:%B %Y}</big>\n<tt>{calendar}</tt>",
+    //     "on-click": "swaymsg exec \\$calendar"
+    // },
     "clock": {
-        "interval": 60,
-        "format": "{:%e %b %Y %H:%M}",
+        "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "calendar": {
+            "mode": "month",
+            "mode-mon-col": 3,
+            "weeks-pos": "right",
+            "on-scroll": 1,
+            "on-click-right": "mode",
+            "format": {
+                "months": "<span color='#ffead3'><b>{}</b></span>",
+                "days": "<span color='#ecc6d9'><b>{}</b></span>",
+                "weeks": "<span color='#99ffdd'><b>W{}</b></span>",
+                "weekdays": "<span color='#ffcc66'><b>{}</b></span>",
+                "today": "<span color='#ff6699'><b><u>{}</u></b></span>"
+            }
+        },
+        "actions": {
+            "on-click-right": "mode",
+            "on-click-forward": "tz_up",
+            "on-click-backward": "tz_down",
+            "on-scroll-up": "shift_up",
+            "on-scroll-down": "shift_down"
+        },
+        "format": " {:%a %d %b   %I:%M %p}", //12 hour format
+        // "format": " {:%d %m %Y  %H:%M}",	//24 hour format
+        "format-alt": "  {:%d/%m/%Y  %H:%M:%S}",
+        // //"timezones": [ "Kolkata" ],
+        // //"max-length": 200
+        "interval": 1
+    },
+    "custom/sunset": {
+        "interval": "once",
         "tooltip": true,
-        "tooltip-format": "<big>{:%B %Y}</big>\n<tt>{calendar}</tt>",
-        "on-click": "swaymsg exec \\$calendar"
+        "return-type": "json",
+        "format": "{icon}",
+        "format-icons": {
+            "on": "Night  ",
+            "off": "Sun  "
+        },
+        "exec": "fallback_latitude=50.1 fallback_longitude=8.7 latitude= longitude= ~/.config/sway/scripts/sunset.sh",
+        "on-click": "~/.config/sway/scripts/sunset.sh toggle",
+        "exec-if": "~/.config/sway/scripts/sunset.sh check",
+        "signal": 6
     },
     "cpu": {
         "interval": 10,
-        "format": "󰘚 {load}%",
+        "format": "﬙ {usage}%",
         "states": {
             "warning": 70,
             "critical": 90
@@ -104,7 +154,7 @@
     },
     "network": {
         "interval": 5,
-        "format-wifi": " ",
+        "format-wifi": "  {essid}",
         "format-ethernet": "󰈀",
         "format-disconnected": "󰖪",
         "tooltip-format": "{icon} {ifname}: {ipaddr}",
@@ -152,7 +202,7 @@
     "temperature": {
         "critical-threshold": 90,
         "interval": 5,
-        "format": "{icon}{temperatureC}°C",
+        "format": "{icon} {temperatureC}°C",
         "tooltip-format": "{temperatureC}°C",
         "format-icons": [
             "",
@@ -170,9 +220,9 @@
         "format": "󰀼 {}",
         "interval": 3600,
         "return-type": "json",
-        "exec-if": "/usr/share/sway/scripts/checkupdates.sh check",
-        "exec": "/usr/share/sway/scripts/checkupdates.sh status",
-        "on-click": "/usr/share/sway/scripts/checkupdates.sh check && swaymsg exec \\$update-manager",
+        "exec-if": "~/.config/sway/scripts/checkupdates.sh check",
+        "exec": "~/.config/sway/scripts/checkupdates.sh status",
+        "on-click": "~/.config/sway/scripts/checkupdates.sh check && swaymsg exec \\$update-manager",
         "on-click-middle": "waybar-signal pacman",
         "signal": 14
     },
@@ -202,23 +252,9 @@
             "one": "󰖯",
             "many": "󰖲"
         },
-        "exec": "/bin/sh /usr/share/sway/scripts/scratchpad.sh",
+        "exec": "/bin/sh ~/.config/sway/scripts/scratchpad.sh",
         "on-click": "swaymsg 'scratchpad show'",
         "signal": 7
-    },
-    "custom/sunset": {
-        "interval": "once",
-        "tooltip": true,
-        "return-type": "json",
-        "format": "{icon}",
-        "format-icons": {
-            "on": "󰌵",
-            "off": "󰌶"
-        },
-        "exec": "fallback_latitude=50.1 fallback_longitude=8.7 latitude= longitude= /usr/share/sway/scripts/sunset.sh",
-        "on-click": "/usr/share/sway/scripts/sunset.sh toggle",
-        "exec-if": "/usr/share/sway/scripts/sunset.sh check",
-        "signal": 6
     },
     "custom/wf-recorder": {
         "interval": "once",
@@ -272,7 +308,7 @@
         "tooltip": true,
         "interval": 3600,
         // accepts -c/--city <city> -t/--temperature <C/F> -d/--distance <km/miles>
-        "exec": "/usr/share/sway/scripts/weather.py",
+        "exec": "~/.config/sway/scripts/weather.py",
         "return-type": "json",
         "format-icons": {
             "Unknown": "",
@@ -304,8 +340,8 @@
             "tracking": "󰖷",
             "stopped": "󰋣"
         },
-        "exec": "/usr/share/sway/scripts/zeit.sh status",
-        "on-click": "/usr/share/sway/scripts/zeit.sh click; waybar-signal zeit",
+        "exec": "~/.config/sway/scripts/zeit.sh status",
+        "on-click": "~/.config/sway/scripts/zeit.sh click; waybar-signal zeit",
         "exec-if": "[ -x \"$(command -v zeit)\" ]",
         "signal": 10
     },
@@ -317,9 +353,9 @@
             "default": "󰚢",
             "dnd": "󰚣"
         },
-        "on-click": "/usr/share/sway/scripts/dnd.sh toggle; waybar-signal dnd",
-        "on-click-right": "/usr/share/sway/scripts/dnd.sh restore",
-        "exec": "/usr/share/sway/scripts/dnd.sh status",
+        "on-click": "~/.config/sway/scripts/dnd.sh toggle; waybar-signal dnd",
+        "on-click-right": "~/.config/sway/scripts/dnd.sh restore",
+        "exec": "~/.config/sway/scripts/dnd.sh status",
         "signal": 11
     },
     "custom/adaptive-light": {
@@ -331,16 +367,16 @@
             "on": "󰃡",
             "off": "󰃠"
         },
-        "exec": "/usr/share/sway/scripts/wluma.sh",
-        "on-click": "/usr/share/sway/scripts/wluma.sh toggle",
-        "exec-if": "/usr/share/sway/scripts/wluma.sh check",
+        "exec": "~/.config/sway/scripts/wluma.sh",
+        "on-click": "~/.config/sway/scripts/wluma.sh toggle",
+        "exec-if": "~/.config/sway/scripts/wluma.sh check",
         "signal": 12
     },
     "custom/valent": {
         "format": "{icon}",
         "tooltip": true,
         "interval": 60,
-        "exec": "/usr/share/sway/scripts/valent.py",
+        "exec": "~/.config/sway/scripts/valent.py",
         "exec-if": "[ -x \"$(command -v valent)\" ]",
         "return-type": "json",
         "format-icons": {

@@ -12,6 +12,10 @@
  * Keyframes
  * -------------------------------------------------------------------------- */
 
+@import "machiatto.css";
+
+
+
 @keyframes blink-warning {
     70% {
         color: @wm_icon_bg;
@@ -40,19 +44,32 @@
 
 /* Reset all styles */
 * {
+    /* color: @lavender; */
     border: none;
     border-radius: 0;
     min-height: 0;
     margin: 0;
     padding: 0;
+    font-size: 18px;
     font-family: "JetBrainsMono NF", "Roboto Mono", sans-serif;
 }
 
 /* The whole bar */
-window#waybar {
+
+/* window#waybar {
     background: @theme_bg_color;
     color: @wm_icon_bg;
-    font-size: 16px;
+    font-size: 18px;
+} */
+
+window#waybar {
+    border: 0px solid rgba(0, 0, 0, 0);
+    /* border-radius: 10px; */
+    /* background:#2d2a2e; */
+    /* background-color: rgba(36, 39, 58, 0.85); */
+    background-color: rgba(0, 0, 0, 0);
+    /* background-color: shade(#1e1e2e, 0.95); */
+
 }
 
 /* Each module */
@@ -82,8 +99,20 @@ window#waybar {
 #custom-playerctl,
 #custom-weather,
 #tray {
-    padding-left: 10px;
-    padding-right: 10px;
+    /* padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px; */
+
+    /* for some group right */
+
+    background-color: shade(@base, 1);
+    opacity: 1;
+
+    /* margin: 10px 5px 0 5px;
+     */
+    margin-top: 5px;
+    padding: 8px 5px 8px 5px;
 }
 
 /* -----------------------------------------------------------------------------
@@ -94,8 +123,11 @@ window#waybar {
 #custom-menu,
 #workspaces button.focused,
 #clock {
-    color: @theme_bg_color;
-    background-color: @theme_selected_bg_color;
+    /* color: @theme_bg_color; */
+    /* background-color: @theme_selected_bg_color; */
+
+    border-radius: 20px;
+    /* margin: 8px 10px; */
 }
 
 #custom-zeit.tracking {
@@ -130,6 +162,8 @@ window#waybar {
     font-weight: bold;
 }
 
+
+
 #cpu.warning {
     color: @warning_color;
 }
@@ -163,6 +197,16 @@ window#waybar {
     background: @background_color;
 }
 
+#network {
+
+    color: @green;
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+
+
+
 #network.disconnected {
     color: @warning_color;
 }
@@ -175,19 +219,34 @@ window#waybar {
     color: @error_color;
 }
 
+#workspaces {
+    /* background-color: red; */
+    background-color: @base;
+    border-radius: 20px;
+}
+
+/* #workspaces */
+
 #workspaces button {
+    /* background-color: blue; */
     border-top: 2px solid transparent;
     /* To compensate for the top border and still have vertical centering */
     padding-bottom: 2px;
-    padding-left: 5px;
-    padding-right: 5px;
-    color: @theme_selected_bg_color;
+    padding-left: 3px;
+    padding-right: 3px;
+    opacity: 0.8;
 }
+
 
 #workspaces button.focused {
     /* border-color: @theme_selected_bg_color; */
     /* color: #40e0f0; */
-    background-color: aqua;
+    /* background-color: @lavender; */
+    color: #40e0f0;
+    margin-left: 5px;
+    margin-right: 5px;
+    /* opacity: 0.3; */
+    opacity: 1;
 }
 
 #workspaces button.urgent {
@@ -200,8 +259,17 @@ window#waybar {
 }
 
 #bluetooth.disabled {
-    color: @warning_color;
+    border-radius: 10px;
+    color: @sky;
 }
+
+
+#tray {
+    border-radius: 10px;
+}
+
+
+
 
 #custom-wf-recorder {
     color: @error_color;
@@ -210,4 +278,53 @@ window#waybar {
 
 #custom-valent.dangerously-empty {
     color: @warning_color;
+}
+
+
+
+/* group 1 batter backlight voulme */
+
+#battery,
+#backlight,
+#pulseaudio {
+    /* background-color: red; */
+}
+
+#battery {
+    color: @green;
+    border-radius: 0 15px 15px 0;
+    padding-right: 10px;
+    margin-right: 10px;
+
+}
+
+#backlight {}
+
+#pulseaudio {
+    border-radius: 15px 0 0 15px;
+    padding-left: 10px;
+}
+
+#cpu,
+#temperature,
+#memory {
+    /* background-color: green; */
+}
+
+#memory {
+    color: @sky;
+    border-radius: 0 15px 15px 0;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+#temperature {
+    color: @lavender ;
+}
+
+#cpu {
+
+    color: @sky;
+    border-radius: 15px 0 0 15px;
+    padding-left: 10px;
 }
