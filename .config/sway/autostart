@@ -1,6 +1,7 @@
 ## default 
-set $wezterm '[-x wezterm]' 
-set $input-method '[-x "fcitx5"]'
+#set $wezterm '[-x wezterm]' 
+#set $input-method '[-x "fcitx5"]'
+set $initialize_wezterm '[ -x "$(command -v wezterm)" ]'
 
 # units
 

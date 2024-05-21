@@ -21,7 +21,8 @@
         "bluetooth",
         // "custom/scratchpad",
         "tray",
-        "custom/sunset"
+        "custom/sunset",
+        "custom/scratchpad"
         // "sway/mode"
     ],
     "modules-center": [

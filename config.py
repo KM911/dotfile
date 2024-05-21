@@ -10,6 +10,7 @@ images = [
 code = ["go", "rust", "docker", "nodejs",  "jdk-openjdk"]
 code_tool = ["pnpm", "maven", "cmake"]
 db = ["redis", "resp-app", "redis"]
+font = ["ttf-fira-code"]
 tool = ["docker"]
 shell = ["wezterm", "nushell", "starship", "zoxide", "gitui"]
 daily = ["obsidian", "google-chrome"]
@@ -19,11 +20,12 @@ total = code + shell + daily + work
 
 
 # Personal dotfile
-Configs = ["sway", "waybar", "nushell", "helix", "rofi", "yazi"]
+Configs = ["sway", "waybar", "nushell", "helix", "rofi", "yazi", "foot"]
 Etcs = ["/etc/environment", "~/.cargo/config.toml"]
 Scripts = [
     "/usr/bin/pp",
-    "/usr/bin/time"
+    "/usr/bin/time",
+    "/usr/bin/suck"
 ]
 
 

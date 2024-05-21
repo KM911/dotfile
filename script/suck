@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+/usr/bin/st -e /usr/bin/nu &> /dev/null &

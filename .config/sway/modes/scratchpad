@@ -5,8 +5,11 @@
 # You can send windows there and get them back later.
 
 ## Action // Move window to scratchpad ##
-$bindsym $mod+Shift+minus move scratchpad, exec "waybar-signal scratchpad"
+#$bindsym $mod+Shift+p move scratchpad, exec "waybar-signal scratchpad"
+$bindsym $mod+p  exec ~/.config/sway/scripts/suckless.sh
+
+# $bindsym $mod+p  exec ~/.config/sway/scripts/spotify.sho
 
 # If there are multiple scratchpad windows, this command cycles through them.
 ## Action // Toggle scratchpad ##
-$bindsym $mod+minus scratchpad show, exec "waybar-signal scratchpad"
+# $bindsym $mod+p scratchpad show, exec "waybar-signal scratchpad"
