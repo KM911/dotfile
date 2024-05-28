@@ -1,5 +1,6 @@
 
 
-exec wezterm
-exec spotify
+#exec wezterm
+#exec spotify
+
 exec ~/.config/sway/script/suckless.sh

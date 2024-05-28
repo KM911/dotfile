@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+from rich import print
+from rich.prompt import Confirm, Prompt
 import os
 
 import sys
@@ -57,8 +59,7 @@ def restore():
 
 
 # script_back()
-
-back()
+# back()
 # script_restore()
 
 
@@ -76,3 +77,28 @@ def docker_proxy():
         file = open('/etc/docker/daemon.json', 'w')
         json.dump(data, file, indent=4)
         file.close()
+
+# write a reactive command line
+
+
+options = ["back", "restore"]
+optionss = [1, 2]
+try:
+    for option in options:
+        print(option)
+    #
+    choice = Prompt.ask("请选择一个选项")
+
+    # print("choice ", choice)
+    # if choice:
+    print(f"你选择了: {options[int(choice)-1]}")  # 这里可以根据实际选择情况进行处理
+    if options[int(choice)-1] == "back":
+        back()
+    elif options[int(choice)-1] == "restore":
+        restore()
+    else:
+        print("exit")
+        sys.exit(0)
+except KeyboardInterrupt:
+    # print("exit")
+    sys.exit(0)

@@ -6,6 +6,7 @@ default_border pixel 2
 gaps inner 10
 
 #output 1920x1080
+
 output * mode 1920x1080@50Hz position 0,0
 
 
@@ -42,5 +43,6 @@ client.focused           $sky    $base $text  $lavender $like
 
 # set float default size 
 # set footclient always float 
-for_window [app_id="footclient"] floating enable , resize set 1000 700 
+for_window [app_id="footclient"] floating enable , resize set 1200 800 
 
+for_window [app_id="org.wezfurlong.wezterm"] floating enable , resize set 1200 800 

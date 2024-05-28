@@ -9,23 +9,24 @@ images = [
 
 code = ["go", "rust", "docker", "nodejs",  "jdk-openjdk"]
 code_tool = ["pnpm", "maven", "cmake"]
-db = ["redis", "resp-app", "redis"]
+db = ["redis", "resp-app"]
 font = ["ttf-fira-code"]
-tool = ["docker"]
+tool = ["docker", "nvtop", "inxi"]
 shell = ["wezterm", "nushell", "starship", "zoxide", "gitui"]
 daily = ["obsidian", "google-chrome"]
 work = ["feishu-bin"]
 
-total = code + shell + daily + work
+total = code + shell + daily + work + db + font + tool + code_tool
 
 
 # Personal dotfile
-Configs = ["sway", "waybar", "nushell", "helix", "rofi", "yazi", "foot"]
-Etcs = ["/etc/environment", "~/.cargo/config.toml"]
+Configs = ["sway", "waybar", "nushell",
+           "helix", "rofi", "yazi", "foot", "pip"]
+Etcs = ["/etc/environment", "~/.cargo/config.toml", "~/.wezterm.lua"]
 Scripts = [
     "/usr/bin/pp",
     "/usr/bin/time",
-    "/usr/bin/suck"
+    "/etc/greetd/config.toml"
 ]
 
 

@@ -6,7 +6,11 @@
 
 ## Action // Move window to scratchpad ##
 #$bindsym $mod+Shift+p move scratchpad, exec "waybar-signal scratchpad"
-$bindsym $mod+p  exec ~/.config/sway/scripts/suckless.sh
+#  [app_id="r_scratchpad"]
+$bindsym $mod+p  exec ~/.config/sway/scripts/suckless.sh , exec 'swaymsg [app_id="footclient"] scratchpad show' , exec "waybar-signal scratchpad"
+$bindsym $mod+m  exec ~/.config/sway/scripts/spotify.sh  , exec 'swaymsg [class="Spotify"] scratchpad show' , exec "waybar-signal scratchpad" 
+
+$bindsym $mod+Shift+p  move scratchpad
 
 # $bindsym $mod+p  exec ~/.config/sway/scripts/spotify.sho
 

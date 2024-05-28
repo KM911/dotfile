@@ -1,5 +1,27 @@
-*.log
-*.cache
+# ide
+.idea
+.vscode
 
-log
-cache
+
+# object files
+*.bin
+*.exe
+*.class
+*.o
+*.out
+*.so
+
+#image
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+!image/README/*.*
+__pycache__/
+venv
+node_modules
+dist
+output
+target
+build
