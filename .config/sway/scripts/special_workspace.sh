@@ -11,5 +11,5 @@ else
     /usr/bin/spotify &
     sleep 1
     swaymsg move scratchpad
-    # swaymsg scratchpad show
+    swaymsg "[class=\"Spotify\"] scratchpad show"
 fi

@@ -34,4 +34,4 @@ GLFW_IM_MODULE=ibus
 
 CHROME_DRIVER_PATH=/usr/bin/chromedriver
 
-#WLR_DRM_DEVICES=/dev/dri/card1 sway
+#WLR_DRM_DEVICES=/dev/dri/card2 sway

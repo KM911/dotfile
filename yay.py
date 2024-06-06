@@ -6,7 +6,10 @@ from config import *
 
 def install():
     for image in images:
-        os.system(f"sudo docker pull {image}")
+        os.system(f"docker pull {image}")
 
     for pkg in total:
         os.system(f"yay -S --noconfirm {pkg}")
+
+
+install()

@@ -20,10 +20,12 @@ def hard_link(dc: dict, fd: str, is_back=True):
 
 def config_back():
     for i in Configs:
+        print(f"sudo cp -r -l ~/.config/{i} ./.config")
         os.system(f"sudo cp -r -l ~/.config/{i} ./.config")
 
 
 def config_restore():
+    print("sudo cp - r - l ./.config/* ~/.config")
     os.system(f"sudo cp - r - l ./.config/* ~/.config")
 
 

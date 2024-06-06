@@ -17,7 +17,7 @@ $bindsym $mod+o exec $menu
 # $bindsym $alt_mod+space exec $menu
 
 ## Launch // Open clipboard ##
-$bindsym $mod+Shift+p exec $clipboard
+# $bindsym $mod+Shift+p exec $clipboard
 
 # Drag floating windows by holding down $mod and left mouse button.
 # Resize them with right mouse button + $mod.
@@ -99,7 +99,7 @@ $bindsym $mod+Alt+$down_alt move workspace to output down
 $bindsym $mod+Alt+$up_alt move workspace to output up
 
 ## Navigation // List all open windows in last-recently-used order ##
-$bindsym $mod+p exec env RUST_BACKTRACE=1 swayr switch-window &>> /tmp/swayr.log
+# $bindsym $mod+p exec env RUST_BACKTRACE=1 swayr switch-window &>> /tmp/swayr.log
 
 ## Navigation // Switch to the last recently used window ##
 $bindsym Mod1+Tab exec env RUST_BACKTRACE=1 swayr switch-to-urgent-or-lru-window &>> /tmp/swayr.log
@@ -122,6 +122,17 @@ $bindsym $alt_mod+8 workspace $ws8
 $bindsym $alt_mod+9 workspace $ws9
 $bindsym $alt_mod+0 workspace $ws10
 
+$bindsym Ctrl+$alt_mod+1 move container to workspace $ws1 
+$bindsym Ctrl+$alt_mod+2 move container to workspace $ws2 
+$bindsym Ctrl+$alt_mod+3 move container to workspace $ws3 
+$bindsym Ctrl+$alt_mod+4 move container to workspace $ws4 
+$bindsym Ctrl+$alt_mod+5 move container to workspace $ws5 
+$bindsym Ctrl+$alt_mod+6 move container to workspace $ws6 
+$bindsym Ctrl+$alt_mod+7 move container to workspace $ws7 
+$bindsym Ctrl+$alt_mod+8 move container to workspace $ws8 
+$bindsym Ctrl+$alt_mod+9 move container to workspace $ws9 
+$bindsym Ctrl+$alt_mod+0 move container to workspace $ws10
+
 set $focus_ws [ "$focus_after_move" == 'true' ] && swaymsg workspace
 
 ## Action // Move focused window to workspace // $mod + Shift + [number] ##
@@ -136,37 +147,38 @@ $bindsym Ctrl+Shift+8 move container to workspace $ws8, workspace $ws8
 $bindsym Ctrl+Shift+9 move container to workspace $ws9, workspace $ws9
 $bindsym Ctrl+Shift+0 move container to workspace $ws10, workspace $ws10
 ## Launch // Open launcher in a new workspace ##
-$bindsym $mod+Shift+d exec ~/.config/sway/scripts/first-empty-workspace.py --switch, exec $menu
+$bindsym $mod+n exec ~/.config/sway/scripts/first-empty-workspace.py --switch, exec $menu
 
 ## Navigation // Switch to a new workspace ##
-$bindsym $mod+n exec ~/.config/sway/scripts/first-empty-workspace.py --switch
+# $bindsym $mod+n exec ~/.config/sway/scripts/first-empty-workspace.py --switch
 
 ## Action // Move focused window to a new workspace ##
-$bindsym $mod+Shift+n exec ~/.config/sway/scripts/first-empty-workspace.py --move
+# $bindsym $mod+Shift+n exec ~/.config/sway/scripts/first-empty-workspace.py --move
 
 ## Action // Move focused window to a new workspace and switch there ##
-$bindsym $mod+Shift+m exec ~/.config/sway/scripts/first-empty-workspace.py --move --switch
+# $bindsym $mod+Shift+m exec ~/.config/sway/scripts/first-empty-workspace.py --move --switch
 
 #
 # Layout stuff:
 #
 ## Setting // Split windows horizontally ##
-$bindsym $mod+b splith
+# $bindsym $mod+b splith
 ## Setting // Split windows vertically ##
-$bindsym $mod+v splitv
+# $bindsym $mod+v splitv
 
 ## Action // Switch to window stacking ##
-$bindsym $mod+s layout stacking
+# $bindsym $mod+s layout stacking
 ## Action // Switch to window tabbing ##
-$bindsym $mod+w layout tabbed
+# $bindsym $mod+w layout tabbed
 ## Action // Toggle window splitting ##
 $bindsym $mod+e layout toggle split
 
 ## Action // Toggle fullscreen ##
-$bindsym $mod+f fullscreen
+# $bindsym $mod+f fullscreen
+$bindsym $mod+f floating toggle
 
 ## Action // Toggle global fullscreen ##
-$bindsym $mod+Shift+f fullscreen global
+# $bindsym $mod+Shift+f fullscreen global
 
 ## Action // Scale up  ##
 $bindsym $alt_mod+plus exec $scale_up
@@ -175,19 +187,19 @@ $bindsym $alt_mod+plus exec $scale_up
 $bindsym $alt_mod+minus exec $scale_down
 
 ## Action // Toggle floating ##
-$bindsym $mod+Shift+space floating toggle
+# $bindsym $mod+Shift+space floating toggle
 
 ## Navigation // Toggle focus between tiling and floating ##
-$bindsym $mod+space focus mode_toggle
+# $bindsym $mod+space focus mode_toggle
 
 ## Navigation // Swap focus to the parent window ##
 $bindsym $mod+a focus parent
 
 ## Launch // Toggle Help ##
-$bindsym $mod+question exec $help
+# $bindsym $mod+question exec $help
 
 ## Launch // Open Support ##
-$bindsym $mod+Shift+s exec xdg-open https://github.com/Manjaro-Sway/manjaro-sway/blob/main/SUPPORT.md
+# $bindsym $mod+Shift+s exec xdg-open https://github.com/Manjaro-Sway/manjaro-sway/blob/main/SUPPORT.md
 
 ## Launch // Inhibit Idle ##
 $bindsym $mod+Shift+i exec inhibit-idle interactive
@@ -197,3 +209,12 @@ hide_edge_borders smart
 
 # allow to kill focused floating shell windows using Esc
 $bindsym --release Escape [app_id="floating_shell" con_id=__focused__] kill
+
+# take screenshots
+$bindsym $mod+SHift+s  exec grim -g "$(slurp)" - | wl-copy  
+# save into ~//Screenshots
+
+$bindsym $mod+s  exec grim -g "$(slurp)"  ~/Screenshots/$(date +%Y-%m-%d-%H-%M-%S).png
+
+# musci wait
+# $bindsym $mod+m  exec grim -g "$(slurp)" - | wl-copy  

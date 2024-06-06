@@ -12,12 +12,14 @@ code_tool = ["pnpm", "maven", "cmake"]
 db = ["redis", "resp-app"]
 font = ["ttf-fira-code"]
 tool = ["docker", "nvtop", "inxi"]
-shell = ["wezterm", "nushell", "starship", "zoxide", "gitui"]
+shell = ["wezterm", "nushell", "starship", "zoxide", "gitui",
+         "tokei", "fd", "ripgrep", "dust", "bat", "procs", "hyperfine"]
 daily = ["obsidian", "google-chrome"]
 work = ["feishu-bin"]
 
 total = code + shell + daily + work + db + font + tool + code_tool
 
+cargo = ["tokei", ""]
 
 # Personal dotfile
 Configs = ["sway", "waybar", "nushell",
