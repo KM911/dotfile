@@ -2,12 +2,17 @@
 #
 # You can get the names of your inputs by running: swaymsg -t get_inputs
 # Read `man 5 sway-input` for more information about this section.
-input type:keyboard xkb_layout "us"
+#input type:keyboard xkb_layout "us"
 
 
 
 input "type:keyboard" {
-    repeat_delay 150
+    repeat_delay 200
     repeat_rate 100
 }
 
+
+for_window [app_id="one.alynx.showmethekey" title="Floating Window - Show Me The Key"] {
+  floating enable
+  sticky enable
+}

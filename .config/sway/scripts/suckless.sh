@@ -5,14 +5,14 @@
 
 
 # pgrep 
-if pgrep -f footclient  > /dev/null ;
+if pgrep -f "footclient -a $1"  > /dev/null ;
 then
     exit 0
 else
-    footclient  &
+    footclient -a $1 &
     sleep 0.1
     swaymsg move to scratchpad
-    swaymsg "[app_id=\"footclient\"] scratchpad show"
+    swaymsg "[app_id=\"$1\"] scratchpad show"
 fi
 
 

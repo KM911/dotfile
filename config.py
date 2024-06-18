@@ -19,7 +19,6 @@ work = ["feishu-bin"]
 
 total = code + shell + daily + work + db + font + tool + code_tool
 
-cargo = ["tokei", ""]
 
 # Personal dotfile
 Configs = ["sway", "waybar", "nushell",

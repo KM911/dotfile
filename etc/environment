@@ -21,9 +21,7 @@ all_proxy=socks5://127.0.0.1:7897
 
 
 
-#GTK_IM_MODULE=fcitx
-#QT_IM_MODULE=fcitx
-#XMODIFIERS=@im=fcitx
+
 
 GTK_IM_MODULE=fcitx
 QT_IM_MODULE=fcitx
