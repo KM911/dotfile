@@ -18,7 +18,9 @@
 *.gif
 *.webp
 !image/README/*.*
-__pycache__/
+
+## project
+__pycache__
 venv
 node_modules
 dist

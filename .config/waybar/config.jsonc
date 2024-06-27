@@ -17,13 +17,13 @@
         // "custom/menu",
         "cpu",
         "temperature",
+        "custom/gpu",
         "memory",
         "bluetooth",
         // "custom/scratchpad",
         "tray",
         "custom/sunset",
-        "custom/scratchpad"
-        // "sway/mode"
+        "custom/scratchpad",
     ],
     "modules-center": [
         // "custom/wf-recorder",
@@ -33,6 +33,7 @@
     "modules-right": [
         // informational
         // "sway/language",
+        // "sway/mode",
         "network",
         // "custom/github",
         // "custom/clipboard",
@@ -141,6 +142,18 @@
             "critical": 90
         },
         "on-click": "swaymsg exec \\$once \\$term_float htop",
+        "tooltip": true
+    },
+    "custom/gpu": {
+        "interval": 10,
+        "format": "{}°C",
+        // "format": "󰋈 {}°C",
+        "exec": "python /home/km/.config/sway/scripts/gpu.py",
+        "states": {
+            "warning": 70,
+            "critical": 90
+        },
+        // "on-click": "swaymsg exec \\$once \\$term_float nvidia-smi",
         "tooltip": true
     },
     "memory": {

@@ -114,7 +114,7 @@ for i = 1, 8 do
 	})
 end
 
-config.use_ime = true
+config.use_ime = false
 config.xim_im_name = "fcitx"
 
 -- set font size

@@ -33,3 +33,6 @@ GLFW_IM_MODULE=ibus
 CHROME_DRIVER_PATH=/usr/bin/chromedriver
 
 #WLR_DRM_DEVICES=/dev/dri/card2 sway
+#WLR_RENDERER=vulkanw
+#XWAYLAND_NO_GLAMOR=1
+#__GLX_VENDOR_LIBRARY_NAME=nvidia

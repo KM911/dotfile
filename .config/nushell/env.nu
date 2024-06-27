@@ -100,6 +100,8 @@ $env.NU_PLUGIN_DIRS = [
 # source ($nu.default-config-dir | path join 'custom.nu')
 
 alias time = bash -c time
-alias  m = python ~/code/KM911/pymake/pytest.py
+alias m = python ~/code/KM911/pymake/pytest.py
 alias r = yazi 
 alias mm = python ~/code/KM911/pymake/pymake.py
+alias python = /home/km/Templates/python/venv/bin/python
+alias pip = /home/km/Templates/python/venv/bin/pip3 

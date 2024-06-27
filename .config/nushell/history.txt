@@ -1,0 +1,428 @@
+vdfuse 
+curl localhost:8082/yangjun/index.html
+cd hwmon6
+cd km
+docker -v 
+docker start mysql4
+mvn
+rm xx.jar
+cd media/
+lss
+suckless
+/usr/lib64/baidunetdisk/baidunetdisk
+hotpot e go run main.go
+docker run --mount source=data,target=/data -v /etc/redis:/etc/redis redis:alpine 
+cd Documents/
+cd 最终集群/
+mkdir log
+yay player
+mvn install 
+nice
+vim foot-theme.ini
+docker volume
+git fetch remote origin:master
+curl localhost:8080/ping
+cd data
+fd export
+yay potplayer
+docker images
+rm * 
+cd mod
+ps | where name =~ "wezterm"
+cat /sys/class/hwmon/hwmon6/temp1_input
+cd proxy
+tree /home/km/code/go/template/
+yay baidu 
+cat ~/.config/nushell/history.txt
+vim foot-theme.ini~
+docker run -d -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysql0 mysql:8.0 
+cd util_test/
+nicee 
+cd 
+git fetch:origin master
+ps 
+git clone --depth=1 https://github.com/gin-gonic/gin.git
+cargo check 
+fd time
+sensors
+cd work
+./gpu.py
+cd mysql/
+ps | where name =~ "bai"
+cd golang.org/
+git branch -a
+cd Desktop/
+cd -
+go build 
+cd pingora-reverse-proxy/
+cd org
+redis-cli 
+cargo check
+cd hwmon/
+yay video palyer 
+usbreset 001
+cat mysql.sock
+reboot 
+docker --help
+shutdown -h 
+python back.py
+git add * 
+vim clean.py
+moniters
+z go
+mysql -h 127.0.0.1 -u root -p
+./hotpot 
+cd mysql
+rm -rf obsidian-execute-code-enhancement/
+~/.config/sway/scripts/help.sh 
+history  | get 16  | get command  | wl-copy
+systemctl  status sway
+curl localhost:8082/yangjun/newsIndex
+redis-cli -h 172.39.1.2
+cd target
+echo "cat /sys/class/hwmon/hwmon6/temp1_input" | sed "/.{3}$//"
+vim foot.ini
+which as
+go run mai.go
+bash
+cp -r template/ ./cmd
+nu --help
+:q
+export https_proxy=127.0.0.1:8080
+cd Documents
+./venv/bin/python back.py
+yay --noconfirm -S smplayer
+code
+poweroff 
+yay vmvare
+docker run --mount source=data,target=/ -v /etc/redis:/etc/redis redis:alpine 
+./args
+fd runtime
+docker volume list
+docker ps -a 
+a.out
+exit
+docker start redis 
+git switch develop
+yay --noconfirm kvm
+vdfuse  -t vmdk master-cl1-s001.vmdk
+jav -v
+echo "cat /sys/class/hwmon/hwmon6/temp1_input"
+yay baiduyun
+cd nushell
+md5sum 
+cd main
+/usr/bin/python
+usbmuxd 
+pp gpu.py
+docker vo
+yay qbit
+cd  code
+./suckless.sh
+cd src
+88 / 90
+pp code
+a? 
+tar -xf 第10章代码.rar
+tar --help
+python clean.py
+cd Downloads/
+lcd 
+lsc
+vim mkinitcpio.conf
+ls at
+cd docker/volumes
+fd 127
+git fetch origin:master
+docker ps -a
+code bookmarks_6_27_24.html
+systemctl  status sway-service
+tree /home/km/code/go/temmplate
+ls mysql.sock
+curl localhost:8080
+clean
+applications/
+git rebase master 
+./clean.py
+cd tools
+yay 
+ext
+cd rust
+~/.config/sway/scripts/help.sh --toggle
+ps
+sudo su
+cd java
+go 
+fcitx
+gitui
+history  | get 16  
+cd huffman
+cd code/go
+get current shell titile 
+cd /var/lib/
+docker volume create data
+tar -zxvf 第10章代码.rar
+java -jar xxx.jar
+yay vmdk
+git init
+git pull 
+yay --noconfirm -S qbittorrent
+usbreset 
+docker images 
+usbreset help
+docker volume create --help
+suod vim /etc/fuse.conf
+cargo build 
+mnv 
+cd amd_iommu_0/
+vdfuse -t vmdk master.rar
+usbreset  05e3:0620
+vim foot.ini.example
+sudo vim /etc/fuse.conf
+go mod tidy
+gcc main.c
+tree --help
+yay --noconfirm  baidu 
+./a.out hello
+z nushell
+cd slave2/
+cat cpumask
+vim baidunetdisk.desktop
+yay firefox 
+cp static/ /home/km/Templates/fiber/static
+cd targe
+cd /usr
+tar -exf 第10章代码.rar
+cd obsidian-execute-code-enhancement/
+cd fish
+cargo init proxy 
+cd bin
+kls
+cd .confgi
+which md5sum
+go mod init test
+docker container cp ./data.sql mysql:/var/data.sql
+cd Library/
+tree
+cd pingora-proxy/
+git commit -m "init repo"
+docker container cp --help
+docker run -d -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysql5 mysql:5.7
+cd .cache
+ld
+yay protoplay
+java
+cd play
+yay --noconfirm -S firefox
+cd redis
+ls -l mysql.sock
+z Downloads/
+java =v
+go run main.go
+java -jar 1.jar
+vim config.nu
+docker stop mysql
+fd go
+vdfuse master-cl1-s001.vmdk
+vim .wezterm.lua
+cd /run/media/km/OS
+docker run --mount source=data, target=/data -v /etc/redis:/etc/redis redis:alpine 
+z work
+cd  /etc
+jsut
+git stash pop 
+cd static/
+docker container cp ./data.sql mysql:/data/data.sql
+mnv
+~/.config/sway/scripts/help.sh  --help
+hotpot 
+docker start mysql5
+journalctl  -xeu sway
+mysql -h 172.39.1.2 -u root -p 
+docker exec -it mysql0 /bin/bash
+yay SMPlayer
+curl localhost:8082/yangjun/news
+git fetch origin master
+cd springboot01-1.0-SNAPSHOT/
+touch clean.py
+curl localhost:8082/yangjun/live/liveScreen
+md5sum --help
+cargo init pingora-proxy 
+cd  code/go
+cd. .
+cd /media
+cd jarr/
+sudo rm -rf * 
+cd /etc/redis/
+cd KM911/
+git switch master 
+./a.out
+cd /sys
+yay --noconfirm  -S motrix
+docker run -d -v /home/km/Public/redis:/data -v /etc/redis:/etc/redis -p 6379:6379 --name redis myredis:0.0.1
+docker container prune
+cd /etc
+cd target/
+mv springboot01 ~/work
+cargo sync 
+docker start mysql 
+docker start mysql
+vmware
+vdfuse -r ./master-cl1-s001.vmdk
+cd .config
+cd gin/
+cat uevent
+pp
+ps -l | where name =~ "bai"
+curl localhost:8080ping
+ps | where name =~ "baidu"
+cd x
+./code go 
+java --v
+mysql
+cd /run
+sudo bg 1panel
+cd code
+which at
+yay at
+redis-cli -h 172.39.1.3 
+docker run --help
+yay idea 
+docker start redis mysql
+hotpot e go run main.go 
+journalctl  --help
+cd tokio-example/
+go
+which suckless
+rm -rf obsidian-exeucte-code-enhancement/
+ps | where mem > 100Mib
+/var
+cd desktop-directories/
+/usr/lib64/baidunetdisk/baidunetdisk --help
+hotpot w
+cd time@v0.0.0-20210723032227-1f47c861a9ac/
+rmdir jarr/
+ls
+curl localhost:8081/yangjun/liveScreen
+cd springboot01/
+z github
+cd events/
+nothing could be better than your wezterm
+go mod tidy 
+ls -l as
+redis-cli -h 172.39.1.3
+cd ..
+z config.nu
+giui
+history  | get 16  | get command 
+vdfuse -r master-cl1-s001.vmdk
+echo "cat /sys/class/hwmon/hwmon6/temp1_input" | sed "{3}$"
+ps | where name =~ "foot"
+rm *.xlsx
+curl localhost:8082/yangjun/liveScreen
+sys | mem 
+cd cmd
+cd Applications/
+cd share
+nvtop
+code .
+cd pkg
+ll mysql.sock
+history 
+cd foot
+go version
+cd sway
+cd devices/
+yay -Runc virtualbox
+rm -rf Obsidian/
+vdfuse master.rar
+git push 
+chmod +x clean.py
+curl localhost:8082/yangjun
+cd template/
+cd Obsidian/
+pwd
+git clone --depth=1 https://github.com/randommm/pingora-reverse-proxy.git
+github-desktop 
+docker container --help
+docker --help -v 
+go build -o args
+cd init_variable/
+gin
+git stash 
+inxi -G
+go run main.go 
+nice 
+usb-devices 
+cd scripts/
+yay kvm 
+cd Public/
+yay vmare
+fd 127 -x rm {}
+python gpu.py
+docker run -d -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysql mysql:8.0
+cd usr
+java -v
+cd desktop
+cd docker/
+git fetch remote/origin/master
+l
+cd proxy/
+cd resources/
+tar -zx 第10章代码.rar
+cd hello
+history
+rm xxx.jar
+yay vmware
+docker run -d -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysql-test mysql:8.0 
+journalctl 
+./bin
+docker run  -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysq1l mysql:8.0
+fish 
+cd go
+cd nushell/
+vim sunset.sh
+usbreset --help
+vim /etc/redis/redis.conf
+git fetch remote remote:master 
+yay motrix
+jar cf0M xxx.jar *
+vim redis.conf
+docker exec -it mysql /bin/bash
+docker ps 
+yay pot player
+rm -rf config/
+start .
+hello
+jar cf0M xxx.jar *<\n>
+nice but 
+ps  | where mem > 100Mib
+docker stop mysql5
+cp -r static/ /home/km/Templates/fiber/static
+~/.config/sway/scripts/help.sh
+r
+cd feishu/
+./venv/bin/pip install rich 
+docker container cp data.sql mysql:/data/data.sql
+mvn 
+args
+echo "docker run --mount source=data,target=/ -v /etc/redis:/etc/redis redis:alpine" | wl-copy 
+cd k 
+echo "cat /sys/class/hwmon/hwmon6/temp1_input" | sed '/.{3}$//' 
+gcc main.c 
+cd obsidian-exeucte-code-enhancement/
+cat history.txt
+usbreset  05e3:0620v
+echo "cat /sys/class/hwmon/hwmon6/temp1_input" | wl-copy
+cd class
+ps -l | where mem > 100Mib
+cargo 
+./clean.py
+sudo mv clean.py /usr/bin/clean.py
+ls
+./venv/bin/python back.py
+git add * 
+ls
+sudo vim /etc/environment
+exit
+git push 

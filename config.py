@@ -7,11 +7,12 @@ images = [
 
 # the
 
-code = ["go", "rust", "docker", "nodejs",  "jdk-openjdk"]
-code_tool = ["pnpm", "maven", "cmake"]
-db = ["redis", "resp-app"]
+code = ["go", "rust"]
+code_tool = []
+db = ["redis", "resp-app", "mysql"]
 font = ["ttf-fira-code"]
-tool = ["docker", "nvtop", "inxi"]
+
+tool = ["docker", "nvtop", "inxi", "docker-buildx"]
 shell = ["wezterm", "nushell", "starship", "zoxide", "gitui",
          "tokei", "fd", "ripgrep", "dust", "bat", "procs", "hyperfine"]
 daily = ["obsidian", "google-chrome"]
@@ -27,7 +28,10 @@ Etcs = ["/etc/environment", "~/.cargo/config.toml", "~/.wezterm.lua"]
 Scripts = [
     "/usr/bin/pp",
     "/usr/bin/time",
-    "/etc/greetd/config.toml"
+    "/usr/bin/bg",
+    "/usr/bin/keys",
+    "/usr/bin/clean.py",
+    "/etc/greetd/config.toml",
 ]
 
 

@@ -7,7 +7,7 @@ gaps inner 10
 
 #output 1920x1080
 
-output * mode 1920x1080@50Hz position 0,0
+output * mode 1920x1080@50hz position 0,0
 
 
 
