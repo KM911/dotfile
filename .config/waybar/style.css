@@ -43,6 +43,9 @@
  * -------------------------------------------------------------------------- */
 
 /* Reset all styles */
+
+
+
 * {
     /* color: @lavender; */
     border: none;
@@ -98,6 +101,7 @@ window#waybar {
 #custom-adaptive-light,
 #custom-sunset,
 #custom-playerctl,
+#custom-bluetooth-battery,
 #custom-weather,
 #tray {
     /* padding-top: 2px;
@@ -121,7 +125,6 @@ window#waybar {
  * Module styles
  * -------------------------------------------------------------------------- */
 
-#custom-scratchpad,
 #custom-menu,
 #workspaces button.focused,
 #clock {
@@ -132,9 +135,6 @@ window#waybar {
     /* margin: 8px 10px; */
 }
 
-#custom-zeit.tracking {
-    background-color: @warning_color;
-}
 
 #battery {
     animation-timing-function: linear;
@@ -175,10 +175,6 @@ window#waybar {
     color: @error_color;
 }
 
-#custom-menu {
-    padding-left: 8px;
-    padding-right: 13px;
-}
 
 #memory {
     animation-timing-function: linear;
@@ -196,17 +192,11 @@ window#waybar {
     animation-duration: 2s;
 }
 
-#mode {
-    background: @background_color;
-}
 
 #network {
-
     color: @green;
-    border-radius: 10px;
-    margin-right: 10px;
-
 }
+
 
 
 
@@ -295,8 +285,6 @@ window#waybar {
 }
 
 
-
-
 #custom-wf-recorder {
     color: @error_color;
     padding-right: 10px;
@@ -317,34 +305,31 @@ window#waybar {
     /* background-color: red; */
 }
 
+#custom-github,
+#pulseaudio {
+    color: lavender;
+}
+
+
+
 
 #battery {
     color: @green;
-    border-radius: 0 15px 15px 0;
-    padding-right: 10px;
-    margin-right: 10px;
-
 }
 
-#backlight {}
 
-#pulseaudio {
-    border-radius: 15px 0 0 15px;
-    padding-left: 10px;
+#backlight {
+    color: @red;
 }
 
-#cpu,
-#temperature,
-#memory {
-    /* background-color: green; */
-}
 
+
+#custom-weather {
+    color: #f4dbd6;
+}
 
 #memory {
     color: @sky;
-    border-radius: 0 15px 15px 0;
-    padding-right: 10px;
-    margin-right: 10px;
 }
 
 #custom-gpu,
@@ -352,8 +337,45 @@ window#waybar {
     color: @teal ;
 }
 
+#custom-bluetooth-battery,
 #cpu {
     color: @sky;
+}
+
+
+#cpu {
     border-radius: 15px 0 0 15px;
     padding-left: 10px;
+}
+
+/* left */
+#cpu,
+#custom-weather,
+#custom-sunset {
+    border-radius: 15px 0 0 15px;
+    padding-left: 10px;
+}
+
+
+/* right */
+#custom-playerctl,
+#battery,
+#memory {
+
+    border-radius: 0 15px 15px 0;
+
+    padding-right: 10px;
+
+    margin-right: 10px;
+
+}
+
+/* mid */
+
+
+/* single */
+#network {
+    border-radius: 10px;
+    margin-right: 10px;
+
 }

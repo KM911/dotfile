@@ -23,14 +23,14 @@ total = code + shell + daily + work + db + font + tool + code_tool
 
 # Personal dotfile
 Configs = ["sway", "waybar", "nushell",
-           "helix", "rofi", "yazi", "foot", "pip"]
+           "helix", "rofi", "yazi", "foot", "pip", "mako"]
 Etcs = ["/etc/environment", "~/.cargo/config.toml", "~/.wezterm.lua"]
 Scripts = [
     "/usr/bin/pp",
     "/usr/bin/time",
     "/usr/bin/bg",
     "/usr/bin/keys",
-    "/usr/bin/clean.py",
+    "/usr/bin/clean-history",
     "/etc/greetd/config.toml",
 ]
 

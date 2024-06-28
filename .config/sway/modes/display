@@ -43,6 +43,11 @@ client.focused           $sky    $base $text  $lavender $like
 
 # set float default size 
 # set footclient always float 
+
+#set $term_float footclient --app-id floating_shell --window-size-chars 82x25
+
+for_window [app_id="floating_shell"] floating enable 
+
 for_window [app_id="footclient.*"] floating enable , resize set 1200 800 
 
 for_window [app_id="org.wezfurlong.wezterm"] floating enable , resize set 1200 800 

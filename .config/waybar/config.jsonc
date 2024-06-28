@@ -1,65 +1,33 @@
-// =============================================================================
-//
 // Waybar configuration
-//
 // Configuration reference: https://github.com/Alexays/Waybar/wiki/Configuration
-//
-// =============================================================================
 {
-    // -------------------------------------------------------------------------
-    // Global configuration
-    // -------------------------------------------------------------------------
     "layer": "top",
-    // If height property would be not present, it'd be calculated dynamically
     "height": 30,
     "position": "top",
     "modules-left": [
-        // "custom/menu",
         "cpu",
         "temperature",
         "custom/gpu",
         "memory",
-        "bluetooth",
-        // "custom/scratchpad",
+        "network",
         "tray",
         "custom/sunset",
         "custom/scratchpad",
+        "custom/playerctl"
     ],
     "modules-center": [
-        // "custom/wf-recorder",
         "sway/workspaces"
-        // "custom/weather"
     ],
     "modules-right": [
-        // informational
-        // "sway/language",
-        // "sway/mode",
-        "network",
-        // "custom/github",
-        // "custom/clipboard",
-        // "custom/zeit",
-        // connecting
-        // "custom/valent",
-        // media
-        // "custom/playerctl",
-        // "custom/idle_inhibitor",
-        // "custom/dnd",
+        "custom/weather",
         "pulseaudio",
+        "custom/bluetooth-battery",
         "backlight",
-        // system
-        // "custom/adaptive-light",
-        // "custom/sunset",
-        // "custom/pacman",
         "battery",
         "clock"
     ],
-    // -------------------------------------------------------------------------
-    // Modules
-    // -------------------------------------------------------------------------
     "sway/workspaces": {
         "format": "{name}"
-        // "format": "{index}{name}"
-        // "format": "{index}"
     },
     "battery": {
         "interval": 30,
@@ -83,13 +51,6 @@
         ],
         "tooltip": true
     },
-    // "clock": {
-    //     "interval": 60,
-    //     "format": "{:%e %b %Y %H:%M}",
-    //     "tooltip": true,
-    //     "tooltip-format": "<big>{:%B %Y}</big>\n<tt>{calendar}</tt>",
-    //     "on-click": "swaymsg exec \\$calendar"
-    // },
     "clock": {
         "tooltip-format": "<tt><small>{calendar}</small></tt>",
         "calendar": {
@@ -113,12 +74,11 @@
             "on-scroll-up": "shift_up",
             "on-scroll-down": "shift_down"
         },
-        "format": " {:%a %d %b   %I:%M %p}", //12 hour format
+        "format": " {:%b %d %a   %I:%M %p}", //12 hour format
         // "format": " {:%d %m %Y  %H:%M}",	//24 hour format
-        "format-alt": "  {:%d/%m/%Y  %H:%M:%S}",
-        // //"timezones": [ "Kolkata" ],
-        // //"max-length": 200
-        "interval": 1
+        // "format-alt": "  {:%d/%m/%Y  %H:%M:%S}",
+        "format-alt": "  {:%Y/%m/%d  %H:%M:%S}",
+        "interval": 60
     },
     "custom/sunset": {
         "interval": "once",
@@ -131,7 +91,7 @@
         },
         "exec": "fallback_latitude=50.1 fallback_longitude=8.7 latitude= longitude= ~/.config/sway/scripts/sunset.sh",
         "on-click": "~/.config/sway/scripts/sunset.sh toggle",
-        "exec-if": "~/.config/sway/scripts/sunset.sh check",
+        // "exec-if": "~/.config/sway/scripts/sunset.sh check",
         "signal": 6
     },
     "cpu": {
@@ -147,13 +107,32 @@
     "custom/gpu": {
         "interval": 10,
         "format": "{}°C",
-        // "format": "󰋈 {}°C",
         "exec": "python /home/km/.config/sway/scripts/gpu.py",
         "states": {
             "warning": 70,
             "critical": 90
         },
-        // "on-click": "swaymsg exec \\$once \\$term_float nvidia-smi",
+        "on-click": "swaymsg exec \"\\$once \\$term_float watch sensors\"",
+        "tooltip": true
+    },
+    "custom/bluetooth-battery": {
+        "interval": 60,
+        "format": "{}",
+        "exec": "python /home/km/.config/sway/scripts/bluetooth-battery.py",
+        "states": {
+            "warning": 70,
+            "critical": 90
+        },
+        "tooltip": true
+    },
+    "custom/template": {
+        "interval": 60,
+        "format": "{}",
+        "exec": "python /home/km/.config/sway/scripts/bluetooth-battery.py",
+        "states": {
+            "warning": 70,
+            "critical": 90
+        },
         "tooltip": true
     },
     "memory": {
@@ -227,30 +206,13 @@
         "on-click": "swaymsg exec \"\\$once \\$term_float watch sensors\""
     },
     "tray": {
-        "icon-size": 21,
+        "icon-size": 22,
         "spacing": 5
-    },
-    "custom/pacman": {
-        "format": "󰀼 {}",
-        "interval": 3600,
-        "return-type": "json",
-        "exec-if": "~/.config/sway/scripts/checkupdates.sh check",
-        "exec": "~/.config/sway/scripts/checkupdates.sh status",
-        "on-click": "~/.config/sway/scripts/checkupdates.sh check && swaymsg exec \\$update-manager",
-        "on-click-middle": "waybar-signal pacman",
-        "signal": 14
     },
     "custom/menu": {
         "format": "",
         "on-click": "swaymsg exec \\$menu",
         "tooltip": false
-    },
-    "bluetooth": {
-        "format": "󰂯",
-        "format-disabled": "󰂲",
-        "on-click": "swaymsg exec \\$bluetooth",
-        "on-click-right": "rfkill toggle bluetooth",
-        "tooltip-format": "{}"
     },
     "sway/language": {
         "format": " {}",
@@ -269,26 +231,6 @@
         "exec": "/bin/sh ~/.config/sway/scripts/scratchpad.sh",
         "on-click": "swaymsg 'scratchpad show'",
         "signal": 7
-    },
-    "custom/wf-recorder": {
-        "interval": "once",
-        "return-type": "json",
-        "format": "{}",
-        "tooltip-format": "{tooltip}",
-        "exec": "echo '{\"class\": \"recording\",\"text\":\"󰑊\",\"tooltip\":\"press $mod+Esc to stop recording\"}'",
-        "exec-if": "pgrep wf-recorder",
-        "on-click": "waybar-signal recorder",
-        "signal": 8
-    },
-    "custom/github": {
-        "interval": 300,
-        "tooltip": false,
-        "return-type": "json",
-        "format": " {}",
-        "exec": "gh api '/notifications' -q '{ text: length }' | cat -",
-        "exec-if": "[ -x \"$(command -v gh)\" ] && gh auth status 2>&1 | grep -q -m 1 'Logged in' && test $(gh api '/notifications' -q 'length') -ne 0",
-        "on-click": "test $(gh api '/notifications' -q 'length') -ne 0 && xdg-open https://github.com/notifications && sleep 30 && waybar-signal github",
-        "signal": 4
     },
     "custom/playerctl": {
         "interval": "once",
@@ -345,76 +287,5 @@
             "ThunderySnowShowers": "",
             "VeryCloudy": ""
         }
-    },
-    "custom/zeit": {
-        "return-type": "json",
-        "interval": "once",
-        "format": "{icon}",
-        "format-icons": {
-            "tracking": "󰖷",
-            "stopped": "󰋣"
-        },
-        "exec": "~/.config/sway/scripts/zeit.sh status",
-        "on-click": "~/.config/sway/scripts/zeit.sh click; waybar-signal zeit",
-        "exec-if": "[ -x \"$(command -v zeit)\" ]",
-        "signal": 10
-    },
-    "custom/dnd": {
-        "interval": "once",
-        "return-type": "json",
-        "format": "{}{icon}",
-        "format-icons": {
-            "default": "󰚢",
-            "dnd": "󰚣"
-        },
-        "on-click": "~/.config/sway/scripts/dnd.sh toggle; waybar-signal dnd",
-        "on-click-right": "~/.config/sway/scripts/dnd.sh restore",
-        "exec": "~/.config/sway/scripts/dnd.sh status",
-        "signal": 11
-    },
-    "custom/adaptive-light": {
-        "interval": "once",
-        "tooltip": true,
-        "return-type": "json",
-        "format": "{icon}",
-        "format-icons": {
-            "on": "󰃡",
-            "off": "󰃠"
-        },
-        "exec": "~/.config/sway/scripts/wluma.sh",
-        "on-click": "~/.config/sway/scripts/wluma.sh toggle",
-        "exec-if": "~/.config/sway/scripts/wluma.sh check",
-        "signal": 12
-    },
-    "custom/valent": {
-        "format": "{icon}",
-        "tooltip": true,
-        "interval": 60,
-        "exec": "~/.config/sway/scripts/valent.py",
-        "exec-if": "[ -x \"$(command -v valent)\" ]",
-        "return-type": "json",
-        "format-icons": {
-            "no-devices": "",
-            "dangerously-empty": "󰂃",
-            "no-signal": "󰞃",
-            "connected": "",
-            "disconnected": ""
-        },
-        "on-click": "valent",
-        "on-click-middle": "waybar-signal valent",
-        "signal": 13
-    },
-    "custom/idle_inhibitor": {
-        "interval": 60,
-        "return-type": "json",
-        "format": "{icon}",
-        "format-icons": {
-            "on": "󰒳",
-            "off": "󰒲"
-        },
-        "exec": "inhibit-idle",
-        "on-click": "inhibit-idle off; inhibit-idle interactive",
-        "on-click-middle": "inhibit-idle off",
-        "signal": 15
     }
 }

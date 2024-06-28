@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 import dbus
 import json
-import logging, sys
+import logging
+import sys
 import os
 import math
 
@@ -15,7 +16,8 @@ BATTERY_PERCENTAGE_SYMBOL = ["󱃍", "󰁺", "󰁼", "󰁽", "󰁾", "󰁿", "�
 
 bus = dbus.SessionBus()
 valent_object = bus.get_object("ca.andyholmes.Valent", "/ca/andyholmes/Valent")
-valent_interface = dbus.Interface(valent_object, "org.freedesktop.DBus.ObjectManager")
+valent_interface = dbus.Interface(
+    valent_object, "org.freedesktop.DBus.ObjectManager")
 managed_objects = valent_interface.GetManagedObjects()
 
 dangerously_empty = False
@@ -33,10 +35,12 @@ for path in managed_objects:
         else "disconnected"
     )
     device["id"] = (
-        managed_objects[path].get("ca.andyholmes.Valent.Device", {}).get("Id", 0)
+        managed_objects[path].get(
+            "ca.andyholmes.Valent.Device", {}).get("Id", 0)
     )
     device["name"] = (
-        managed_objects[path].get("ca.andyholmes.Valent.Device", {}).get("Name", 0)
+        managed_objects[path].get(
+            "ca.andyholmes.Valent.Device", {}).get("Name", 0)
     )
 
     device_obj = bus.get_object("ca.andyholmes.Valent", path)
@@ -86,7 +90,8 @@ tooltip = []
 for device in devices:
     battery_symbol = math.ceil(round(device["battery_percentage"] / 10, 0))
     details = (
-        f"\t{CONNECTIVITY_STRENGTH_SYMBOL[device['connectivity_strength']]} {BATTERY_PERCENTAGE_SYMBOL[battery_symbol]} {device['battery_percentage']}% ({device['battery_status']})"
+        f"\t{CONNECTIVITY_STRENGTH_SYMBOL[device['connectivity_strength']]} {
+            BATTERY_PERCENTAGE_SYMBOL[battery_symbol]} {device['battery_percentage']}% ({device['battery_status']})"
         if device["state"] == "connected"
         else ""
     )
