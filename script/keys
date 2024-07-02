@@ -10,3 +10,4 @@ if [ $(ps -ef | grep wshowkeys | grep -v grep | wc -l) -gt 0 ]; then
     killall wshowkeys
 else
     wshowkeys -a bottom -m 5 &
+fi

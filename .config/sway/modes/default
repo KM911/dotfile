@@ -1,0 +1,44 @@
+set {
+  $mod Mod4
+  $term    wezterm
+  $term_id org.wezfurlong.wezterm
+#   $oterm    alacritty --class oterm
+#   $oterm_id oterm
+#   $editor_id emacs_float
+#   $editor    emacs --name $editor_id
+  $t_pos border none, move position center, resize set width 1200 px height 800 px
+}
+# focus_on_window_activation focus
+# focus_follows_mouse always
+for_window {
+  # main terminal
+  [app_id=$term_id] {
+    move to scratchpad
+    [app_id=$term_id] scratchpad show
+    $t_pos
+  }
+#   # backup terminal
+#   [app_id=$oterm_id] {
+#     move to scratchpad
+#     [app_id=$oterm_id] scratchpad show
+#     $t_pos
+#   }
+#   # emacs
+#   [app_id=$editor_id] {
+#     move to scratchpad
+#     [app_id=$editor_id] scratchpad show
+#     $t_pos
+#   }
+}
+
+bindsym --to-code {
+  # Scratchpad bindsym
+  ## Main terminal
+  $mod+p          exec swaymsg [app_id=$term_id]   scratchpad show || exec $term ,  $t_pos
+  ## backup terminal
+#   $mod+F1      exec swaymsg [app_id=$oterm_id]  scratchpad show || exec $oterm,  $t_pos
+#   ## editor
+#   $mod+x       exec swaymsg [app_id=$editor_id] scratchpad show || exec $editor, $t_pos
+}
+# exec $term
+

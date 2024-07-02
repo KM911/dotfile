@@ -9,11 +9,11 @@
         "temperature",
         "custom/gpu",
         "memory",
-        "network",
         "tray",
         "custom/sunset",
         "custom/scratchpad",
-        "custom/playerctl"
+        "custom/playerctl",
+        "network"
     ],
     "modules-center": [
         "sway/workspaces"
@@ -86,12 +86,12 @@
         "return-type": "json",
         "format": "{icon}",
         "format-icons": {
-            "on": "Night  ",
-            "off": "Sun  "
+            "on": "🌠",
+            "off": "🌈"
         },
         "exec": "fallback_latitude=50.1 fallback_longitude=8.7 latitude= longitude= ~/.config/sway/scripts/sunset.sh",
         "on-click": "~/.config/sway/scripts/sunset.sh toggle",
-        // "exec-if": "~/.config/sway/scripts/sunset.sh check",
+        "exec-if": "~/.config/sway/scripts/sunset.sh check",
         "signal": 6
     },
     "cpu": {
@@ -113,7 +113,7 @@
             "critical": 90
         },
         "on-click": "swaymsg exec \"\\$once \\$term_float watch sensors\"",
-        "tooltip": true
+        "tooltip": false
     },
     "custom/bluetooth-battery": {
         "interval": 60,
@@ -164,9 +164,13 @@
     "backlight": {
         "format": "{icon} {percent}%",
         "format-icons": [
-            "󰃞",
-            "󰃟",
-            "󰃠"
+            "🌚",
+            "🌑",
+            "🌒",
+            "🌓",
+            "🌔",
+            "🌕",
+            "🌞"
         ],
         "on-scroll-up": "swaymsg exec \\$brightness_up",
         "on-scroll-down": "swaymsg exec \\$brightness_down"
@@ -193,26 +197,22 @@
         "on-scroll-down": "swaymsg exec \\$volume_down"
     },
     "temperature": {
-        "critical-threshold": 90,
+        "critical-threshold": 80,
         "interval": 5,
         "format": "{icon} {temperatureC}°C",
-        "tooltip-format": "{temperatureC}°C",
         "format-icons": [
-            "",
-            "",
-            ""
+            "🥶",
+            "🥱",
+            "😅",
+            "🥵",
+            "😡"
         ],
-        "tooltip": true,
+        "tooltip": false,
         "on-click": "swaymsg exec \"\\$once \\$term_float watch sensors\""
     },
     "tray": {
         "icon-size": 22,
         "spacing": 5
-    },
-    "custom/menu": {
-        "format": "",
-        "on-click": "swaymsg exec \\$menu",
-        "tooltip": false
     },
     "sway/language": {
         "format": " {}",
@@ -225,10 +225,13 @@
         "return-type": "json",
         "format": "{icon}",
         "format-icons": {
-            "one": "󰖯",
-            "many": "󰖲"
+            // alt, class , 的这里就会改变, 然后有不同的效果, 这里就是一个大的map, 我比较对见
+            "0": "😘",
+            "1": "😭",
+            "2": "😅",
+            "3": "😡"
         },
-        "exec": "/bin/sh ~/.config/sway/scripts/scratchpad.sh",
+        "exec": "~/.config/sway/scripts/scratchpad.py",
         "on-click": "swaymsg 'scratchpad show'",
         "signal": 7
     },
@@ -238,8 +241,12 @@
         "return-type": "json",
         "format": "{icon}",
         "format-icons": {
-            "Playing": "󰏦",
-            "Paused": "󰐍"
+            // 💽
+            // 128189	💾
+            // 128190	💿
+            // 128191	📀
+            "Playing": "💿",
+            "Paused": "💾"
         },
         "exec": "playerctl metadata --format '{\"alt\": \"{{status}}\", \"tooltip\": \"{{playerName}}:  {{markup_escape(title)}} - {{markup_escape(artist)}}\" }'",
         "on-click": "playerctl play-pause",

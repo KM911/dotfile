@@ -1,5 +1,1120 @@
 {
-    "text": "29\u00b0C",
-    "alt": "PartlyCloudy",
-    "tooltip": "Weather in <b>Wuhan</b>:\n<b>Partly cloudy 25\u00b0C</b>\nFeels like: 29\u00b0C\nWind: 15km/h\nHumidity: 83%\n\n<b>Today, 2024-06-27</b>\n\u2b06\ufe0f 22\u00b0C \u2b07\ufe0f 21\u00b0C \ud83c\udf05 05:23 AM \ud83c\udf07 07:30 PM\n18 \ud83c\udf2b 22\u00b0C Mist, Overcast 94%, Rain 100%\n21 \ud83c\udf2b 22\u00b0C Mist, Overcast 94%, Sunshine 5%\n\n<b>Tomorrow, 2024-06-28</b>\n\u2b06\ufe0f 24\u00b0C \u2b07\ufe0f 22\u00b0C \ud83c\udf05 05:23 AM \ud83c\udf07 07:30 PM\n00 \ud83c\udf2b 22\u00b0C Mist, Overcast 82%, Rain 84%\n03 \ud83c\udf26 22\u00b0C Light rain, Overcast 89%, Rain 100%\n06 \ud83c\udf27 22\u00b0C Heavy rain, Overcast 90%, Rain 100%\n09 \ud83c\udf26 25\u00b0C Light rain, Overcast 85%, Rain 100%\n12 \ud83c\udf26 26\u00b0C Light rain shower, Overcast 92%, Rain 100%\n15 \ud83c\udf26 26\u00b0C Light drizzle, Overcast 93%, Rain 100%\n18 \ud83c\udf26 26\u00b0C Patchy rain nearby, Overcast 89%, Rain 100%\n21 \ud83c\udf26 26\u00b0C Patchy light drizzle, Overcast 84%, Rain 100%\n\n<b>2024-06-29</b>\n\u2b06\ufe0f 25\u00b0C \u2b07\ufe0f 23\u00b0C \ud83c\udf05 05:24 AM \ud83c\udf07 07:30 PM\n00 \ud83c\udf26 26\u00b0C Light rain shower, Overcast 84%, Rain 100%\n03 \ud83c\udf26 26\u00b0C Light rain, Overcast 91%, Rain 100%\n06 \ud83c\udf26 26\u00b0C Light rain shower, Overcast 92%, Rain 100%\n09 \ud83c\udf27 27\u00b0C Moderate rain, Overcast 87%, Rain 100%\n12 \ud83c\udf27 26\u00b0C Heavy rain, Overcast 94%, Rain 100%\n15 \ud83c\udf26 26\u00b0C Light drizzle, Overcast 82%, Rain 100%\n18 \ud83c\udf26 28\u00b0C Patchy rain nearby, Overcast 94%, Rain 100%\n21 \ud83c\udf2b 27\u00b0C Mist, Overcast 88%, Rain 72%\n"
+  "id": 1,
+  "type": "root",
+  "orientation": "horizontal",
+  "percent": null,
+  "urgent": false,
+  "marks": [],
+  "focused": false,
+  "layout": "splith",
+  "border": "none",
+  "current_border_width": 0,
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 1920,
+    "height": 1080
+  },
+  "deco_rect": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "window_rect": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "name": "root",
+  "window": null,
+  "nodes": [
+    {
+      "id": 2147483647,
+      "type": "output",
+      "orientation": "horizontal",
+      "percent": null,
+      "urgent": false,
+      "marks": [],
+      "focused": false,
+      "layout": "output",
+      "border": "none",
+      "current_border_width": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "deco_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "window_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "__i3",
+      "window": null,
+      "nodes": [
+        {
+          "id": 2147483646,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "__i3_scratch",
+          "window": null,
+          "nodes": [],
+          "floating_nodes": [
+            {
+              "id": 121,
+              "type": "floating_con",
+              "orientation": "none",
+              "percent": null,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "pixel",
+              "current_border_width": 2,
+              "rect": {
+                "x": 483,
+                "y": 185,
+                "width": 948,
+                "height": 760
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 2,
+                "y": 2,
+                "width": 944,
+                "height": 756
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 696,
+                "height": 486
+              },
+              "name": "~",
+              "window": null,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 5526,
+              "app_id": "f-2",
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xdg_shell",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              }
+            },
+            {
+              "id": 125,
+              "type": "floating_con",
+              "orientation": "none",
+              "percent": null,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "pixel",
+              "current_border_width": 2,
+              "rect": {
+                "x": 483,
+                "y": 185,
+                "width": 948,
+                "height": 760
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 2,
+                "y": 2,
+                "width": 944,
+                "height": 756
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 696,
+                "height": 486
+              },
+              "name": "~",
+              "window": null,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 5526,
+              "app_id": "f-1",
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xdg_shell",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              }
+            }
+          ],
+          "focus": [
+            125,
+            121
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false
+        }
+      ],
+      "floating_nodes": [],
+      "focus": [
+        2147483646
+      ],
+      "fullscreen_mode": 0,
+      "sticky": false
+    },
+    {
+      "id": 3,
+      "type": "output",
+      "orientation": "none",
+      "percent": 1.0,
+      "urgent": false,
+      "marks": [],
+      "focused": false,
+      "layout": "output",
+      "border": "none",
+      "current_border_width": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "deco_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "window_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "eDP-2",
+      "window": null,
+      "nodes": [
+        {
+          "id": 71,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 51,
+            "width": 1920,
+            "height": 1029
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "1: ‭‬ ",
+          "window": null,
+          "nodes": [
+            {
+              "id": 133,
+              "type": "con",
+              "orientation": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "pixel",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 51,
+                "width": 1920,
+                "height": 1029
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1029
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1029
+              },
+              "name": "Huge List of Unicode Character Symbols - Google Chrome",
+              "window": 39845892,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 72970,
+              "app_id": null,
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xwayland",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              },
+              "window_properties": {
+                "class": "Google-chrome",
+                "instance": "google-chrome",
+                "title": "Huge List of Unicode Character Symbols - Google Chrome",
+                "transient_for": null,
+                "window_role": "browser",
+                "window_type": "normal"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            133
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 1,
+          "output": "eDP-2",
+          "representation": "H[Google-chrome]"
+        },
+        {
+          "id": 128,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 51,
+            "width": 1920,
+            "height": 1029
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "2: ‭‬ ",
+          "window": null,
+          "nodes": [
+            {
+              "id": 132,
+              "type": "con",
+              "orientation": "horizontal",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "splith",
+              "border": "none",
+              "current_border_width": 0,
+              "rect": {
+                "x": 0,
+                "y": 51,
+                "width": 1920,
+                "height": 1029
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "name": null,
+              "window": null,
+              "nodes": [
+                {
+                  "id": 129,
+                  "type": "con",
+                  "orientation": "none",
+                  "percent": 1.0,
+                  "urgent": false,
+                  "marks": [],
+                  "focused": false,
+                  "layout": "none",
+                  "border": "pixel",
+                  "current_border_width": 2,
+                  "rect": {
+                    "x": 0,
+                    "y": 51,
+                    "width": 1920,
+                    "height": 1029
+                  },
+                  "deco_rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  },
+                  "window_rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 1029
+                  },
+                  "geometry": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1916,
+                    "height": 1025
+                  },
+                  "name": "sway - Notebook - Obsidian v1.6.5",
+                  "window": 50331651,
+                  "nodes": [],
+                  "floating_nodes": [],
+                  "focus": [],
+                  "fullscreen_mode": 0,
+                  "sticky": false,
+                  "pid": 72419,
+                  "app_id": null,
+                  "visible": false,
+                  "max_render_time": 0,
+                  "shell": "xwayland",
+                  "inhibit_idle": false,
+                  "idle_inhibitors": {
+                    "user": "none",
+                    "application": "none"
+                  },
+                  "window_properties": {
+                    "class": "obsidian",
+                    "instance": "obsidian",
+                    "title": "sway - Notebook - Obsidian v1.6.5",
+                    "transient_for": null,
+                    "window_role": "browser-window",
+                    "window_type": "normal"
+                  }
+                }
+              ],
+              "floating_nodes": [],
+              "focus": [
+                129
+              ],
+              "fullscreen_mode": 0,
+              "sticky": false
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            132
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 2,
+          "output": "eDP-2",
+          "representation": "H[H[obsidian]]"
+        },
+        {
+          "id": 62,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 51,
+            "width": 1920,
+            "height": 1029
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "3: ‭‬ ",
+          "window": null,
+          "nodes": [
+            {
+              "id": 63,
+              "type": "con",
+              "orientation": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "pixel",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 51,
+                "width": 1920,
+                "height": 1029
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1029
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1029
+              },
+              "name": "vercanium - Visual Studio Code",
+              "window": 27262980,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 14500,
+              "app_id": null,
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xwayland",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              },
+              "window_properties": {
+                "class": "Code",
+                "instance": "code",
+                "title": "vercanium - Visual Studio Code",
+                "transient_for": null,
+                "window_role": "browser-window",
+                "window_type": "normal"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            63
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 3,
+          "output": "eDP-2",
+          "representation": "H[Code]"
+        },
+        {
+          "id": 76,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 51,
+            "width": 1920,
+            "height": 1029
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "4: ‭‬ ",
+          "window": null,
+          "nodes": [
+            {
+              "id": 77,
+              "type": "con",
+              "orientation": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "pixel",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 51,
+                "width": 1920,
+                "height": 1029
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1029
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1024,
+                "height": 768
+              },
+              "name": "clean-history - dotfile - Visual Studio Code",
+              "window": 27262992,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 14500,
+              "app_id": null,
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xwayland",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              },
+              "window_properties": {
+                "class": "Code",
+                "instance": "code",
+                "title": "clean-history - dotfile - Visual Studio Code",
+                "transient_for": null,
+                "window_role": "browser-window",
+                "window_type": "normal"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            77
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 4,
+          "output": "eDP-2",
+          "representation": "H[Code]"
+        },
+        {
+          "id": 119,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 51,
+            "width": 1920,
+            "height": 1029
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "5: ‭‬ ",
+          "window": null,
+          "nodes": [
+            {
+              "id": 120,
+              "type": "con",
+              "orientation": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "pixel",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 51,
+                "width": 1920,
+                "height": 1029
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1029
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1024,
+                "height": 768
+              },
+              "name": "config.jsonc - waybar - Visual Studio Code",
+              "window": 27263018,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 14500,
+              "app_id": null,
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xwayland",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              },
+              "window_properties": {
+                "class": "Code",
+                "instance": "code",
+                "title": "config.jsonc - waybar - Visual Studio Code",
+                "transient_for": null,
+                "window_role": "browser-window",
+                "window_type": "normal"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            120
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 5,
+          "output": "eDP-2",
+          "representation": "H[Code]"
+        },
+        {
+          "id": 56,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 51,
+            "width": 1920,
+            "height": 1029
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "6: ‭‬ ",
+          "window": null,
+          "nodes": [
+            {
+              "id": 123,
+              "type": "con",
+              "orientation": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": true,
+              "layout": "none",
+              "border": "pixel",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 51,
+                "width": 1920,
+                "height": 1029
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1029
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1024,
+                "height": 768
+              },
+              "name": "scratchpad.py - sway - Visual Studio Code",
+              "window": 27263024,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 14500,
+              "app_id": null,
+              "visible": true,
+              "max_render_time": 0,
+              "shell": "xwayland",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              },
+              "window_properties": {
+                "class": "Code",
+                "instance": "code",
+                "title": "scratchpad.py - sway - Visual Studio Code",
+                "transient_for": null,
+                "window_role": "browser-window",
+                "window_type": "normal"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            123
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 6,
+          "output": "eDP-2",
+          "representation": "H[Code]"
+        }
+      ],
+      "floating_nodes": [],
+      "focus": [
+        56,
+        119,
+        76,
+        62,
+        128,
+        71
+      ],
+      "fullscreen_mode": 0,
+      "sticky": false,
+      "primary": false,
+      "make": "BOE",
+      "model": "0x0957",
+      "serial": "Unknown",
+      "modes": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 120018,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 96001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 72001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 60009,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 50013,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 48000,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 47998,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1680,
+          "height": 1050,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1280,
+          "height": 1024,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1440,
+          "height": 900,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1280,
+          "height": 800,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1280,
+          "height": 720,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 1024,
+          "height": 768,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "refresh": 144001,
+          "picture_aspect_ratio": "none"
+        }
+      ],
+      "non_desktop": false,
+      "active": true,
+      "dpms": true,
+      "power": true,
+      "scale": 1.0,
+      "scale_filter": "nearest",
+      "transform": "normal",
+      "adaptive_sync_status": "disabled",
+      "current_workspace": "6: ‭‬ ",
+      "current_mode": {
+        "width": 1920,
+        "height": 1080,
+        "refresh": 50013,
+        "picture_aspect_ratio": "none"
+      },
+      "max_render_time": 0
+    }
+  ],
+  "floating_nodes": [],
+  "focus": [
+    3
+  ],
+  "fullscreen_mode": 0,
+  "sticky": false
 }

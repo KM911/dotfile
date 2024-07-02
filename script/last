@@ -1,0 +1,11 @@
+#! /home/km/Templates/python/venv/bin/python
+
+
+import pyperclip
+file = open("/home/km/.config/nushell/history.txt", "r")
+lines = file.readlines()
+file.close()
+
+# 获取最后一行复制到剪贴板
+pyperclip.copy(lines[-1])
+print(lines[-1])

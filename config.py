@@ -45,3 +45,11 @@ def ListToDict(x):
 
 EtcDict = ListToDict(Etcs)
 ScriptsDict = ListToDict(Scripts)
+
+
+# sudo pacman -Sy fcitx5-im fcitx5-chinese-addons fcitx5-configtool
+
+#  "registry-mirrors": [
+#     "https://hub-mirror.c.163.com",
+#     "https://mirror.baidubce.com"
+#   ]

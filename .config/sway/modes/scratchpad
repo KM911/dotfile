@@ -7,9 +7,16 @@
 ## Action // Move window to scratchpad ##
 #$bindsym $mod+Shift+p move scratchpad, exec "waybar-signal scratchpad"
 #  [app_id="r_scratchpad"]
-$bindsym $mod+p             exec ~/.config/sway/scripts/suckless.sh f-1, exec 'swaymsg [app_id="f-1"] scratchpad show' , exec "waybar-signal scratchpad"
-$bindsym $mod+bracketleft   exec ~/.config/sway/scripts/suckless.sh f-2, exec 'swaymsg [app_id="f-2"] scratchpad show' , exec "waybar-signal scratchpad"
-$bindsym $mod+bracketright  exec ~/.config/sway/scripts/suckless.sh f-3, exec 'swaymsg [app_id="f-3"] scratchpad show' , exec "waybar-signal scratchpad"
+
+# org.wezfurlong.wezterm
+
+# $bindsym $mod+p             exec ~/.config/sway/scripts/suckless.sh f1, exec 'swaymsg [app_id="f1"] scratchpad show' , exec "waybar-signal scratchpad"
+
+# $bindsym $mod+p exec ~/.config/sway/scripts/wezterm.sh
+
+# $bindsym $mod+p             exec ~/.config/sway/scripts/suckless.sh f1, exec 'swaymsg [app_id="f1"] scratchpad show' , exec "waybar-signal scratchpad"
+# $bindsym $mod+bracketleft   exec ~/.config/sway/scripts/suckless.sh f2, exec 'swaymsg [app_id="f2"] scratchpad show' , exec "waybar-signal scratchpad"
+# $bindsym $mod+bracketright  exec ~/.config/sway/scripts/suckless.sh f3, exec 'swaymsg [app_id="f3"] scratchpad show' , exec "waybar-signal scratchpad"
 
 $bindsym $mod+m             exec ~/.config/sway/scripts/spotify.sh  , exec 'swaymsg [class="Spotify"] scratchpad show' , exec "waybar-signal scratchpad" 
 

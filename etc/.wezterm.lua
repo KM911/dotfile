@@ -6,7 +6,7 @@ local config = wezterm.config_builder()
 -- This is where you actually apply your config choices
 
 -- For example, changing the color scheme:
-config.color_scheme = "Darcula"
+--config.color_scheme = "Darcula"
 
 -- set active tab color as #40e0f0
 -- config

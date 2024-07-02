@@ -1,761 +1,89 @@
-journalctl  -xeu sway
-git fetch remote origin:master
-yay pot player
-cargo check 
-cd Documents/
-vim gpu.py
-a.out
-docker exec -it mysql0 /bin/bash
-vdfuse master.rar
-makoctl reload
-echo "cat /sys/class/hwmon/hwmon6/temp1_input" | wl-copy
-systemctl  status sway-service
-wshowkeys -a left -m 500
-mvn 
-mysql -h 127.0.0.1 -u root -p
-lsc
-useless
-vdfuse  -t vmdk master-cl1-s001.vmdk
-rm Manjaro.rasi
-cat ~/.config/nushell/history.txt
-cd proxy
-git switch master 
-nu --help
-cd /sys
-docker container cp ./data.sql mysql:/data/data.sql
-git fetch origin master
-github-desktop 
-cat mysql.sock
-cargo init pingora-proxy 
-start 2024-06-28-16-04-22.png
-yay --noconfirm  -S motrix
-ps | where mem > 100Mib
-curl localhost:8082/yangjun/index.html
-cd share
-ps | where name =~ "baidu"
-yay --noconfirm  -S htim-bin
-touch lib_b.c
-cd Obsidian/
-notify-send 'Hello world!' 'This is an example notification.' -u normal
-cp -r template/ ./conditional_compiler
-git clone --depth=1 https://github.com/gin-gonic/gin.git
-cd pingora-reverse-proxy/
-mkdir tofi
-docker ps 
-cp /home/km/code/github/dotfiles/mako/config ./config
-./clean-history
-ext
-nice
-gcc -c lib_b.c
-rm *.out
-fd c
-yay 
-docker volume list
-cd cmd
-cd docker/
-pkill sway 
-cd target
-docker ps -a
-echo "docker run --mount source=data,target=/ -v /etc/redis:/etc/redis redis:alpine" | wl-copy 
-yay --noconfirm  -S cling-bin
-yay --noconfirm  wscreenkey
-mysql -h 172.39.1.2 -u root -p 
-cd obsidian-execute-code-c-support/
-weye --help
-./hotpot 
-yay --noconfirm  wscreenkey-git
-rm -rf obsidian-execute-code-enhancement/
-yay --noconfirm  display keys 
-git fetch --help
-haruna 
-yay --noconfirm  wf-osk
-showmethekey-gtk 
-2to3 --help
-cd docker/volumes
-./args
-java -jar 1.jar
-java
-cd /media
-cd code
-gh api '/notifications' -q '{ text: length }' | cat -
-cd sway/
-chmod +x bluetooth-battery.py
-gcc lib_a.c -o liba.o
+rm history*
+ls
+yay bandwhich
+bandwhich
+sudo bandwhich
+ls
+swaymsg  -t get_tree
 cd scripts/
-weye
-ps | where name =~ "wezterm"
-yay --noconfirm kvm
-makoctl 
-yay vmare
-tar -xf 第10章代码.rar
-cd mysql/
-which at
-gh login
-nwg-wrapper 
-go mod tidy
-go build 
-fd jpg 
-cd rust
-git rebase master 
-curl localhost:8082/yangjun/newsIndex
-cp -r template/ ./time
-cd script
-cd sway
-event
-curl localhost:8080/ping
-vim sway.service
-ops
-git stash 
-go --help
-yay baidu 
-mv springboot01 ~/work
-vdfuse -r master-cl1-s001.vmdk
-cd class
-history 
-cd systemd/
-bluetoothctl  info
-./zeit.sh google
-rm xx.jar
-screenkey  
-./valent.py
-hotpot e go run main.go 
-cd golang.org/
-suckless
-docker container cp data.sql mysql:/data/data.sql
-./venv/bin/pip install rich 
-fd 127
-docker ps -a 
-usbreset 001
-cd ../rofi/
-kls
-clash-verge
-/usr/lib64/baidunetdisk/baidunetdisk
-lss
-cd foot
-cd mako
-sudo screenkey 
-docker images 
-./bin
-vim foot-theme.ini~
-man swappy
-cd -
-sudo rm /usr/bin/clean.py
-reboot 
-cd gin/
-cd hello
-go clean -cache
-giui
-wofi -durn
-yay --noconfirm  htop
-yay vmware
-docker volume create data
-cat /usr/bin/clean.py
-curl localhost:8082/yangjun
-cd devices/
-git branch -a
-rmdir jarr/
-which as
-makectl reload
-docker run -d -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysql5 mysql:5.7
-git clone --depth=1 https://github.com/randommm/pingora-reverse-proxy.git
-:q
-notify-send --help
-cd events/
-code bookmarks_6_27_24.html
-redis-cli -h 172.39.1.2
-cd swayppy
-redis-cli -h 172.39.1.3
-docker exec -it mysql /bin/bash
-curl localhost:8082/yangjun/live/liveScreen
-cd usr
-history
-cp -r template/ ./cmd
-docker start mysql 
-cd code/go
-sudo su
-yay -Ru wf-osk
-sudo mv clean.py /usr/bin/clean.py
-docker container cp --help
-yay -Ru wf-osk-git
-cat Makefile | wl-copy
-mysql
-pip 
-mnv 
-pwd 
-yay -Runc virtualbox
-go
-nwg-wrapper  --help
-pwd
-java =v
-code .
-cd swappy/
-ls mysql.sock
-clash
-dbus
-gcc -o a.out main.o lib_a.o
-tofi-drun
-vim windows11.rasi
-which md5sum
-cd obsidian-exeucte-code-enhancement/
-vdfuse -r ./master-cl1-s001.vmdk
-cd rofi
-cargo 
-cd org
-vim clean.py
-cd Screenshots/
-z work
-cd /usr
-git fetch remote origin/master 
-docker stop mysql
-ls -l /usr/bin/python
-chmod +x *
-go run . 
-swayppy
-cd obsidian-execute-code-enhancement/
-vim config.nu
-docker stop mysql5
-curl localhost:8081/yangjun/liveScreen
-mvn
-clean
-qps
-wob.sh
-cd manjaro/
-git fetch remotes master 
-sudo bg 1panel
-git fetch origin:master 
-mv code-flags.conf back_code-flags.conf
-cat cpumask
-rm -rf obsidian-exeucte-code-enhancement/
-git fetch remote origin:master 
-mkdir mako
-cd amd_iommu_0/
-go clean cache
-./keys
-cd conditional_compiler/
-rm xxx.jar
-	fmt.Printf("time.Now().UTC(): %v\n", time.Now().UTC())<\n>
-fd export
-pactl set-sink-volume 
-gin
-pp gpu.py
-echo "cat /sys/class/hwmon/hwmon6/temp1_input" | sed "{3}$"
-go mod tid y
-r
-cd km
-ll mysql.sock
-cd time
-cd .confgi
-mpv
-go run -tags default .
-docker start mysql4
-go 
-cd bin
-pkexec showmethekey-gtk 
-cd 最终集群/
-docker run -d -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysql0 mysql:8.0 
-cd rember/
-./weather.py
-cd /etc/redis/
-docker run --mount source=data,target=/ -v /etc/redis:/etc/redis redis:alpine 
-cd ..
-git fetch remotes origin/master 
-cd hwmon6
-git push
-go run main.go
-git fetch remote  origin/master
-vim config.rasi
-git fetch remote  origin:master
-ps 
-cd wayland-event/
-go build -o args
 ls
-go run -tags debug . 
-inxi -G
-cd tools
-clean 
-pkill mako
-lll
-cd data
-wyabr
-makectl --help
-eixt
-z 
-usbmuxd 
-sudo screenkey
-ps | where name =~ "foot"
-yay at
-yay wf-osk
-hl
-which python 
-docker volume create --help
-vim .wezterm.lua
-sys | mem 
-nothing could be better than your wezterm
-ls at
-tofi-run 
-clean-history
-pactl info
-/usr/bin/env
-./clean-histroy
-bash 
-gcc main.c -L liba.o
-fastfetch
-exit
-mvn install 
-ps | where name =~ "bai"
-z rust
-usb-devices 
-moniters
-get current shell titile 
-cp ./config /home/km/.config/tofi/config
-foot
-ps -l | where name =~ "tofi"
-nice 
-cd huffman
-sudo showmethekey-cli 
-faillock 
-top
-gcc lib_a.c
-tofi-drun 
-cd mod
-cd slave2/
-yay video palyer 
-docker --help
-fd go
-vim code-flags.conf
-notify-send 'Hello world!' 'This is an example notification.' -u normal<\n>
-usbreset help
-docker run -d -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysql mysql:8.0
-gcc lib_a.c -c -o liba.o
-/usr/bin/env pyhotn
-make clean
-cat history.txt
-git switch master
-usbreset --help
-tar -zx 第10章代码.rar
-cd targe
-cat /usr/bin/clean
-cd Desktop/
-clang main.c
-make clean 
-vim /etc/redis/redis.conf
-tofi --help
-curl localhost:8082/yangjun/liveScreen
-xargs --help
-cd fish
-sudo ./useless.sh
-makectl 
-vim redis.conf
-yay --noconfirm  qps
-docker vo
-git switch develop
-pactl set-sink-volume
-docker start redis 
-export https_proxy=127.0.0.1:8080
-./zeit.sh nu
-gcc -c lib_a.c
-git fetch origin master 
-swappy -o test.png
-gh
-wofi
-showmethekey-cli 
-cd p
-git fetch remote master 
-cd  code/go
-cd .cache
-/usr/lib64/baidunetdisk/baidunetdisk --help
-yay --noconfirm -S firefox
-yay -R wf-osk
-cd  code
-curl localhost:8082/yangjun/news
-cd util_test/
-git init
-chmod +x useless.sh
-fd sway
-cd src
-gcc -c main.c
-./gpu.py
-tar --help
-tofi --drun --help
-yay kvm 
-wshowkeys -a left|bottom
-vim dark.rasi
-which pip
-pkexec shwomethekey-gtk
-~/.config/sway/scripts/sunset.sh check
-sudo rm -rf * 
-cd resources/
-cd /etc/sysctl.d/
-tofi -durn 
-./clena-yay
-cat /sys/class/hwmon/hwmon6/temp1_input
-keys
-sudo cp ./clean-yay /usr/bin/clean-yay 
-rm -rf context_done/
-tree /home/km/code/go/temmplate
-fd time
-cd. .
-notify-send 'Hello world!' 'This is an example notification.' -u 
-z config.nu
-echo "cat /sys/class/hwmon/hwmon6/temp1_input" | sed '/.{3}$//' 
-usbreset  05e3:0620
-cd desktop-directories/
-md5sum --help
-sudo useless
-ls -l as
-cd jarr/
-cd .config
-/usr/bin/env python
-journalctl  --help
-yay --noconfirm  baidu 
-km
-yay qbit
-cd nushell
-git fetch remote/origin/master
-gcc main.c
-ps -l | where name =~ "bai"
-redis-cli 
-fcitx
-sudo showmethekey-gtk
-~/.config/sway/scripts/help.sh
-cd hwmon/
-./b.out
-applications/
-pactl
-/usr/bin/python valent.py
-rm a.out
-yay --noconfirm  -S bashtop
-start .
-makoctl
-fish 
-cd nushell/
-swappy
-yay vmdk
-rm *.xlsx
-systemctl  status sway
-cd Downloads/
-yay python dbug
-footclient --help
-cd springboot01-1.0-SNAPSHOT/
-python back.py
-ps  | where mem > 100Mib
-hotpot e go run main.go
-rm -rf Obsidian/
-fd jpg -x echo {/}
-args
-screenkey  --help
-go run main.go hello.go 
-docker container cp ./data.sql mysql:/var/data.sql
-cd main
-gitui
-pactl set-sink-volume +1
-hotpot 
-~/.config/sway/scripts/help.sh  --help
-ps
-./zeit.sh
-cd /run/media/km/OS
-waybar
-curl localhost:8080ping
-gcc main.c 
-history  | get 16  
-yay SMPlayer
-fish
-git stash
-cd env
-pacman -Qdt<\n>
-tofi --drun 
-mako --help
-false 
-./weather.py | save -f test.log
-python clean.py
-start Screenshot-km@2024628164.png
-yay baiduyun
-chmod +x /usr/bin/useless.sh
-cd 
-helo
-./clena-history
-z github
-vim foot.ini
-docker start mysql5
-git push 
-tofi-drun --show-icons
-vmware
-go mod init test
-fd jpg -x cp {} ./{/}
-wofi -drun
-sudo cp -l ./useless.sh /usr/bin/useless.sh
-cd pingora-proxy/
-cd user
-cd static/
-docker images
-git push -f 
-cat config.toml.example
-fd jpg
-vim config
-bashtop
-git commit -m "init repo"
-which mako
-z nushell
-fd jpg -x echo {.}
-go run mai.go
-z keys
-vdfuse master-cl1-s001.vmdk
-cargo build 
-cd time@v0.0.0-20210723032227-1f47c861a9ac/
-cargo sync 
-journalctl 
-sudo rm  /usr/bin/useless.sh 
-notify-send 'Hello world!' 'This is an example notification.' -u critical
-fd  c -x mv {} ./c/{}
-git fetch origin origin/master
-fd jpg -x echo cp {} {/}
-rm *.png
-rm -rf config/
-fd 127 -x rm {}
-tree /home/km/code/go/template/
-cat uevent
-tar -exf 第10章代码.rar
-go version
-curl localhost:8080
-vim sunset.sh
-ls -l mysql.sock
-sudo useless.sh
-jar cf0M xxx.jar *<\n>
-ls /usr/bin/bg
-yay --noconfirm -S smplayer
-cd dotfiles/
-/usr/bin/python
-vdfuse -t vmdk master.rar
-swappy --helo
-history  | get 16  | get command 
-l
-usbreset  05e3:0620v
-yay gh
-rember 
-fd jpg -x echo cp {} ./{/}
-~/.config/sway/scripts/help.sh --toggle
-screenkey 
-useless.sh
-code
-screenkey  -d
-vim mkinitcpio.conf
-cat wezterm.sh
-nice but 
-./a.out hello
-cat config
-docker container prune
-hello 
-pp code
-88 / 90
-~/.config/sway/scripts/sunset.sh toggle
-cd play
-./venv/bin/python back.py
-fd runtime
-cd /etc
-gcc -o b.out main.o lib_b.o
-yay cling
-pactl set-sink-volume @DEFAULT_SINK@
-tar -zxvf 第10章代码.rar
-pactl --help
-rm config.rasi
-cd java
-his
-yay firefox 
-cargo check
-jar cf0M xxx.jar *
-cd work
-yay --noconfirm  screenkey
-pp
-shutdown -h 
-cd desktop
-go run main.go default.go
-cd mako/
-git stash pop 
-./clean.py
-gcc  -L libb.o main.c  -o a.out
-yay --noconfirm  haruna
-gtop
-clena 
-git fetch origin:master
-nvtop
-yay player
-/bin/pythondef get_device_temp(src: str) -> str:
-./useless.sh
-sensors
-java --v
-touch clean.py
-cd KM911/obsidian-execute-code-c-support/
-./a.out
-echo "cat /sys/class/hwmon/hwmon6/temp1_input" | sed "/.{3}$//"
-git fetch:origin master
-history  | get 16  | get command  | wl-copy
-usbreset 
-z go
-./suckless.sh
-makoctl list
-cp static/ /home/km/Templates/fiber/static
-cd tokio-example/
-docker run --help
-weye -h
-kvm
-vim Manjaro.rasi
-wl-copy  --help
-mako reload
-%h
-cd proxy/
-yay --noconfirm -S qbittorrent
-z Downloads/
-tofi-drun  
-notify-send 'Hello world!' 'This is an example notification.' 
-vim foot.ini.example
-cd Library/
-pkill wshowkeys
-notify-send 'Hello world!' 'This is an example notification.' -u low
-docker run -d -v /home/km/Public/redis:/data -v /etc/redis:/etc/redis -p 6379:6379 --name redis myredis:0.0.1
-go run main.go .
-hotpot w
-docker run  -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysq1l mysql:8.0
-./code go 
-docker --help -v 
-docker start redis mysql
-yay motrix
-swappy --help
-docker -v 
-code. 
-./bluetooth-battery.py
-showkeys
-yay -R wf-ofk
-rm *.o
-yay --noconfirm  -S cling
-./zeit.sh code
-rm * 
-cargo init proxy 
-gcc main.go 
-tofi
-ps -l | where mem > 100Mib
-ld
-wshowkeys -a left -m 5 
-suod vim /etc/fuse.conf
-./clean-yay
-cd x
-docker run --mount source=data, target=/data -v /etc/redis:/etc/redis redis:alpine 
-yay --noconfirm  weye
-yay htop
-bash
-docker run --mount source=data,target=/data -v /etc/redis:/etc/redis redis:alpine 
-cd media/
-cp -l useless.sh /usr/bin/useless.sh
-tree
-which sway
-git pull 
-cddddd cdcdcdp 
-java -jar xxx.jar
-gcc main.c -Db
-wshowkeys --help
-bottom
-git fetch origin origin:master
-yay vmvare
-git clone --depth=1 https://github.com/Isoheptane/dotfiles.git
-yay -Ru haruna
-mako
-cd c
-jsut
-screenkey   --server
-cd pkg
-chmod +x weather.py
-python valent.py
-cd github
+./wezterm.sh
+ls
+./wezterm.sh
+swaymsg  -t get_tree
 hello
-go mod tidy 
-yay --noconfirm  -S htim
-tofi-drun | xargs swaymsg exec --
-yay show keys
-pp obsidian-execute-code-c-support
-docker start mysql
-docker run -d -p 3306:3306 -v /home/km/Public/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=cmstop --name mysql-test mysql:8.0 
-mnv
-yay potplayer
-yay tofi 
-yay protoplay
-cd springboot01/
-gcc lib_b.c -c -o libb.o
-./clean-histroy.py
-vim ~/.config/nushell/history.txt
-git add * 
-md5sum 
-cd Public/
-go run .
-echo "cat /sys/class/hwmon/hwmon6/temp1_input"
-cd rember
-poweroff 
-cd redis
-cd /run
-git fetch remote remote:master 
-yay --noconfirm  showmethekey
-cd init_variable/
-pip install dbus-python
-swappy 
-mako -c /home/km/.config/mako/config
-go run main.go 
-lcd 
-cd target/
-go run main.go default.go 
-cd feishu/
-yay --noconfirm  show keys 
-make 
-docker container --help
-yay idea 
-cp -r template/ ./conditional_compiler/
-vim foot-theme.ini
-cd /var/lib/
-cd mysql
-cd Documents
-cd  /etc
-tofi-drun  --help
-cd tofi
-mkdir log
-cd template/
-cd sworkstyle/
-cd KM911/
-a? 
-yay python dbus
-vim baidunetdisk.desktop
-redis-cli -h 172.39.1.3 
-rm -rf conditional_compiler/
-touch dark.rasi
-sudo vim /etc/fuse.conf
-mkdir conditional_compiler
-cd script/
-cd go
-vdfuse 
-nicee 
-makoctl help
-tree --help
-cd Applications/
-makoctl history
-cat Makefile
-~/.config/sway/scripts/help.sh 
-ls -l 
-chmod +x clean.py
-/var
-htop
-jav -v
-pp config
-cp -r static/ /home/km/Templates/fiber/static
-weather.py
-cd k 
-java -v
-pip install dbus
-pkexec screenkey
-python gpu.py
-sudo vim /etc/environment
-docker volume
-which tofi
-which suckless
-z obsidian-exuecte
-git commit --amend
-./clean-histroy
+cd .config
+cd ..
+vim .wezterm.lua
+hello
+exit
+hello
+swaymsg  -t get_tree
+hello
+nice
+hello
+nice
+cool
+exit
+wezterm-mux-server 
+ls
+hello
+ps | where mem > 100Mib
+ps | where  name =~ "wezterm"
+wezterm-mux-server 
+ps | where  name =~ "wezterm"
+hello
+just do it 
+exit
+hello
+exit
+I do not know 
+but 
+I am super glag waht you have come 
+exit
+exit
+swaymsg "move to scratchpad [app_id=\"org.wezfurlong.wezterm\"]"
+swaymsg -t get_tree
+swaymsg "scratchpad show "
+swaymsg "scratchpad show"
+swaymsg "move [app_id=\"org.wezfurlong.wezterm\"] to scratchpad"<\n>
+swaymsg "move [app_id=org.wezfurlong.wezterm] to scratchpad"
+swaymsg "[app_id=org.wezfurlong.wezterm] move to scratchpad"
+swaymsg "[app_id=org.wezfurlong.wezterm] scratchpad show"
+hello
+right 
+nice
+what 
+hello
+nice
+yes
+you are right 
+exit\
+exit
+ps | where  name =~ "wezterm"
+he
+hello
+python back.py
+z dotfile
+python back.py
+pip install rich 
+ls
+python back.py
+cd .config
+ls
+cd foot
 ls
 cd ..
+rm -rf foot
 ls
-./venv/bin/python back.py
+rm -rf foot 
+sudo rm -rf foot 
+ls
+cd ..
+cd dotfile/
+ls
+python back.py
+cd sway 
+rm -rf .config
+sudo rm -rf .config
+mkdir .config

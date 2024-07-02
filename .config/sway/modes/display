@@ -42,7 +42,8 @@ client.focused           $sky    $base $text  $lavender $like
 
 
 # set float default size 
-# set footclient always float 
+# set footclient always float
+floating_minimum_size 1200 x 800
 
 #set $term_float footclient --app-id floating_shell --window-size-chars 82x25
 

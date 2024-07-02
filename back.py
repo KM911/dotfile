@@ -10,23 +10,23 @@ from config import *
 def hard_link(dc: dict, fd: str, is_back=True):
     if is_back is True:
         for p, v in dc.items():
-            print(f"sudo cp -r -l {v} ./{fd}/{p}")
-            os.system(f"sudo cp -r -l {v} ./{fd}/{p}")
+            print(f"sudo cp -r  {v} ./{fd}/{p}")
+            os.system(f"sudo cp -r  {v} ./{fd}/{p}")
     else:
         for p, v in dc.items():
-            print(f"sudo cp -r -l ./{fd}/{p} {v}")
-            os.system(f"sudo cp -r -l ./{fd}/{p} {v}")
+            print(f"sudo cp -r  ./{fd}/{p} {v}")
+            os.system(f"sudo cp -r  ./{fd}/{p} {v}")
 
 
 def config_back():
     for i in Configs:
-        print(f"sudo cp -r -l ~/.config/{i} ./.config")
-        os.system(f"sudo cp -r -l ~/.config/{i} ./.config")
+        print(f"sudo cp -r  ~/.config/{i} ./.config")
+        os.system(f"sudo cp -r  ~/.config/{i} ./.config")
 
 
 def config_restore():
-    print("sudo cp - r - l ./.config/* ~/.config")
-    os.system(f"sudo cp - r - l ./.config/* ~/.config")
+    print("sudo cp -r  ./.config/* ~/.config")
+    os.system(f"sudo cp -r  ./.config/* ~/.config")
 
 
 def etc_back():
@@ -104,3 +104,23 @@ try:
 except KeyboardInterrupt:
     # print("exit")
     sys.exit(0)
+
+#!/usr/bin/env python3
+import sys
+import os
+from config import *
+
+
+def install():
+    for image in images:
+        os.system(f"docker pull {image}")
+
+    for pkg in total:
+        os.system(f"yay -S --noconfirm {pkg}")
+
+
+# install()
+
+
+# mkdir ~/.cargo
+# cp ./etc/rust.toml ~/.cargo/config.toml
