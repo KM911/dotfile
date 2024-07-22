@@ -23,7 +23,7 @@ total = code + shell + daily + work + db + font + tool + code_tool
 
 # Personal dotfile
 Configs = ["sway", "waybar", "nushell",
-           "helix", "rofi", "yazi", "foot", "pip", "mako"]
+           "helix", "rofi", "yazi", "foot", "pip", "mako", "wofi", "cava", "neofetch"]
 Etcs = ["/etc/environment", "~/.cargo/config.toml", "~/.wezterm.lua"]
 Scripts = [
     "/usr/bin/pp",

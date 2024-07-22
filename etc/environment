@@ -14,7 +14,11 @@ WLR_RENDERER_ALLOW_SOFTWARE=1
 # for nouveau compatibility
 #WLR_DRM_NO_MODIFIERS=1
 
-PATH=$PATH:~/.cargo/bin:~/go/bin
+# rust 
+PATH=$PATH:~/.cargo/bin
+# GOPATH GOROOT 
+PATH=$PATH:~/go/bin:/usr/local/go/bin
+#PATH=$PATH:/home/km/Templates/python/venv/bin
 https_proxy=http://127.0.0.1:7897
 http_proxy=http://127.0.0.1:7897
 all_proxy=socks5://127.0.0.1:7897
@@ -22,10 +26,9 @@ all_proxy=socks5://127.0.0.1:7897
 
 
 
-
+XMODIFIERS="@im=fcitx"
 GTK_IM_MODULE=fcitx
 QT_IM_MODULE=fcitx
-XMODIFIERS=@im=fcitx
 INPUT_METHOD=fcitx
 SDL_IM_MODULE=fcitx
 GLFW_IM_MODULE=ibus

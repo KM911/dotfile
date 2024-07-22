@@ -106,3 +106,6 @@ alias mm = python ~/code/KM911/pymake/pymake.py
 alias python = /home/km/Templates/python/venv/bin/python
 alias pip = /home/km/Templates/python/venv/bin/pip3 
 alias la = /usr/bin/last
+alias n = neofetch 
+alias c = cava
+alias v = vim 

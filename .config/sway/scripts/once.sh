@@ -1,9 +1,16 @@
-#!/usr/bin/env sh
+#!/bin/bash 
 
-mkdir -p "$HOME/.local/state"
-LOCKFILE="$HOME/.local/state/once.lock"
 
-# Kills the process if it's already running
-lsof -Fp "$LOCKFILE" | sed 's/^p//' | xargs -r kill
 
-flock --verbose -n "$LOCKFILE" "$@"
+
+
+if pgrep -f $1  > /dev/null ;
+# if pgrep -f "footclient -a $1"  > /dev/null ;1
+then
+    exit 0
+else
+    $1
+fi
+
+
+

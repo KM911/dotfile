@@ -1,21 +1,25 @@
 
-
-
 $bindsym $mod+b exec $bluetooth
-$bindsym $mod+w exec $once $term_float nmtui connect 
-$bindsym $mod+v exec $once $term_float clash-verge 
+$bindsym $mod+w exec once $term_float nmtui connect 
+$bindsym $mod+v exec once $term_float clash-verge 
 
-$bindsym $mod+h exec cliphist list | rofi -dmenu | cliphist decode | wl-copy
+# copy and past 
+# we could do it if you like
+$bindsym $mod+Shift+h exec cliphist list | rofi -dmenu | cliphist decode | wl-copy
+
+# TODO : 
 
 set $drun tofi-drun | xargs swaymsg exec --
 
 # $bindsym $mod+o exec $drun
+$bindsym $mod+Shift+o exec wofi --allow-image --show drun
+
 $bindsym $mod+o exec $menu
 
 
-# $bindsym $mod+e exec $once $term_float neomutt
-# $bindsym $mod+c exec $once $term_float htop 
-# $bindsym $mod+g exec $once $term_float nvtop 
+# $bindsym $mod+e exec once $term_float neomutt
+# $bindsym $mod+c exec once $term_float htop 
+# $bindsym $mod+g exec once $term_float nvtop 
 
 ### Key bindings
 #
@@ -32,8 +36,6 @@ $bindsym $mod+Return reload
 
 ## Action // Kill focused window ##
 $bindsym $mod+q kill
-
-## Launch // Open launcher ##
 
 # $bindsym Ctrl+o exec $menu
 # $bindsym $alt_mod+space exec $menu
@@ -104,10 +106,10 @@ $bindsym $mod+Shift+$down move down
 $bindsym $mod+Shift+$up move up
 $bindsym $mod+Shift+$right move right
 
-$bindsym $mod+Shift+$left_alt move left
-$bindsym $mod+Shift+$down_alt move down
-$bindsym $mod+Shift+$up_alt move up
-$bindsym $mod+Shift+$right_alt move right
+# $bindsym $mod+Shift+$left_alt move left
+# $bindsym $mod+Shift+$down_alt move down
+# $bindsym $mod+Shift+$up_alt move up
+# $bindsym $mod+Shift+$right_alt move right
 
 ## Navigation // Move focused workspace // $mod + Alt + ↑ ↓ ← → ##
 $bindsym $mod+Alt+$right move workspace to output right
@@ -129,7 +131,7 @@ $bindsym Mod1+Tab exec env RUST_BACKTRACE=1 swayr switch-to-urgent-or-lru-window
 ## Navigation // Switch to the last recently used workspace ##
 $bindsym $mod+Tab workspace back_and_forth
 
-#
+
 # Workspaces:
 #
 ## Navigation // Switch workspace // $mod + [number] ##
@@ -143,6 +145,18 @@ $bindsym $alt_mod+7 workspace $ws7
 $bindsym $alt_mod+8 workspace $ws8
 $bindsym $alt_mod+9 workspace $ws9
 $bindsym $alt_mod+0 workspace $ws10
+
+# $bindsym $mod+1 workspace $ws1
+# $bindsym $mod+2 workspace $ws2
+# $bindsym $mod+3 workspace $ws3
+# $bindsym $mod+4 workspace $ws4
+# $bindsym $mod+5 workspace $ws5
+# $bindsym $mod+6 workspace $ws6
+# $bindsym $mod+7 workspace $ws7
+# $bindsym $mod+8 workspace $ws8
+# $bindsym $mod+9 workspace $ws9
+# $bindsym $mod+0 workspace $ws10
+
 
 $bindsym Ctrl+$alt_mod+1 move container to workspace $ws1 
 $bindsym Ctrl+$alt_mod+2 move container to workspace $ws2 
@@ -233,10 +247,7 @@ hide_edge_borders smart
 $bindsym --release Escape [app_id="floating_shell" con_id=__focused__] kill
 
 # take screenshots
-$bindsym $mod+SHift+s  exec grim -g "$(slurp)" - | wl-copy  
-# save into ~//Screenshots
+$bindsym $mod+SHift+s  exec grim -g "$(slurp)" - | wl-copy  && notify-send "Screenshot copied to clipboard" -t 2000
 
-$bindsym $mod+s  exec grim -g "$(slurp)"  ~/Screenshots/$(date +%Y-%m-%d-%H-%M-%S).png
+$bindsym $mod+s  exec grim -g "$(slurp)"  ~/Screenshots/$(date +%Y-%m-%d-%H-%M-%S).png && notify-send "Screenshot saved to ~/Screenshots/$(date +%Y-%m-%d-%H-%M-%S).png" -t 2000
 
-# musci wait
-# $bindsym $mod+m  exec grim -g "$(slurp)" - | wl-copy  
