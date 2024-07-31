@@ -12,7 +12,7 @@ code_tool = []
 db = ["redis", "resp-app", "mysql"]
 font = ["ttf-fira-code"]
 
-tool = ["docker", "nvtop", "inxi", "docker-buildx"]
+tool = ["docker", "nvtop", "inxi", "docker-buildx", "wireshark"]
 shell = ["wezterm", "nushell", "starship", "zoxide", "gitui",
          "tokei", "fd", "ripgrep", "dust", "bat", "procs", "hyperfine"]
 daily = ["obsidian", "google-chrome"]

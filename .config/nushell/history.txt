@@ -1,5114 +1,2861 @@
-rm history*
-ls
-yay bandwhich
-bandwhich
-sudo bandwhich
-ls
-swaymsg  -t get_tree
-cd scripts/
-ls
-./wezterm.sh
-ls
-./wezterm.sh
-swaymsg  -t get_tree
-hello
-cd .config
-cd ..
-vim .wezterm.lua
-hello
-exit
-hello
-swaymsg  -t get_tree
-hello
-nice
-hello
-nice
-cool
-exit
-wezterm-mux-server 
-ls
-hello
-ps | where mem > 100Mib
-ps | where  name =~ "wezterm"
-wezterm-mux-server 
-ps | where  name =~ "wezterm"
-hello
-just do it 
-exit
-hello
-exit
-I do not know 
-but 
-I am super glag waht you have come 
-exit
-exit
-swaymsg "move to scratchpad [app_id=\"org.wezfurlong.wezterm\"]"
-swaymsg -t get_tree
-swaymsg "scratchpad show "
-swaymsg "scratchpad show"
-swaymsg "move [app_id=\"org.wezfurlong.wezterm\"] to scratchpad"<\n>
-swaymsg "move [app_id=org.wezfurlong.wezterm] to scratchpad"
-swaymsg "[app_id=org.wezfurlong.wezterm] move to scratchpad"
-swaymsg "[app_id=org.wezfurlong.wezterm] scratchpad show"
-hello
-right 
-nice
-what 
-hello
-nice
-yes
-you are right 
-exit\
-exit
-ps | where  name =~ "wezterm"
-he
-hello
-python back.py
-z dotfile
-python back.py
-pip install rich 
-ls
-python back.py
-cd .config
-ls
-cd foot
-ls
-cd ..
-rm -rf foot
-ls
-rm -rf foot 
-sudo rm -rf foot 
-ls
-cd ..
-cd dotfile/
-ls
-python back.py
-cd sway 
-rm -rf .config
-sudo rm -rf .config
-mkdir .config
-python back.py
-git push 
-yay 
-poweroff
-poweroff 
-exit
-docker start mysql redis clickhouse
-pp
-which pp 
-pc
-go get github.com/KM911/fish
-make 
-python make.py
-cd target
-ls
-./pc
-cd ..
-make.py
-./make.py
-python make.py
-./target/pc
-rm /usr/bin/pc
-sudo rm /usr/bin/pp
-sudo rm ./target
-ls
-sudo rm -r ./target
-python make.py
-args
-go mod tidy 
-hello 
-sudo chmod +x make.py
-./make.py
-his
-history
-history --help
-hestory | 10
-history | 10
-history | length
-history | last 5
-history | last 5 >> log
-history | last 5 | save -f log
-history | last 5 | get command|  save -f log
-ls
-vim log
-rem 
-rem
-rember
-rem 
-make.py
-./make.py
-rem echo hello
-./make.py
-ls
-rem echo hello
-./make.py
-./rem hello
-./rem echo hello
-./rem docker
-./rem docker images
-which which
-./make
-./make.py
-./rem
-hotpot -e rem
-hotpot 
-hotpot -e ./make.py
-hotpot e ./make.py
-./make.py
-./rem
-./rem echo he
-./rem hello
-./rem
-./rem hello
-./rem echo hello
-./rem docker images
-hotpot w
-./make.py
-./rem docker images
-./rem docker
-./rem docker image
-./rem docker images
-./rem docker 
-./rem shh
-./rem ssh
-./rem hello
-./rem echo hello
-./make.py
-./rem echo hello
-./rem docker images
-./rem sudo vim /etc/environment
-rm -rf static/
-go mod tidy 
-./make.py
-go mod init bin
-go mod tidy
-./make.py
-ls
-./rem sudo vim /etc/environment
-bash
-cd .cache
-ls
-mkdir fish
-cd fish
-ls
-./make.py
-./rem sudo vim /etc/environment
-ls
-cd ..
-cd tools
-cd .cache
-cd tools
-ls
-rm remember.db/
-touch remember.db
-./rem sudo vim /etc/environment
-./make.py
-./rem sudo vim /etc/environment
-code /home/km/.cache/tools/remember.db
-go build 
-./tools 
-./tool sudo vim /etc/environment
-./tools sudo vim /etc/environment
-go build 
-./tools sudo vim /etc/environment
-sys mem 
-bash
-sys cpu
-sys cpu | get cpu_usage
-sys cpu | get names
-ps | get name
-ps | get name | rofi -dmenu 
-ret
-go run main.go
-go run .
-go run . | rofi -dmenu
-go run . | rofi -dmenu | echo 
-go run . | rofi -dmenu | wl-copy
-go run . | rofi -dmenu | cliphist decode | wl-copy
-cliphist list
-rem echo hello
-ls
-z tools
-ls
-sudo mv rem /usr/bin/rem
-rem echo hello
-rem hello
-ret
-mv ret /usr/bin/ret
-sudo mv ret /usr/bin/ret
-ls
-generate 
-1548433385
-nice
-yay --noconfirm key map
-keyd
-sudo keyd
-cd /etc/keyd
-ls
-touch default.conf
-ls
-sudo vim default.conf
-sudo keyd
-sudo vim default.conf
-keys
-sudo vim default.conf
-sudo keyd
-man keyd
-sudo vim default.conf
-sudo keyd
-sudo vim default.conf
-sudo keyd
-z keyd
-ls
-vim default.conf
-ls
-sudo vim default.conf
-sudo keyd
-yay --noconfirm key remap
-yay --noconfirm key remap wayland
-yay --noconfirm keymonad
-go build 
-pkill showkeys
-./vercanium market
-go build 
-ps 
-ps | where  name =~ "wezterm"
-ls
-vim log
-bash
-ps | where  name =~ "foot"
-eww
-eww open
-eww 
-eww ing
-eww ping
-ps | where  ppid =~ 141403
-ps | where  ppid = 141403
-ps | where ppid == 141403
-ps | where ppid = "141403"
-ps | where ppid ==141403
-ps | where ppid = 141403
-yay --noconfirm key map
-yay --noconfirm key remap
-wev
-yay wev
-wev
-wev --help
-sudo wev 
-wev --help
-ls
-file
-sudo file 
-pacmanfm
-sudo pacmanfm
-file
-start 
-pkexec pacmanfm
-pkexec file
-yay --noconfirm evremap
-`sudo evremap list-devices`
-sudo evremap list-devices
-ls
-rm log
-ls
-cd .config
-ls
-mkdir remap
-ls
-cd rempa
-cd remap/
-ls
-touch config.toml
-z github]
-ls
-z github
-ls
-git clnoe --depth=1 https://github.com/M8850/Evremap-GUI.git
-git clone --depth=1 https://github.com/M8850/Evremap-GUI.git
-ls
-cd Evremap-GUI/
-ls
-pnpm 
-yay pnpm 
-node -v
-yay --noconfirm pnpm 
-pnpm install 
-npm install 
-npm config get registry
-npm config set registry=https://registry.npmmirror.com
-pnpm config set registry=https://registry.npmmirror.com
-pnpm install .
-ls
-pnpm run tauri dev
-reboot 
-docker start mysql redis clickhouse
-z github
-ls
-git clnoe --depth=1 https://github.com/uber-go/zap.git
-git clone --depth=1 https://github.com/uber-go/zap.git
-cd zap
-code .
-go mod tidy 
-go run main.go 
-cd benchmarks/
-ls
-go bench .
-go test 
-go test -bench ,.
-go test -bench .
-ls
-m go bench 
 m go bench .
-go mod tidy 
-go run main.go 
-go run main.go
-go mod tiyd 
-go mod tidy 
-go run main.go 
-ls
-cd ..
-cd KM911/
-ls
-z
-z notebook
-ls
-vim nutstore.py
-not problme 
-exit
-yay -R kvantum
-manjaro-sway-theme 
-manjaro-sway-settings
-yay -Runc kvantum
-ls
-z dotfile
-ls
-cd script/
-ls
-./clean-yay
-sudo clean-yay 
-rofi-wayland
-rofi
-./clean-yay
-sudo clean-yay 
-yay --noconfirm
-reboot 
-ps | where mem > 100Mib
-ps | where mem > 10Mib
-ps -i 1830
-ps -l 
-ps -l  | where mem > 10
-ps -l  | where mem > 10Mib
-rofi
-rofi 
-which rofi 
-yay --noconfirm rofi 
-yay --noconfirm wofi
-yay --noconfirm rofi 
-rofi
 wofi -drun 
-wofi -dmenu
-wofi help
-wofi --help
-wofi --show-drun
-wofi show
-wofi --show
-wofi --show-drun
-wofi --show-run
-wofi --help
-wofi --show drun
-wofi  --gtk-dark --show drun
-ls
-sway 
-waybar
-yay manjaro theme 
-yay manjaro sway theme
-yay --noconfirm manjaro theme
-waybar
-keyd-application-mapper 
-keyd
-sudo keyd
-keys
-wev
-cd .config
-ls
-cd keys
-cd remap
-ls
-vim config.toml
-why 
-yay 
-yay manjaro sway 
-swaymsg reload
-waybar 
-reboot 
-n
-yay neofetch 
-flashfetch 
-fastfetch 
-file /usr/bin/fastfetch
-file /usr/bin/neofetch
-yay neofetch 
-neofetch
-lscpu
-yay neofetch 
-hyperfine 
-hyfetch 
-which hyfetch
-file /usr/bin/hyfetch
-vim /usr/bin/hyfetch
-hyfetch 
-neofetch
-grub 
-cd /etc
-cd grub.d/
-ls
-cd ..
-ls
-ls | where name  =~ "grub"
-cd grub.d/
-ls
-cd ..
-ls
-cat /etc/sysconfig/kernel
-cd /etc
-cd sysconfig/
-ls
-vim crond
-cd /etc
-cd default/
-ls
-vim grub
-sudo vim grub
-sudo update-grub
-reboot 
-neofetch
-systemctl status docker 
-systemctl --help
-systemctl show docker
-systemctl show sway
-cd ..
-cd go
-ls
-fd string
-cd ..
-fd string
-cd go
-cd go-std/
-ls
-code .
-ls
-cd ..
-cd code
-cd km
-ls
-cd go
-ls
-rm-rf go-std
-rm -rf go-std
-ls
-z bench
-ls
-pp
-exit
-ls
-rm *.log
-ls
-rm bin
-rm bench
-ls
-cd benchmarks/
-go test -bench .
-cat test.log
-ls
-cd format
-cat test.log
-open test.log
-github-desktop 
-ls
-cd ..
-ls
-cd cli
-cd ..
-cd go/cli
-ls
-cd go
-cd clickhouse/
-cd ..
-fd 
-ls 
-cd cmd
-ls
-go run main.go 
-cd ..
-ls
-mkdir cli 
-ls
-cd cli
-lc
-cd ..
-ls
-cp -r ./template ./cli
-cd cli
-ls
-cd mm
-cd ..
-cp -r ./template ./cli
-ls
-cd cli
-ls
-cat main.go 
-code .
-go mod tidy 
-cd ..
-ls
-cd lib
-ls
-cd ..
-rm -rf lib
-ls
-cd ..
-cd go
-ls
-mkdir gen 
-ls
-rmdir gen
-cp -r ./template ./gen
-ls
-cd gen
-code .
-go mod tidy 
-hotpot init 
-pp
-p 
-pc
-2 ** 5
-16 * 8
-16 * 4
-0x20
-0x40
-0x80
-0x60
-255 - 32
-223 % 16
-223 / 16
-hotpot w
-m go bin
-go build -o gen
-go mod tidy
-go build -o gen
-m go bin
-gen
-go build -o gen
-m go bin
-go get github.com/KM911/fish
-go run main.go 
-go run main.go
-go build -o gen
-m go bin
-gen 
-sudo go build -o /usr/bin/gen
-go build -o gen | sudo mv gen /usr/bin/gen
-go build -o gen && sudo mv gen /usr/bin/gen
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen
-go mod tidy
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen
-go build 
-./bin
-./bin 
-go build 
-./bin
-go build 
-./bin
-go build 
-./bin
-go build 
-./bin
-./bin args 
-./bin args  1
-./bin args  123423423
-./bin 
-gen
-z hotpot\
-z hotpot 
-ls
-gen
-gen 
-go mod tidy 
-ls
-cd ..
-ls
-cp -r ./cli ./gen
-go mod tidy 
-gen
-ls
-rm bin
-ls
-which cli
-go mod tidy
-go build 
-ls
-./bin
-go build 
-./bin
-go build 
-./bin
-./bin cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen cli
-gen 
-go run main.go 
-go mod tidy 
-go run main.go
-go build -o hotpot ; sudo mv /usr/bin/hotpot 
-go build -o hotpot ; sudo mv hotpot /usr/bin/hotpot 
-hotpot e 
-hotpot e  go run main.go 
-go build 
-go run main.go 
-python version
-python v
-python -v
-go run main.go 
-exit
-startship 
-starship
-starship prompt
-starship prompt | save -f log
-starship --help
-starship module
-starship module  package
-starship module  go
-starship module  --list
-starship module golang
-starship module python
-starship module rust
-hotpot init
-starship module csharp
-starship module cpp
-starship module c
-starship module --list | save -f log
-ls
-cd ..
-ls
-exit
-go run main.go 
-./a.out hello just do tit 
-go run main.go 
-gen cli
-gen
-gen cli
-yay 
-gen 
-gen cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen cli
-go run main.go cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen cli
-gen cli args 
-cd 
-cd go
-ls
-cd pkg
-ls
-cd mod
-ls
-cd github
-ls
-cd cache
-ls
-cd download/
-ls
-cd github.com/
-ls
-rm -rf  !k!m911/
-ls
-exit
-go mod tidy
-go run main.go 
-go build 
-./bin
-rm bin
-ls
-cd ..
-ls
-cd ttemplate
-cd template
-ls
-cat main.go
-cd ..
-ls
-gen
-z gen
-go build -o gen ; sudo mv gen /usr/bin/gen
-ls
-mkdir test
-cd test
-ls
-gen init 
-gen  init gen-test
-ls
-rm go.mod
-ls
-cd gen-test/
-ls
-fd 
-code .
-cd ..
-ls
-mkdir embed 
-rmdir embed 
-cp -r ./template/ embed 
-cp -r ./template/ go=template
-ls
-cd embed 
-ls
-code .
-go run main.go
-hotpot init
-hotpot e go run maing.o
-hotpot e go run main.go
-ls
-exit
-cd ..
-cd go=template/
-code .
-go run main.go
-go build 
-./bin
-go build 
-./bin
-mv index.html index
-./bin
-ls
-mv index index.html
-ls
-./bin
-ls
-go run main.go 
-tree
-bash
-tree 
-.
-tree
-yay tree 
-tree | wl-copy
-ls
-cd ..
-cdl
-cd go=template/
-code .
-go rum main.go
-go run main.go 
-go run main.go
-go run maing.o
-go run main.go
-go mod tidy 
-go run main.go
-go run main.go gen
-go run main.go cli
-z gen
-ls
-go run main.go cli
-go build 
-./bin
-./bin cli
-go run main.go cli
-git init 
-git add * 
-git commit --amend 
-ps -l  | where mem > 10Mib
-ps | where mem > 10Mib
-ps | where mem > 100Mib
-htop
-top
-bottom
-btm
 bashtop
-ls
-cd /temp
-cd /tmp
-ls
-rm test12651927641
-ls
-docker start mysql redis clickhouse
-pp
-pc
-go build 
-gitlog
-exit
-ls
-ps 
-ps | where mem > 100Mib
-ps | where mem > 100Mib | math sum 
-ps | where mem > 100Mib | group name
-ps | where mem > 100Mib | group 1
-ps | where mem > 100Mib | group 2
-ps | where mem > 100Mib | group 3
-ps | where mem > 100Mib | group 10
-ps | where mem > 100Mib | group 10 | get 1 
-ps | where mem > 100Mib | head 10 
-ps | where mem > 100Mib | group 10 | get 1 
-ps | where mem > 100Mib 
-ps | where mem > 100Mib | group 10 | get 2 
-range 10- 20 
-ps | where mem > 100Mib | select name mem 
-ps | where mem > 100Mib | select name mem  | math sum 
-ls
-sad 
-$ go install github.com/kevwan/tproxy@latest
-z github
-ls
-git clone --depth=1 https://github.com/Cute-Dress/Dress.git
-ls
-cd Dress/
-ls
-r
-code /home/km/Nutstore Files/Notebook/.
-ls
-cd 
-cd `Nutstore Files/`
-cd Notebook/
-ls
-cd .obsidian/
-ls
-code .
-cd ..
-fd NSCon
-fd .
-fd 冲突
-exit
-cd ..
-code .
-mkdir test
-cd test
-gen init test-cli
-cd ..
-go build -o gen ; sudo mv gen /usr/bin/gen
-cd gen
-ls
-cd test
-ls
-gen init test-cli
-cd ..
-go build -o gen ; sudo mv gen /usr/bin/gen
-cd test
-rm -rf * 
-ls
-gen init test-cli
-ls
-pwd 
-cd ..
-go build -o gen ; sudo mv gen /usr/bin/gen
-cd test
-rm -rf * 
-gen init test-cli
-ls
-rm -rf * 
-gen init test-cli
-ls
-rm -rf * 
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen init test-cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-rm -rf *
-gen init test-cli
-rm -rf *
-gen init test-cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-rm -rf *
-ls
-gen init test-cli
-rm -rf *
-gen init test-cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-go run main.go
-gen init test-cli
-ls
-gen init test-cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-exit
-gen
-exit
-go run main.go
-yay 
-poweroff 
-ls
-docker start mysql redis clickhouse
-ls
-cd .config
-cd code
-cd Code/
-lks
-ls
-cd ..
-fd Code/
-fd code
-cd flags
-fd flags
-mv back_code-flags.conf code-flags.conf
-ls
-vim code-flags.conf
-go build 
-mysql 
-mysql -u root 
-mysql -u root -p
-ls
-z go
-cd .
-cd 
-cd code
-cd go
-ls
-mkdir rpc 
-cd rpc
-ls
-cd ..
-rmdir rpc
-z benchmakr
-ls
-z bench
-ls
-code .
-./vercanium market
-git add *
-git stash 
-git switch master 
-git pull 
-gitui
-git switch develop
-git rebase master 
-gitui
-git push 
-gitui
-alias
-ls
-cd ..
-cd cgo
-cd go
-cd rpc
-ls
-cd rpc
-ls
-cp -r ./template/ rpc
-cd rpc
-code .
-go run main.go 
-sudo lsof -i:3000
-cd ..
-gen rpc-capture
-gen init rpc-capture
-cd rpc-capture/
-code .
-go build 
-ls
-./rpc-capture cap
-gen cli
-go build 
-./rpc-capture cap
-./rpc-capture rpc
-go build 
-./rpc-capture rpc
-./rpc-capture cap
-go build
-./rpc-capture cap
-./rpc-capture rpc
-go build
-./rpc-capture cap
-./rpc-capture cap
-./rpc-capture rpc
-hotpot init 
-hotpot w
-./rpc-capture rpc
-hotpot w
-./rpc-capture rpc
-rproxy 
-go install github.com/zeromicro/go-zero/tools/goctl@latest<\n>
-$ go install github.com/kevwan/tproxy@latest
-go install github.com/kevwan/tproxy@latest
-gen cli
-hotpot w
-go build 
-./rpc-capture rpc
-tproxy -p 3001 -r localhost:300 -t grpc -d 100ms
-tproxy -p 3001 -r localhost:300  -d 100ms
-./rpc-capture rpc
-tproxy -p 3001 -r localhost:300 -t rpc -d 100ms
-tproxy -p 3001 -r localhost:300 -t tpc -d 100ms
-./rpc-capture rpc
-./rpc-capture rs
-go build 
-tproxy -p 3001 -r localhost:3000 -t tpc -d 100ms
-./rpc-capture rpc
-./rpc-capture rs
-go build 
-tproxy -p 3001 -r localhost:3000 -d 100ms
-tproxy
-goctl
-ls
-cd ..
-ls
-gen init go-zero
-cd go-zero
-ls
-goctl api -o shorturl.api
-ls
-cd ..
-ls
-git clone --depth=1 https://github.com/zeromicro/zero-examples.git
-ls
-cd zero-examples/
-code .
-cd shorturl/
-code .
-go build 
-go build  .
-go buiid ../
-go run transform.go -f etc/transform.yaml
-go run transform.go -f ./etc/transform.yaml
-cd rpcl
-ls
-cd rpc
-ls
-cd transform/
-ls
-go run transform.go -f ./etc/transform.yaml
-curl -i "http://localhost:8888/shorten?url=http://www.xiaoheiban.cn"
-ls
-fd greet
-cd rpc
-cd remote
-ls
-cd unary/
-ls
-git push 
-gitui
-cd ..
-ls
-mkdir zero
-lg
-cd  zero
-ls
-goctl api new demo
-ls
-cd demo
-ls
-cdoe .
-code .
-go run .
-go mod tidy 
-go run main.go 
-cd 
-cd .config
-cd obsidian/
-ls
-fd GPU
-rm -rf Partitions/surfing-vault-6096c13e1403409b/GPUCache/
-ls
-fd GPU
-rm -rf GPUCache/
-ls
-cd GPUCache/
-ls
-rm -rf * 
-ls
-nvtop
-inix -G 
-inxi -G
-yay 
-netstat -napt
-sudo netstat -napt
-yay netstat
-netstat -napt
-ls
-exit
-exit
-ls
-cd /etc
-ls
-fd sysctl
-cd sysctl.d/
-ls
-z github
-ls
-git clone --depth=1 https://github.com/yurihikari/garuda-sway-config.git
-cd garuda-sway-config/
-ls
-code .
-yay alacritty
-yay --noconfirm -S alacritty
-ls
-cp -r neofetch/ ~/.config
-ls
-neofetch
-neofetch 
-neofetch
-cd 
-cd .config
-ls
-cd neofetch
-code .
-neofetch
-info 
-neofetch
-micro
-yay micro
-nwg-drawer
-ls
-cd ..
-cp -r nwg-wrapper/ ~/.config
-cp -r nwg-launchers/ ~/.config
-z github
-ls
-cd garuda-sway-config/
-ls
-cd .config
-cd config
-ls
-cp -r nwg-launchers/ ~/.config
-cp -r nwg-look/ ~/.config
-cp -r nwg-icons/ ~/.config
-cp -r nwg-icons ~/.config
-cp -r nwgbar-icons ~/.config
-cp -r nwg-look ~/.config
-nwg-wrapper 
-nwg-wrapper  --help
-man nwg-drawer
-man nwg-warpper
-man nwg-wrapper 
-nwg-wrapper 
-yay --noconfirm -S nwg-drawer
-man nwg-drawer
-nwg-drawer help
-nwg-drawer --help
-nwg-launchers
-cd ..
-cd 
-nwg-wrapper 
-nwg-launchers
-yay --noconfirm  nwg-drawer
-wofi  --gtk-dark --show drun
-wofi  --show drun
-wofi --show drun
-wofi 
-wofi --show 
-wofi --show drun 
-wofi --show run
-cd 
-cd .config
-cd wofi
-ls
-exit
-z github
-cd ga
-cd garuda-sway-config/
-ls
-cp -r wofi ~/.config/wofi
-cd wofi
-ls
-wofi --show run
-wofi --show drun
-reboot 
-ls
-z github
-ls
-cd garuda-sway-config/
-ls
-code .
-ls
-wofi --show drun
-wofi --help
-wofi --show -icons
-wofi --show drun  --allow-image
-hotpt
-exit
-ls
-cp -r gtk-3.0/ ~/.config
-ls
-cd .config
-cd 
-cd .config
-ls
-cp -r rofi/ ~/.config
-cd rofi
-ls
-cd basic
-ls
-./install.sh
-exit
-cd 
-cd .config 
-rm -rf fish 
-cp -r fish ~/.config
-ls
-hello
-exit
-pwd
-who 
-who you are
-ls
-hello
-exit
-cava
-cp -r cava ~/.config
-wob
-wob --help
-cd wob
-ls
-cp -r wob ~/.config
-yay cava
-cava
-cave
-cava
-ls
-cd .config
-ls
-who
-ps 
-ps | where name =~ "ala"
-ls
-hello
-cool
-exit
-alacritty 
-cava
-echo 43 > /tmp/wobpipe
-ls
-echo 43 > /tmp/wobpipe
-bas h
-bash
-exit
-wob
-wob --help
-ps | where name =~ "wob"
-pkill wob
-sudo pkill wob
-cd ..
-cd wob
-ls
-r
-pkill sway 
-ls
-wob
-ls
-cd .config
-ls
-vim wob/
-man wob
-cd wob
-ls
-vim wob.ini
-rm default.ini
-ls
-mkfifo /tmp/wobpipe
-tail -f /tmp/wobpipe | wob
-echo 43 > /tmp/wobpipe
-bash 
-tail -f /tmp/wobpipe | wob
-wob
-~/.config/sway/scripts/wob.sls
-~/.config/sway/scripts/wob.sh 
-bash
-exit
-bas h
-ls
-cd wob.ini
-ls
-cd ..
-ls
-cd wob
-cd .config
-cd wob
-ls
-cat wob.ini
-cp wob.ini default.ini
-ls
-bash
-ps | where name =~ "wob"
-tail -f "$wob_pipe" | wob -c $ini &
-cd ..
-cd sway
-ls
-cd scripts/
-ls
-./wob
-./wob.sh
-bas h
-cd scripts/
-ls
-cp -r wob ~/.config
-ls
-wob
-neofetch
-nwg-drawer 
-nwg-wrapper 
-bash 
-mkfifo /tmp/wobpipe
-ls
-./brightness.sh up
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Battlesquid/dotfiles/main/install.sh)"
-ps | where name =~ "waybart"
-ps | where name =~ "waybar"
-ls
-pwd 
-nemo
-yay nemo
-nemo
-yay --noconfirm Thunar
-nemo
-sudo nemo
-pkexec nemo
-nemo
-xhost nemo
-yay xhost
-yay --noconfirm -S xhsot
-yay --noconfirm -S xhost
-cd .confgi
-cd .config
-cd gtk-3.0/
-ls
-cd ..
-cd gtk-4.0/
-ls
-vim gtk-dark.css
-ls
-vim settings.ini
-ls
-fd ~
-fd ~ .
-ls
-ll assets
-ls -l 
-cd ..
-cd gtk-4.0/
-ls
-cd ..
-cd gtk-3.0/
-ls
-cd ..
-ls
-cd ..
-cd .config
-ls
-start .
-cd /etc
-ls
-cd gtk-3.0/
-ls
-cd ..
-cd gtk-3.0/
-ls
-vim im-multipress.conf
-ls
-cp -r ~/.config/gtk-3.0 /etc
-sudo cp -r ~/.config/gtk-3.0 /etc
-ls
-pls
-ls
-cd ..
-ls
-fd theme
-fd css
-xdg 
-cd xdg
-ls
-cd Thunar/
-ls
-vim uca.xml
-ls
-cd ..
-ls
-vim user-dirs.conf
-ls
-cd waybar/
-ls
-vim config.jsonc
-ls
-cd ..
-cd waybar
-ls
-vim config.jsonc
-ls
-cd ..
-ls
-cd pcmanfm/
-ls
-vim default/
-ls
-cd ..
-ls
-nemo
-ls
-cd /etc
-ls
-ls
-rm -rf waybar
-ls
-sudo rm -rf waybar
-ls
-cd foot
-ls
-rm -rf * 
-ls
-cd ..
-ls
-cd ..
-cd 
-cd .config
-cd Thunar/
-ls
-vim uca.xml
-cat uca.xml
-ls
-cd ..
-ls
-cd wob
-ls
-code .
-pkill wbo
-tail -f /tmp/wobpipe | wob
-pkill wob
-wob
-ls
-cd /tmp
-ls
-cat wobpipe
-tail -f /tmp/wobpipe | wob
-reboot 
-ls
-cd ..
-cd sway
-code .
-cat /tmp
-cd /tmp
-fd wob
-tail -f /tmp/wobpipe | wob
-ls
-tail -f /tmp/wobpipe | wob
-cd scripts/
-ls
-./wob.sh
-pkill wob
-reboot 
-man sway 
-ls
-sudo rm autostart
-waybar
-pkill sway 
-man sway
-man 5 sway 
-pkill sway 
-pkill waybar
-pkill sway
-waybar
-cd scripts/
-once
-./onec
-once.sh
-./once.sh
-./once.sh  waybar
-pgrep waybar
-ls
-pgrep /usr/bin/waybar
-./once.sh  /usr/bin/waybar
-/usr/bin/waybar
-ls
-ls
-cd .config
-cd sway
-cd scripts/
-ls
-./once.sh  /usr/bin/waybar
-./once.sh  waybar
-pgrep /usr/bin/waybar
-pgrep -f waybar
-pgrep  -l -f waybar 
-pgrep  -l  waybar 
-./once.sh  waybar
-ls
-./once.sh  waybar
-pgrep  -l  waybar 
-pgrep  -l -f   waybar 
-pgrep  -l -f "/usr/bin/waybar"
-./once.sh  waybar
-./once.sh  /usr/bin/waybar
-pgrep  -l -f "/usr/bin/waybar"
-bash
-z go
-ls
-gen init once
-cd once
-ls
-code .
-go run  main.go
-go build 
-ls
-./once
-./once hello
-go run main.go
-go mod tidy 
-pgrep  -f "/usr/bin/waybar"
-pgrep  -f waybar
-pgrep -l -f waybar
-pgrep -l -f /usr/bin/waybar
-go build 
-./once waybar
-go build 
-./once waybar
-go run main.go 
-go build 
-./once waybar
-go build 
-./once waybar
-go build 
-ls
-./once waybar
-go build ; sudo mv once /usr/bin/once
-pkill waybar
-mako
-once mako
-wob
-once wob
-pkill sway 
-once fcitx
-/usr/bin/fcitx5
-notify-send hello
-wl-clip-persist 
-wl-clip-persist  --help
-wl-clip-persist  --server
-cliphist
-go build ; sudo mv once /usr/bin/once
-wl-paste --watch waybar-signal clipboard
-sworkstyle
-wl-paste
-once clash-verge
-wl-paste --watch cliphist store
-ls
-echo hello
-pkill sway 
-ls
-cd scripts/
-./weather.py
-once waybar
-exit
-grep -f /usr/bin/waybar
-pgrep -f /usr/bin/waybar
-ps | where name =~ "waybar"
-ps -l | where name =~ "waybar"
-which waybar
-exit
-pkill waybar
-ls
-exit
-ps -l | where name =~ "waybar"
-grep -f /usr/bin/waybar
-pgrep -l -f /usr/bin/waybar
-pgrep -l -f way
-pgrep -l -f waybar
-pgrep --list -f waybar
-pgrep -a -f waybar
-ps -l | where name =~ "waybar"
-ps -l | where name =~ "sh"
-pgrep -f waybar
-pgrep -f /usr/bin/waybar
-pgrep  /usr/bin/waybar
-pgrep /usr/bin/waybar
-go build ; sudo mv once /usr/bin/once
-pkill waybar
-pkill sway 
-pgrep /usr/bin/waybar
-pgre waybar
-pgrep waybar
-pgrep -a waybar
-pgrep -a /usr/bin/waybar
-go build ; sudo mv once /usr/bin/once
-pkill waybar
-once waybar
-grep -f /usr/bin/waybar
-pgrep -f /usr/bin/waybar
-which clash-verge
-once clash-verge
-grep -f /usr/bin/clash-verge
-pgrep -f /usr/bin/clash-verge
-ps -l | where name =~ "clash"
-which clash-verge
-file /usr/bin/clash-verge
-ls -l /usr/bin/clash-verge
-pkill waybar
-clash-verge --help
-clash-verge
-ps -l | where name =~ "auto"
-which autotiling
-ls -l autotiling
-ls  /usr/bin/autotiling
-ls -l  /usr/bin/autotiling
-once /usr/bin/autotiling
-autotiling
-once /usr/bin/autotiling
-go build ; sudo mv once /usr/bin/once
-ls
-exit
-pkill autotiling
-ps -l | where name =~ "waybar"
-pkill waybar 
-pgrep --help
-once waybar
-pkill waybar
-pgrep -x /usr/bin/waybar
-once waybar
-pgrep -f /usr/bin/waybar
-go build ; sudo mv once /usr/bin/once
-clash 
-clash-meta
-reboot 
-ping google.com
-once clash-meta
-pkill clash-meta
-clash
-ls
-vim /etc/environment
-ls
-cd .config
-cd clash
-ls
-vim config.yaml
-ls
-vim config.yaml
-ls
-clash
-clahs -c 
-clash --help
-clash -f ~/.config/clash/config.yaml
-vim config.yaml
-clash-meta -f ~/.config/clash/config.yaml
-ps -l | where name =~ "waybar"
-ps -l | where name =~ "clash"
-clash-verge
-clash-meta  -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml
-clash-meta -d ~/.local/share/io.github.clash-verge-rev.clash-verge-rev -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml<\n>
-ls
-exit
-once clash-meta -d ~/.local/share/io.github.clash-verge-rev.clash-verge-rev -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml<\n>
-go build ; sudo mv once /usr/bin/once
-once clash-meta -d ~/.local/share/io.github.clash-verge-rev.clash-verge-rev -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml<\n>
-notify-send hello
-pkill sway 
-ls
-exit
-journalctl 
-journalctl  --help
-cd /run/log
-ls
-cd journal/
-ls
-cd /run/log
-ls
-cd journal/
-ls
-cd ..
-ls
-fd journal/
-ls
-cd ..
-ls
-journalctl --help
-man swayrd
-swayrd --help
-swayrd
-once swayrd
-yay --noconfirm 
-ls
-journalctl --help
-journalctl -S=7
-journalctl -S=0705
-reboot 
-journalctl -r
-sudo rm  /run/log/journal/* 
-sudo rm /run/log/journal/* 
-ls
-cd /run/log
-cd journal/
-ls
-sudo su
-journalctl --disk-usage<\n>
-journalctl --vacuum-time=1d<\n>
-cd /var/log/journal/
-ls
-rm * 
-sudo rm * 
-ls
-sudo rm -rf *
-journalctl 
-foot-clinet
-foot-client
-footclinet
-footclient
-foot
-exit
-once tail -f /tmp/wobpipe | wob &<\n>
-echo 23| wob
-echo 23 >> wob
-bash
-exit
-fish 
-ps -l | where name =~ "wob"
-pkill wob
-man way-displays
-dex
-nwg-wrapper
-cd .config
-cd rofi
-code .
-notify-send hello
-notify-send just
-notify-send do
-it
-ps -l | where name =~ "wob"
-pkill wob
-pgrep wob
-~/.config/sway/scripts/wob.sh 
-pgrep wob
-ps -l | where name =~ "wob"
-ls
-cd .config
-cd sway
-ls
-cd scripts/
-ls
-pp wob
-pc wob.sh
-/home/km/.config/sway/scripts
-/home/km/.config/sway/scripts/wob.sh
-pgrep "wob"
-pgrep wob
-/home/km/.config/sway/scripts/wob.sh
-pgrep wob
-pgrep -f wob
-pgrep -a -f wob
-pkill tail
-/home/km/.config/sway/scripts/wob.sh
-pkill tail
-ps -l | where name =~ "wob"
-ps -l | where name =~ "tail"
-ls
-wob.sh
-./wob.sh
-ls
-ps -l | where name =~ "tail"
-ps -l | where name =~ "wob"
-exit
-./wob.sh
-cd scripts/
-./wob.sh
-pkill tail
-pkill wob
-/home/km/.config/sway/scripts/wob.sh
-exit
-poweroff
-KEYS
-keys
-ls
-term
-once foot --server
-exit
-foot
-bluetuith 
-ls
-networkctl 
-netui
-nmtui
-reboot 
-networkctl 
-exit
-ls
-exit
-poweroff 
-ls
-calcurse
-calcurse
-~/.config/sway/scripts/help.sh --toggle
-exit
-pgrep swayrd
-pgrep -a swayrd
-swayrd --help
-flashfocus --help 
-pgrep -a flashfocus
-kill 1675
-exit
-pgrep -a flashfocus
-wl-clip-persist --help
-wl-clip-persist --help 
-wl-clip-persist -d
-wl-clip-persist
-yay 
-bluemoon
-bluetoothctl 
-z sway 
-ls
-cd modes/
-ls
-nvim style
-go build 
-./gen 
-ls
-./bin
-how stupid 
-how stupid it is 
-exit
-vim default
-exit
-yay --noconfirm 
-ls
-cd sys
-cd /sys
-cd class
-ls
-cd hwmon/
-ls
-cd hwmon6/
-r
-yay --noconfirm 
-reboot 
-ls
-gpre clash 
-pgrep -a clash
-pgrep -a clash-meta
-once clash-meta -d ~/.local/share/io.github.clash-verge-rev.clash-verge-rev -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml
-gen 
-which clash
-which clash-meta
-which clash-mate
-pgrep clash-verge 
-pgrep clash-verge
-pgrep -a clash-verge
-pgrep -f clash-verge
-pgrep -f  clash-verge
-which clash-mate
-which clash-verge
-yay --noconfirm nvim
-rem list 
-rem 
-yay --noconfirm neovim 
-rem --help
-rem 
-ps -l | where name =~ "clash"
-which clash-verge
-exit
-git clone https://github.com/LazyVim/starter ~/.config/nvim
-cd nvim
-nvim
-ls
-cd nvim
-ls
-cd .config
-rm -rf nvim
-git clone https://github.com/LazyVim/starter ~/.config/nvim
-neovim
-nvim
-ls
-nvim user-dirs.dirs
-ls
-file /usr/bin/vim
-rm /usr/bin/vim 
-sudo rm /usr/bin/vim 
-z /usr/bin/
-cp -l /usr/bin/nvim /usr/bin/vim
-bash 
-ls
-ls
-z go
-z gen
-z once
-ls
-vim main.go
-r
-ls
-cd app
-ls
-pgrep clash-verge
-pgrep /usr/bin/clash-verge
-pgrep -f  /usr/bin/clash-verge
-vim app.go
-go build 
-sudo mv once /usr/bin/once
-once clash-verge
-ls
-z work
-ls
-cd vercanium/
-ls
-vim main.go
-ls
-z vercanium
-ls
-cd system
-touch process_test.go
-go mod tidy 
-go mod tidy
-exit
-pgrep vscode
-pgrep -a vscode
-pgrep -l vscode
-which vscode
-pgrep -f vscode
-pgrep -a -f vscode
-ps -l | where name =~ "code"
-which code
-which code
-pgrep -f ""
-cd syst
-cd system
-reboot 
-ls
-once waybar
-pgre -f waybar
-pgrep -f waybar
-pgrep  waybar
-pgrep  -a waybar
-pgrep  -a -f waybar
-once clash-verge
-once waybar
-pgrep -f waybar
-pgrep -f clash-verge
-pgrep -f /usr/bin/waybar
-ps | where name =~ "waybar"
-ps -l | where name =~ "waybar"
-ps -l | where name =~ "clash-verge"
-once waybar
-notify-send just
-pgrep -f /usr/bin/waybar
-go build ; sudo mv once /usr/bin/once
-once waybar
-pgrep -f waybar 
-go build ; sudo mv once /usr/bin/once
-once waybar
-go build ; sudo mv once /usr/bin/once
-once waybar
-once clash-verge
-gprep -f clash-verge
-pgrep -f clash-verge
-pgrep -a -f clash-verge
-once clash-verge
-once waybar
-go build ; sudo mv once /usr/bin/once
-once waybar
-ps | where pid = 12990
-ps 
-ps -i 12990
-bash
-go build ; sudo mv once /usr/bin/once
-once waybar
-go build ; sudo mv once /usr/bin/once
-once waybar
-go build ; sudo mv once /usr/bin/once
-once waybar
-waybar
-once waybar 
-waybar
-once waybar 
-go build ; sudo mv once /usr/bin/once
-once waybar
-go build ; sudo mv once /usr/bin/once
-once 
-once waybar
-exit
-reboot 
-notify-send just
-exit
-go build 
-sudo mv once /usr/bin/once
-once waybar
-once clash-verge
-once code
-once /usr/bin/code
-dex
-cava
-weather 
-cd .config
-ls
-cd sway 
-cd scripts/
-ls
-./weather.py
-exit
-ssh root@21123.12.12
-ssh root@21.123.12.12
-ssh root@21.123.12.12 -p
-ssh root@21.123.12.12 
-ssh root@22.123.12.12 
-ssh root@87.123.12.12 
-swayidle 
-swayidle  -w timeout 10
-log out
-logout
-ls
-swayidle
-swayidle --help
-swayidle -w timeout 10 echo hello
-swayidle -w timeout 10 "echo hello"
-swayidle -w timeout 5 "echo hello"
-swaylock
-ls
-z 
-cd .config
-cd swaylock
-ls
-cd ..
-ls
-mkdir github 
-ls
-cd github
-ls
-git clone --depth=1 https://github.com/catppuccin/swaylock.git
-cd swaylock/
-ls
-cd .confgi
-cd 
-cd .config
-ls
-cd swaylock/
-ls
-mkdir swaylock
-ls
-r
-cd themes/
-ls
-cp mocha.conf ~/.config/swaylock/config
-ls
-cd swaylock/
-swaylock
-ls
-cd ..
-ls
-swaylock
-swayidle -w timeout 5 "echo hello" resume "echo back"
-vim swaylock.tera
-brightnessctl 10
-brightnessctl set 10
-swayidle -w timeout 5 "brightnessctl set 10" resume "brightnessctl set 80"
-swayidle -w timeout 5 "brightnessctl set 10" resume "brightnessctl set -r"
-swayidle -w timeout 5 "brightnessctl set 10" resume "brightnessctl -r"
-brightnessctl  -r 
-brightnessctl set 240
-brightnessctl set 220
-brightnessctl -s
-brightnessctl -r
-swayidle -w timeout 5 "brightnessctl -s && brightnessctl set 10" resume "brightnessctl -r"
-la
-gprep -f swayidle
-pkill swayidel
-pkill swayidle
-notify-send just
-which notify-send
-go build ; sudo mv once /usr/bin/once
-pkill swayidle
-swaylock
-pkill swayidle
-zeit
-exit
-reboot 
-swaylock
-ls
-cd Screenshots/
-ls
-r
-notify-send --help
-notify-send -i 
-notify-send -i obsidian hello 
-notify-send -i code hello 
-notify-send -i /usr/bin/code hello 
-notify-send -i google hello 
-notify-send -i feishu hello 
-notify-send -i Feishu hello 
-notify-send -i foot hello 
-notify-send -i apifox hello 
-notify-send -i /usr/bin/apifox hello 
-notify-send -i apifox hello 
-cava
-n
-neofetch
-ls
-cd ..
-ls
-cd .config/nushell
-ls
-vim env.nu
-c
-cave
-ceva
-n
-cava
-c
-exit
-c
-ls
-exit
-ls
-ls
-n
-exit
-exit
-ls
-exit
-gitui
-go build 
-docker ps -a
-docker ps -a 
-z rust
-ls
-cd ..
-ls
-cd ..
-cd 
-ls
-cd code
-cd rust
-ls
-cd tokio-example/
-ls
-cargo run 
-cd ..
-ls
-cargo new cmd
-ls
-cd cmd
-ls
-exit
-exit
-ls
-z 
-du 
-dust
-cd .cache
-ls
-dust 
-ls
-exit
-ls
-cd data
-ls
-cd mysql
-ls
-cd ..
-ls
-cd Library/
-ls
-cd ..
-cd Downloads/
-ls
-cat dzg.pdf
-r
-ls
-cp dzg.pdf 1.mp4
-ls
-z temp
-ls
-cd /tmp
-ls
-cp ~/Downloads/1.mp4 ./1.mp4
-ls
-cd ..
-cd ls
-ls
-cd code
-ls
-cd 
-cd code
-ls
-cd rust
-ls
-cd cmd
-cargo run
-cargo run 
-go run main.go 
-cargo run 
-swaylock 
-ps | where mem > 100Mib 
-cargo run 
-ps | where mem > 100Mib 
-ps | where mem > 100Mib  | get name mem 
-ps | where mem > 100Mib  | get name,mem 
-ps | where mem > 100Mib  | select  name mem 
-ps | where mem > 10Mib | where mem < 100Mib  | select  name mem 
-ls
-cd ..
-cd 
-cd data
-ls -l 
-cd ..
-ls
-cd Public/
-ls
-ls -l 
-group list
-group 
-cgroup list
-bash
-poweroff 
-yay istio
-minikube start<\n>
-yay --noconfirm -S minikube
-sudo bg 1panel
-ls
-cd ..
-ls
-cd ..
-ls
-cd go
-ls
-mkdir grpc
-ls
-cd grpc
-ls
-dc ..
-cd ..
-rmdir grpc
-cp -r template/ grpc
-ls
-cd grpc
-ls
-code .
-z grpc
-ls
-cd grpc-go/
-code .
-git clone --depth=1 https://github.com/zlingqu/go-grpc-demo.git
-2.7 * 14
-2.7 * 12
-47 / 12
-47 / 14
-2 * 1.3
-cd go-grpc-demo
-ls
-code .
-go run client/main.go
-go get -u github.com/golang/protobuf/protoc-gen-go<\n>
-protobuf
-protoc --go_out=.  demo.proto <\n>
-yay protoc
-go get -u github.com/golang/protobuf/protoc-gen-go<\n>
-go get -u github.com/golang/protobuf/protoc-gen-go<\n>
-protoc --go_out=.  demo.proto <\n>
-yay --noconfirm protoc
-yay --noconfirm -S protobuf
-ls
-go run main.go 
-ls
-z go
-ls
-cd ..
-cd code/go
-ls
-cd grpc
-ls
-cd ..
-mkdir grpc-demo
-cd grpc-demo/
-ls
-mkdir grpc-server
-mkdir grpc-client
-ls
-code .
-cd api
-protoc .
-protoc --go_out=.
-protoc --go_out=. example.proto
-yay --noconfirm -S protoc-gen-go
-protoc --go_out=. example.proto
-ls
-cd ..
-cp -r api/ ./grpc-client/
-cp -r api/ ./grpc-server/
-go mod tidy 
-go mod init client 
-go mod tidy 
-cd grpc-server/
-go mod tidy 
-cd grpc-client 
-ls
-cd ..
-cd grpc-client
-go mod tidy 
-go run main.go 
-go mod tidy 
-go run main.go 
-go mod tidy 
-go mod init client 
-go mod init server
-go mod tidy 
-go mod tidy 
-cd api
-protoc --go_out=. example.proto
-protoc --go_out=. --go-grpc_out=. demo.proto <\n>
-ls
-protoc --go_out=. --go-grpc_out=. example.proto <\n>
-yay  --noconfirm protco-gen-go-grpc 
-yay protco-gen-go-grpc 
-go install google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-cd 
-go install google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-go install google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-cd ..
-go install google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-go get google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-protoc --go_out=. --go-grpc_out=. example.proto <\n>
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto <\n>
-go get -u github.com/golang/protobuf/protoc-gen-go<\n>
-go run main.go 
-cd server
-go mod tidy 
-cd client
-go run main.go 
-go run main.go 
-cd ..
-cp -r server ./api-server
-cp -r client ./api-client
-ls
-cp /home/km/code/go/rpc/api-server/api/api.go ./api-client/api/api.go
-cd ..
-cd api-server/
-ls
-ls
-cd api-client/
-ls
-go run main.go 
-go mod init client 
-go mod tidy 
-go run main.go 
-10 * 30 
-10 * 30  
-10 * 30  * 40
-10 * 30  * 50
-10 * 30  * 60
-ls
-cd api
-ls
-go install google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-protoc --go_out=. --go-grpc_out=. example.proto <\n>
-go mod tidy 
-cd ..
-cp -r ./api ../grpc-server/
-go mod tidy 
-ls
-cd grpc-server/
-cd client
-ls
-cd client 
-cd grpc-client/
-ls
-go run main.go
-go run main.go 
-go run main.go
-minikube start<\n>
-hotpot e go run main.go 
-cd aata
-cd data
-ls
-rm *.go
-ls
-protoc --go_out=. --go-grpc_out=. example.proto <\n>
-protoc --go_out=. --go-grpc_out=. demo.proto <\n>
-ls
-cd api
-ls
-rm *.go
-protoc --go_out=. --go-grpc_out=. demo.proto <\n>
-protoc --go_out=. --go-grpc_out=. example.proto <\n>
-ls
-cd api
-ls
-rm * 
-ls
-pp example.proto
-pc example.proto
-bash 
-protoc --go_out=. --go-grpc_out=. example.proto <\n>
-cd ..
-ls
-vim Makefile
-make 
-proto  --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-proto  --go_out=api --go-grpc_out=api ./api/example.proto 
-protoc  --go_out=api --go-grpc_out=api ./api/example.proto 
-vim Makefile
-make 
-ls
-ls
-cd ..
-cp -l /home/km/code/go/grpc-demo/grpc-server/Makefile ./Makefile
-cp  /home/km/code/go/grpc-demo/grpc-server/Makefile ./Makefile
-make 
-ls
-./client
-ls
-cd code/go
-ls
-cp -r template/ grpc-demo
-ls
-cd grpc-demo
-ls
-rm -rf template/
-ls
-r
-git switch master 
-git pull 
-gitui
-ls
-go run main.go 
-ls
-cd ..
-ls
-cd ..
-ls
-cp -r template/ tcp
-cd tcp
-code .
-curl localhost:9191/stream 
-wget localhost:9191/stream 
-ls
-vim stream
-rm stream
-go run main.go 
-ls
-cd work
-git clone --depth=1 https://github.com/songquanpeng/one-api.git
-cd one-api/
-ls
-code .
-go run main.go 
-ls
-cd i18n/
-ls
-python translate.py
-python translate.py --json_file_path=./en.json
-python translate.py --json_file_path=en.json
-cd ..
-cd web/
-ls
-cd default/
-ls
-npm install && npm run build 
-npm 
-npm proxy 
-npm help
-cd 
-npm install 
-npm run build 
-ls
-go run main.go 
-vim .npmrc
-z work
-ls
-git clone --depth=1 https://github.com/songquanpeng/go-file.git
-ls
-cd go-file/
-tokie
-tokei
-code .
-go run main.go 
-fd mp3
-tokei
-go  build 
-ls
-tokei
-go mod tidy 
-ls
-cd ..
-ls
-cd ..
-cd code/go
-ls
-fd rpc
-ls
-ls | where name  =~ "rpc"
-ls
-mv -r grpc-demo/ grpc-example
-ls
-cp -r grpc-demo/ grpc-example
-ls
-cd grpc-client/
-make 
-cd grpc-client/
-cd ..
-cd ..
-cd server
-cd client
-ls
-ls
-make 
-make 
-make proto
-make proto
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-ls
-cd ..
-ls
-cd go
-cd grpc-example/
-code .
-make proto
-go run main.go 
-z wokr
-z work
-ls
-git clone --depth=1 https://github.com/zlingqu/go-grpc-demo.git
-ls
-cd go-grpc-demo/
-ls
-code .
-make proto
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-cd api
-ls
-cd server
-cd client
-go run main.go 
-go run main.go 
-make proto
-make proto
-go run main.go 
-make proto
-go run main.go 
-make proto
-go run main.go 
-go mod tidy 
-go mod tiyd 
-go mod tidy
-ls
-go run main.go 
-go run main.go
-make proto
-go mod tidy 
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-go get -u github.com/grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway<\n>
-go get -u github.com/grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway<\n>
-make proto
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-go mod tiyd 
-ls
-go mod tidy 
-go get -u github.com/grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway<\n>
-ls
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-sudo lsof -i:50051
-go run  main.go 
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-protoc  --proto_path=.:$GOPATH/src --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-cd $GOPATH/src/google/api/annotations.proto
-cd 
-cd go
-cd src
-ls
-cd bin
-ls
-cd ..
-cd pkg
-ls
-env.GOPATH
-bash
-ls
-cd ..
-ls
-cd ..
-l
-ls
-protoc  -I --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-protoc   --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-protoc --help
-cd go
-ls
-cd okg
-cd pkg
-ls
-cd mod
-ls
-go env
-go env | grep GOPATH
-fd go/src
-cd 
-fd go/src
-cd ..
-cd /
-cd go/src
-fd go/src
-which go
-cd opt
-ls
-cd ..
-ls
-cd lib
-ls
-cd go/
-ls
-cd src
-ls
-fd proto
-cd ..
-ls
-fd proto
-exit
-ls
-cd Downloads/
-ls
-cd google/
-ls
-cd api
-ls
-fd *.proto
-fd proto
-ls
-cd 
-cd code/go
-ls
-cd grpc-example/ls
-ls
-cd grpc-demo/
-ls
-pc
-fd proto -x mv {} /home/km/code/go/grpc-demo/{.}
-fd proto -x mv {} /home/km/code/go/grpc-demo/{}
-fd proto -x echo {}
-fd proto -x echo {.} 
-ls
-ls
-cd server
-ls
-make proto
-pkill keys 
-cd /usr/bin/
-ls
-cd ..
-ls
-cd ..
-cd /etc
-ls
-cd go
-ls
-cd ..
-cd /opt
-cd go
-ls
-cd ..
-ls
-cd lib
-cd go
-ls
-cd src
-ls
-cd ..
-ls
-cat VERSION
-cd code/go
-ls
-cd test
-ls
-cd test
-mkdir test
-cd test
-code .
-touch main.go
-go run main.go 
-go mod tidy 
-go build 
-ls
-sudo mv hotpot /usr/bin/hotpot-dev
-ls
-hotpot init
-cd /tmp
-ls
-hotpot h
-hotpot w
-gitui
-ls
-go build 
-sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev h
-hotpot w 
-echo 23 >>hotpot.sock
-echo 23  | hotpot.sock
-go build 
-sudo mv hotpot /usr/bin/hotpot-dev
-hotpot h
-hotpot w
-go build 
-sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev h
-hotpot-dev w
-go build 
-sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev h
-go build 
-go build ; sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev w
-hotpot-dev h
-git push 
-gitui
-sudo rm /usr/bin/hotpot-dev
-ls
-go build 
-mv -r grpc-demo/ grpc-example
-sudo mv hotpot /usr/bin/hotpot
-hotpot-dev w
-bash
-ls
-exit
-z test
-ls
-exit
-ls
-vim main.go
-go build ; sudo mv hotpot /usr/bin/hotpot
-hotpot w
-hotpot h
-go build ; sudo mv hotpot /usr/bin/hotpot
-git add * 
-git commit --amend 
-ls
-hotpot w
-hotpot h
-git push -f 
-poweroff
-ls
-yay -R go
-env 
-env | grep go
-env | grep GO
-env | grep go
-bash
-go
-cd /usr/local
-ls
-cd go
-cd src
-ls
-cd ..
-cd bin
-ls
-cd ..
-ls
-cd ..
-ls
-cd download/
-cd Downloads/
-cd 
-cd Downloads/
-ls
-tar -C /usr/local -xzf go1.22.5.linux-amd64.tar.gz<\n>
-ls
-mv -r go /home/km
-ls
-cd go
-ls
-cd ..
-cd go
-ls
-cd bin
-ls
-cd ..
-bash
-ls
-mv --help
-mv -f go /home/km
-og
-go
-go version
-exit
-path 
-env | grep go
-sudo vim /etc/environment
-cd ..
-vim .bashrc
-ls
-vim .profile
-ls
-go version
-cd ..
-ls
-cd 
-ls
-cd go
-ls
-go env
-go env 
-go  config
-go  help
-go list
-ls
-cd ..
-ls
-cd go
-ls
-cd ..
-rm -rf go
-ls
-sudo rm -rf go
-ls
-rm -rf data
-sudo rm -rf data
-ls
-env 
-env | grep go
-cd Downloads/
-ls
-sudo mv go /usr/local
-ls
-go 
-go exit
-exit
-go
-sudo vim /etc/environment
-ls
-exit
-go 
-go
-sudo vim /etc/environment
-reboot 
-ls
-go
-env | grep go
-sudo vim /etc/environment
-cd /usr/local
-ls
-cd bin
-ls
-cd ..
-ls
-cd go
-ls
-cd bin
-ls
-./go
-./go env 
-env 
-env | grep go
-cd 
-cd .local
-ls
-cd ..
-vim .profile
-vim .bashrc
-vim .fishrc
-ls -a | where name =~ "rc"
-vim .zshrc
-export hello=12
-vim /etc/profile
-vim /etc/bash.bashrc
-ls
-go 
-reboot 
-go
-go env
-go env 
-which go
-ls 
-ls --help
-ls -f
-ls
-go mod tidy 
-go mod init bin
-go mod tidy 
-hotpot w
-ls
-gofmt -w /tmp/main.go
-impl
-golsp
-gopls 
-gopls /tmp/main.go
-gofmt  --help
-gofmt -s -w /tmp/main.go
-go run main.go 
-ls
-cd .config
-ls
-cd vim
-ls
-cd nvim
-ls
-vim init.lua
-ls
-vim
-go mod tidy 
-cd server
-go mod tidy 
-ls
-make proto
-cd api
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-cd ..
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
-ls
-cd 
-cd .go
-cd go
-ls
-go env 
-cd go
-ls
-cd pkg
-ls
-cd ..
-ls
-cd ..
-cd download/
-cd Downloads/
-ls
-cd google/
-ls
-cd protobuf/
-ls
-cd ..
-rm -rf google
-ls
-start .
-ls
-pc
-protoc --go_out=./api/. --go-grpc_out=./api/. --proto_path=/home/km/Downloads  ./api/example.proto 
-protoc --go_out=./api/. --go-grpc_out=./api/. --proto_path=/home/km/Downloads/google  ./api/example.proto 
-cd google/
-ls
-cd 
-cd go
-mkdir src
-cd ..
-mv google/ /home/km/src
-protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/example.proto 
-protoc --go_out=./api/. --go-grpc_out=./api/. --proto-path=/home/km/go/src  ./api/example.proto 
-ls
-cd src
-ls
-ls
-cd gools
-cd google
-ls
-cd ..
-ls
-cd ..
-ls
-mv src go/
-ls
-cd go
-ls
-protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/example.proto 
-cd src
-ls
-mkdir google
-start .
-mkdir google
-protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/example.proto 
-go install google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-go get google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-ls
-z grpc
-ls
-rm | where type = file
-ls | where type = file
-ls | get type = file
-ls | get type 
-ls | select name type 
-ls | select name type  | where type = file
-ls | select name type  | where type == file
-ls | select name type  | where type == file | echo $in
-ls | select name type  | where type == file | get name echo $in
-ls | select name type  | where type == file | get name | echo $in
-ls | select name type  | where type == file | get name | rm $in
-ls | select name type  | where type == file | get name 
-ls | select name type  | where type == file | get name  || flatten
-ls | select name type  | where type == file | get name  | flatten
-ls | select name type  | where type == file | get name  | flatten | rm $in
-ls | select name type  | where type == file | get name  |  each { |it| $"Hello, ($it)!" }<\n>
-ls | select name type  | where type == file | get name  |  each <\n>
-ls | select name type  | where type == file | get name  |  each  {echo $}
-ls | select name type  | where type == file | get name  |  each  {echo $it}
-ls | select name type  | where type == file | get name  |  each  {|it|  echo $it}
-ls | select name type  | where type == file | get name  |  each  {|it|  rm $it}
-ls
-protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/example.proto 
-go get google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-fd proto
-cd ..
-cd go
-fd protoc
-ls
-cd bin
-ls
-cd /usr/local
-ls
-cd bin
-ls
-cd ..
-ls
-cd go
-ls
-cd bin
-ls
-go install  google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
-protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/example.proto 
-go run main.go 
-go get server/api
-go run main.go 
-protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/example.proto 
-exit
-cd 
-ls
-cd go
-cd ..
-cd code/go
-ls
-mkdir grpc-http
-cd grpc-http
-code .
-mkdir client
-cd server
-ls
-cd server
-ls
-gp mod init server
-go mod init server
-touch main.go
-mkdir grpc-client
-cd grpc-client
-go mod tidy 
-go mod init client
-touch main.go 
-go mod tidy 
-protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/*.proto 
-cd ..
-protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/*.proto 
-go run main.go 
-pp
-pp 
-pc
-protoc --go_out=./api/. --go-grpc_out=./api/.  -I=/home/km/code/go/grpc-demo ./api/*.proto 
-protoc --go_out=./api/. --go-grpc_out=./api/.  -I=/home/km/go/src ./api/*.proto 
-protoc --go_out=./api/. --go-grpc_out=./api/.  -I=/home/km/go/src/ ./api/*.proto 
-ls
-cd server
-ls
-pc google
-cp -r /home/km/code/go/grpc-demo/server/google/ google
-protoc --go_out=./api/. --go-grpc_out=./api/. ./api/*.proto 
-cd server
-exit
-cd ../../
-ls
-cd grpc-demo
-ls
-cd server
-cd client
-ls
-make 
-make proto
-make proto
-vim Makefile
-make proto
-make
-make
-go run main.go
-go run main.go
-make proto
-go run main.go
-make proto
-go run main.go
-ls
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-z work
-ls
-cd go-grpc
-cd go-grpc-demo/
-code .
-sudo bg 1panel
-docker ps -a 
-docker images
-docker run elasticsearch:5.0.0 
-docker ps -a 
-docker images
-docker run elasticsearch 8.14.1
-docker run elasticsearch:8.14.1
-ls
-cd ..
-ls
-cd ..
-cd code/go
-ls
-mkdir es-demo
-ls
-rmdir esdemo
-rmdir es-demo/
-cp -r template es-demo
-ls
-cd es-demo
-ls
-code.
-code .
-go mod tiyd 
-go mod tidy 
-go run main.go 
-docker images
-go mod tidy 
-docker images
-go run main.go 
-curl localhost:9200
-curl localhost:9300
-curl localhost:9008
-ls
-cd ..
-cd 
-touch .vimrc
-vim .vimrc
-cd `Nutstore Files/`
-ls
-cd Notebook/
-ls
-cd .obsidian/
-ls
-vim .vimrc
-ls
-cd 
-cd code/go
-mkdir pprof
-rmdir pprof
-cp -r template pprof
-cd pprof
-code .
-ls
-cd ..
-rm -rf pprof
-gen init pprof
-cd pprof
-ls
-code .
-go mod tidy 
-go run main.go 
-go mod tidy
-go mod tiyd 
-go mod tidy 
-go run main.g o
-go run main.go
-go mod tidy 
-go run main.go 
-yay --noconfirm graphviz
-	go tool pprof -http=:8080 *.pprof
-go run main.go
-go tool pprof -http=:8080 cpu.pprof
-go run main.go
-go run main.go args
-go tool pprof -http=:8080 cpu.pprof
-go mod tidy 
-go tool pprof -http=:8080 cpu.pprof
-go run main.go 
-	go-callvis main.go
-	go install github.com/ofabry/go-callvis@master
-go-callvis main.go
-go run main.go 
-go run main.go cli
-go run main.go args hello
-go tool pprof -http=:8080 cpu.pprof
-go run main.go args hello
-go tool pprof -http=:8080 cpu.pprof
-go-callvis main.go
-go-callvis 
-go-callvis  main.go
-go-callvis  main
-go-callvis  main.go
-go-callvis .
-go-callvis
-go-callvis main
-go-callvis main.go
-upx 
-yay upx 
-z work
-ls
-z github
-ls
-cd .
-cd 
-cd github/
-ls
-git clone --depth=1 https://github.com/Egor3f/go-callvis.git
-z dotfile
-ls
-cd script/
-ls
-touch repo
-vim repo
-chmox +x repo
-chmod +x repo
-sudo cp repo /usr/bin/repo
-ls
-cd go-callvis/
-ls
-code .
-go build 
-ls
-which go-callvis
-rm /home/km/go/bin/go-callvis
-ls
-sudo mv go-callvis /usr/bin/go-callvis
-go mod tidy 
-go-callvis main.go
-go-callvis main.go args hello
-z hotpot
-ls
-go-callvis main.go
-go run main.go 
-gen cli 
-z pprof
-ls
-go run main.go
-go run main.go 
-go-callvis main.go
-go run mai.go
-go mod tidy 
-go run main.go 
-rm *.pprof
-go run main.go 
-go mod tidy 
-ls
-go tool pprof -http=:8080 cpu.pprof
-go mod tidy 
-go run main.go 
-exit
-exit
-go run main.go 
-ls
-go run main.go 
-go tool pprof -http=:8080 cpu.pprof
-go run main.go 
-go tool pprof -http=:8080 cpu.pprof
-ls
-cd ..
-ls
-cd 
-cd code/go
-ls
-cd zero
-ls
-cd ..
-ls
-cd grpc
-ls
-cd ..
-rm -rf grpc
-ls
-rm -rf grpc-http
-ls
-cd grpc-example
-ls
-cd ..
-ls
-cd go
-ls
-cd clickhouse/
-ls
-cd ..
-z feishu
-ls
-code .
-go mod tiyd 
-go mod tidy 
-go run main.go
-go run main.go 
-docker start clickhosue
-docker start clickhouse
-ls
-z github
-ls
-cd ..
-cd github
-repo https://github.com/KM911/tiu.git
-ls
-cd tui
-cd tiu
-ls
-./tiu
-rm tiu.exe
-ls
-cd .github
-ls
-code .
-go build 
-./tiu
-cd data
-ls
-r
-cd ..
-ls
-./tiu 
-./tiu upload
-./tiu server
-sudo lsof -i:3000
-reboot 
-ls
-gen
-z gen
-code .
-gen cli
-go build ; sudo mv gen /usr/bin/gen
-go build -o gen ; sudo mv gen /usr/bin/gen
-rm bin
-ls
-gen 
-gen cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen cli
-gen 
-gen cmd
-gen cli
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen
-gen 
-go build -o gen ; sudo mv gen /usr/bin/gen
-gen
-ls
-cd test
-ls
-gen init tsl
-ls
-cd tsl
-ls
-r
-go build -o gen ; sudo mv gen /usr/bin/gen
-cd test
-ls
-rm -rf tsl
-gen init tsl
-ls
-r
-cd tsl
-go run main.go 
-ls
-go run main.go 
-vim main.go
-exit
-go build -o gen ; sudo mv gen /usr/bin/gen
-go build 
-ls
-gitui
-git push 
-z 
-fd KM911
-cd code/KM911/KM911
-ls
-cat profile.md | wl-copy
-rm profile.md
-git  add * 
-git push 
-yay 
-ls
-z cyber
-ls
-go run main.go 
-go mod tidy 
-go run main.go 
-code .
-go build 
-make 
-ls
-ssh root@87.123.12.12 
-./client
-./client
-./server 
-go mod tidy 
-m go proxy
-go run main.go 
-ls
-z ..
-ls
-cd ..
-fd go-ci
-cd ci
-fd ci
-fd go
-fd CI
-fd GO-CI
-ls
-cd ..
-ls
-cd github/
-ls
-repo https://github.com/KM911/GO-CI.git
-gh repo clone KM911/GO-CI
-gh auth login
-ls
-gh repo clone KM911/GO-CI
-ls
-cd GO-CI/
-ls
-code .
-git add * 
-git push 
-go arch
-go 
-go env
-go env | grep ARCH
-git tag 
-git tag v0.0.1
-gitui
-git push 
-git add *
-git commit -m "add linux and windows release version"
-git tag v0.0.2
-git push 
-yay typora 
-ssh root@82.157.251.19
-exit
-exit
-go mod tidy 
-ls
-vim tet.tx
-vim tet.txt
-ls
-go run main.go 
-go run main.go
-poweroff 
-go run main.go 
-cd ReverseList/
-ls
-go run main.go 
-ls
-16 * 256
-256 ** 15
-gitui
-git pull 
-gitui
-gen cmd
-go run main.go 
-go run main.go
-echo -v 
-go run main.go 
-hotpot w
-bash -c echo hello go run main.go 
-bash -c echo hello | gerp h
-bash -c echo hello | grep h
-go mod tidy 
-pc
-python 
-ls
-cd .ssh
-ls
-cd ..
-go build 
-ls
-sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev 
-hotpot-dev w
-go mod tidy 
-go build 
-go mod tidy 
-go build 
-ls
-sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev w
-go build ; sudo mv hotpot /usr/bin/hotpot-dev
-github-desktop 
-gitui
-git push 
-hotpot-dev w
-go mod tidy 
-go mod tidy 
-go mod tid y
-go mod tidy 
-yay -Runc github-desktop
-gitui
-git push 
-ls
-gitui
-go build ; sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev w
-hotpot-dev 
-hotpot-dev w
-yay --noconfirm github 
-z fish
-gh 
-gh repo 
-gh repo view
-gh repo 
-yay --noconfirm github  desktop
-ls
-ls
-z go
-ls
-mkdir slice
-rmdir slice
-gen init slice
-cd slice
-ls
-code .
-go run main.go
-hotpot w
-exit
-git pull 
-gitui
-hotpot e go run main.go 
-go run main.go
-go run main.go 
-ls
-cd ..
-gen init kata
-ls
-cd kata
-ls
-code .
-vim main.go
-ls
-z 
-cd `Nutstore Files/`
-ls
-cd Notebook/
-ls
-tree
-z github
-ls
-cd ..
-cd 
-cd github
-repo https://github.com/huihongxiao/MIT6.S081.git
-repo git clone git://github.com/mit-pdos/xv6-public.git
-repo  git://github.com/mit-pdos/xv6-public.git
-ls
-gh repo clone huihongxiao/MIT6.S081
-ls
-exit
-gen cli obsidian-execute-code-enhancement-go
-gen 
-gen cli ttc
-go build ; sudo mv gen /usr/bin/gen
-gen cli ttc
-rm /usr/bin/gen
-sudo rm /usr/bin/gen
-go build 
-go build ; sudo mv gen /usr/bin/gen
-gen 
-gen cli hello
-cd hello
-fd 
-ls
-ls -l
-cd ..
-go build ; sudo mv gen /usr/bin/gen
-gen cli hello
-ls
-cd hello
-ls
-go run main.go 
-gen cmd 
-cd ..
-rm -rf hello
-go build ; sudo mv gen /usr/bin/gen
-gen cli hello
-cd hello
-ls
-go run main.go 
-cd ..
-ls
-rm -rf  hello
-ls
-ls
-gen cli execute-code
-n
-exit
-nu
-nu --help
-nu --logo
-logo
-nu --help
-yay 
-ls
-z go
-mkdir cross-platform 
-ls
-rmdir cross-platform/
-gen init crossplatform 
-cd crossplatform/
-code .
-go run main.go 
-go run . 
-reboot 
-poweroff 
-ls
-go build 
-gitui
-go build 
-./hotpot 
-sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev e go run main.go
-go run main.go
-hotpot-dev e go run main.go
-hotpot e go run main.go 
-go build ; sudo mv hotpot /usr/bin/hotpot-dev
-hotpot e go run main.go 
-hotpot-dev e go run main.go
-go mod tidy 
-go build 
-sudo mv hotpot /usr/bin/hotpot-dev
-go build ; sudo mv hotpot /usr/bin/hotpot-dev
-hotpot-dev e go run main.go
-go mod tidy 
-z fish
-code .
-gitui
-go mod tidy 
-go mod tidy 
-git add * 
-rm log
-ls
-gitui
-git commit --amend 
-git push 
-z go-files
-cd ..
-cd 
-ls
-cd github
-ls
-cd../code/
-cd 
-z github
-ls
-cd ..
-cd code
-ls
-cd github
-ls
-cd ..
-fd go-files
-fd files
-cd go
-ls
-cd ..
-ls
-cd work
-ls
-cd go-file/
-ls
-go build 
-ls
-ip -a
-ip a
-ls
-vim go.mod
-ls
-nutstore 
-cri
-ps | where crp
-poweroff 
-ls
-git add  * 
-pkill 
-reboot 
-ls
-z kata
-ls
-code .
-go run main.go 
-args 
-args
-hotpot w
-hotpot e go run main.go 
-hotpot e go run .
-go run main.go
-vim main.go
-go run main.go 
-minikube
-minikube start 
-minikube list
-minikube --help
-kubectl list
-kubectl 
-yay kubectl
-minikube dashboard
-kubectl
-kubectl list
-kubectl get
-kubectl node
-ls
-python back.py
-rem
-z github
-cd
-cd github
-repo gh repo clone huihongxiao/MIT6.S081
-z github
-ls
-cd
-cd github
-ls
-gh repo clone huihongxiao/MIT6.S081
-repo huihongxiao/MIT6.824
-repo github.com/huihongxiao/MIT6.824
-repo https://github.com/huihongxiao/MIT6.824.git
-ls
-repo https://github.com/huihongxiao/MIT6.S081.git
-ls
-cd 
-cd `Nutstore Files/`
-ls
-cd Notebook/
-ls
-cd CARD/
-ls
-cd MIT/
-ls
-cd MIT6.S081/
-ls
-rmdir  .gitbook/
-start .
-ls
-code .
-go run main.go
-z test
-ls
-go mod tidy 
-go run main.go
-vim test.file
-go  run main.go 
-go run main.go
-sudo   cat /proc/vmallocinfo
-sudo grep vmalloc /proc/vmallocinfo  |awk '{total+=$2};END {print total}'
-sudo  cat /proc/meminfo | grep Table<\n>
-82868 / 1024
-sudo cat /proc/meminfo
-exit
-go run main.go 
-go run maing.o 
-go run main.go
-sudo lsof -i:9000
-go run main.go 
-go tool pprof -inuse_space http://127.0.0.1:8080/debug/pprof/heap
-go-torch -alloc_space http://127.0.0.1:8080/debug/pprof/heap --colors=mem<\n>
-yay go-torch
-go install go-torch
-go-torch -alloc_space http://127.0.0.1:8080/debug/pprof/heap --colors=mem<\n>
-go tool pprof -inuse_space http://127.0.0.1:8080/debug/pprof/heap
-go tool pprof -http=:7778 http://localhost:7777/debug/pprof/heap<\n>
-go run main.go
-pwd 
-z feishu
-ls
-code .
-go mod tidy 
-go tool pprof -http=:7778 http://localhost:8080/debug/pprof/heap<\n>
-yay --noconfirm kafka
-yay --noconfirm -S nsqlookupd
-yay --noconfirm  nsql
-kafka-jmx.sh 
-yay --noconfirm  nsq
-$ nsqd --lookupd-tcp-address=127.0.0.1:4160<\n>
-ls
+ping localhost
+cd. .
 z code
-ls
-cd go
-mkdir nsq
-ls
-cd nsq
-ls
-gen init provider
-ls
-gen init consumer
-code .
-go mod tidy 
-cd provider/
-go mod tidy 
-ls
-cd consumer/
-ls
-go mod tidy 
-ls
-cd ..
-ls
-cd provider/
-ls
-go run main.go 
-go run main.go
-go run main.go 
-ls
-go run main.go
-nsqd --lookupd-tcp-address=127.0.0.1:4160<\n>
-nsqlookupd
-z nsq
-ls
-cd provider/
-ls
-cd ..
-ls
-cd consumer/
-go run main.go
-go run main.go 
-docker start redis
-redis-client
-redis-cilent
-redis-cli 
+scp main 82.157.251.19:/root/query
 yay email
-z test
-ls
-rm *
-ls
-touch main.go
-code .
-hotpot e go run . 
-go run main.go
-go mod init bin
-go mod tidy 
-yay wemeet
-ls
-n
-ls
-z pprof
-ls
-cd .
-cd ..
-ls
-rm -rf pprof/
-ls
-z go
-ls
-z pprof
-ls
-go run main.go 
-vim main.go
-ls
-vim main.go
-go run main.go 
-ls
-vim main.go
-z hotpot 
-vim main.go
-go run main.go 
-git pull 
-go run main.go w
-poweroff 
-ls
-z kat
-ks
-go run main.go 
-go run  main.go 
-go rum main.go
-go run main.go
-ls
-pwd
-exit
-reboot 
-systemctl reboot --firmware-setup<\n>
-update-grub
-sudo update-grub
-reboot 
-z kata
-ls
-go run main.go 
-vim main.go
-z nvim
-ls
-code .
-ls
-vim main.go
-ls
-z notebook
-ls
-fd conf
-exit
-l
-ls
-cd ..
-ls
-cd ..
-ls
-cd Library/
-ls
-cd ..
-ls
-cd Applications/
-ls
-cd ..
-ls
-cd pprof/
-ls
-cd ..
+go buiid ../
+kubectl get deployments
+go-torch -alloc_space http://127.0.0.1:8080/debug/pprof/heap --colors=mem<\n>
+xray run 
+docker start redis-6
+rm dp.go
+ps | where ppid = 141403
+docker
+make proto
+cd Videos/
+go run .
+carog run 
+ls | where name  =~ "grub"
+cd embed 
+sudo netstat-nat  -p tcp 
+yay -R kvantum
+pacman -Qi obsidian 
+yay -Runc kvantum
+gitp ull 
+docker run --name redis-cluster-1 -d myredis:0.0.1
+lks
+curl localhost:3000/v1/word/query?word=hello
+ansible --list-host
+sudo rm /usr/bin/pp
+pgrep --list -f waybar
+ls | get type 
+2.7 * 12
+who
+pgrep  -l -f waybar 
+redis-client
+gen init escape
+rm json.txt
+yay wechat 
+16 * 8
+cava
+info 
+sudo rm autostart
+ps | where name =~ "obsidian "
+yay github-desktop
+golsp
+cp -r ./template ./cli
+keys
 rm -rf pprof
-ls
-cd work
-ls
-cd ..
-cd work
-ls
-cd export
-ls
-cd ..
-rmdir export 
-ls
-z note
-ls
-cd ..
-ls
-cd ..
-cd code
-ls
-z fiber
-ls
-cd ..
-ls
-cd gin
-ls
-code .
-rm *.py
-ls
-cd main.go
-ls
-rm main.png
-ls
-go run main.goi 
-go build 
-ls
-gin
-ls
-cd ..
-cd
-ls
-cd Documents/ls
-cd Documents
-ls
-cd note
-ls
-cd ..
-pkill obsidian 
-pkill elecron
-reboot 
-ls
-z gin
-cd Documents
-ls
-cd note
-ls
-ls
+gp run main.go 
+1 * 1024 * 1024 / 1000
+z
+cd GPUCache/
+m go bench 
+cd gtk-3.0/
+ls -a | where name =~ "rc"
+z ..
+mkdir hopt
+rm bin
+docker run --name redis-test1 -v /etc/redis/redis.conf:/etc/redis/redis.conf myredis:0.0.1
+touch Makefile
+sudo keyd
+hugo new content tts
+notify-send -i foot hello 
+history | last 5 >> log
+startship 
+cp -r rofi/ ~/.config
+brightnessctl set 220
+z cyber
+./rem docker 
+yay --noconfirm   mongodb
+echo 23 >> wob
+wezterm-mux-server 
+z temp
+fd proto -x mv {} /home/km/code/go/grpc-demo/{}
+journalctl --help
+/home/km/Templates/python/venv/bin/obsidianhtml  convert -i config.yaml<\n>
+ps -l 
+cd ../mongodb/
+go install github.com/swaggo/swag/cmd/swag@latest
+./gen 
+ssh roo
+10 * 30  * 60
+pgrep "wob"
+ps
+wofi --show drun  --allow-image
+docker run --name redis-test myredis:0.0.1 -v /etc/redis/redis.conf:/etc/redis/redis.conf
+cat test.log
+ps | where mem > 10Mib
+go run maing.o
+./tool sudo vim /etc/environment
+yes
+which waybar
+ps | where  name =~ "wezterm"
+ls -l
+vim go.mod
+sudo rm -rf waybar
+cat uca.xml
+sudo systemctl status mongodb
+223 % 16
+go-callvis  main.go
+man wob
+why not 
+sudo netstat-nat -s localhost
+./main 好 | save -f good.json
+swaymsg "move [app_id=\"org.wezfurlong.wezterm\"] to scratchpad"<\n>
+git clone --depth=1 https://github.com/zeromicro/zero-examples.git
+python translate.py --json_file_path=en.json
+yay --noconfirm   -S etcd
+curl localhost:3000/v1/word/query?word=计算
+rm dict.go
+kubectl 
+but I really do not like it 
+swag 
+sudo rm ./target
+etcdctl  server
+cd transform/
+y
+cd hugo-theme-stack-starter/
+cd /var/log/journal/
+sudo evremap list-devices
+go run . | rofi -dmenu | wl-copy
+touch repo
+etcdctl put key new_value
+exit\
+netstat
+ps | where ppid == 141403
+pgrep wob
+who you are
+og
+redis-cli -h 172.39.1.5 -p 10001
+cp -r nwg-icons ~/.config
+yay --noconfirm  -S xclip
+sudo tcpdump 
+find -type d 
+./rpc-capture rpc
+gen init slice
+yay --noconfirm -S alacritty
+rm -rf grpc
+cd snippets/
+git clnoe --depth=1 https://github.com/uber-go/zap.git
+wl-clip-persist 
+once 
+r
+wofi -dmenu
+tail -f "$wob_pipe" | wob -c $ini &
+ps | where mem > 100Mib | group 2
+git stash 
+lc
+cd gools
+cp /home/km/code/go/rpc/api-server/api/api.go ./api-client/api/api.go
+pgre waybar
+sudo lsof -i:9000
+exit
+cd es-demo
+protoc  --proto_path=.:$GOPATH/src --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
+docker run  -p 9200:9200 -p 9300:9300 elasticsearch:5.0.0 
+sudo rm /usr/bin/gen
+kubectl node
+redis-cli --cluster create 172.17.0.2:6379 172.17.0.3:6379 172.13.0.4:6379 172.17.0.5:6379 172.17.0.6:6379 172.17.0.7:6379 --cluster-replicas 1
+10 * 30 
+docker run  --ip 172.39.1.20 -v /etc/redis/redis.conf:/etc/redis/redis.conf myredis:0.0.1
+cd Evremap-GUI/
+cp mocha.conf ~/.config/swaylock/config
+rm test.json
+nutstore 
+minikube
+sys 
+sudo   cat /proc/vmallocinfo
+mongoc-stat 
+cd github
+pip install pillow
+docker network
+vim /usr/bin/verge-mihomo
+./tiu server
+make test
+yay --noconfirm rofi 
+./vercanium market
+ps -l | where name =~ "auto"
+cd zero
+grep -f /usr/bin/waybar
+sudo su
+z hot
+rmdir time_wait/
+mv index.html char.html
+ansible all -m ping
+cd demo
+4000 + 3000 
+cd github.com/
+notify-send --help
+how stupid it is 
+mkdir hot
+sudo vim grub
+docker start redis-3
+netstat-nat 
+pkill sway 
+repo https://github.com/huihongxiao/MIT6.S081.git
+sudo rm -rf foot 
+pacmanfm
+touch mongod.log
+hotpot e go run main.go
+sudo lsof --help
+swaymsg "move to scratchpad [app_id=\"org.wezfurlong.wezterm\"]"
+rm test.go
+curl localhost:3000/v1/word/query?word=习近平
+man nwg-wrapper 
+ps -l | where name =~ "code"
+systemctl start  mongodb
 go run build 
-go build 
-pc 
+bluemoon
+docker run elasticsearch:8.14.1
+./main 计算机
+ss -tuna | grep 3000 
+rm-rf go-std
+sudo mv once /usr/bin/once
+starship prompt
+z template
+chromedriver 
+wob.sh
+sudo ls 
+rm -rf Partitions/surfing-vault-6096c13e1403409b/GPUCache/
+cd go-grpc-demo/
+pkill showkeys
+cd toolbox/
+file /usr/bin/hyfetch
+sudo mv hotpot /usr/bin/hotpot-dev
+ps -l | where name =~ "sh"
+git clone --depth=1 https://github.com/uber-go/zap.git
+curl http://localhost:3000/v1/dictQuery?word=%E4%B9%A0%E8%BF%91%E5%B9%B3
+./tiu
+xray help run 
+cd hot
+mkdir nsq
+fd string
+docker ps -a
+docker run --name redis:alpine
+nmtui
+./rpc-capture rs
+cd client
+ls -l  /usr/bin/autotiling
+./make.py
+vim user-flags.conf
+eww ing
+goctl
+pc sql.go
+pacman -Q openjdk
+yay ansibe
+cd grub.d/
+cd keys
+cliphist
+swaymsg reload
+cp -r nwg-look ~/.config
+pgrep vscode
+go env 
+docker stop redis 
+cd once
+cd .config 
+yay --noconfirm key map
+ps -l | where name =~ "tail"
+ll assets
+scp ./main 82.157.251.19:/root/query
+cd main
+hello 
+vim grub
+cd i18n/
+hotpot init 
+cp -r ./template/ embed 
+./rem shh
+yay wev
+go run transform.go -f etc/transform.yaml
+cd unary/
+cd ver
+docker rm redis 
+mhwd -li
+pkill swayidel
+z kata
+docker run  --ip 172.39.1.10 -v /etc/redis/redis.conf:/etc/redis/redis.conf myredis:0.0.1
+sudo cat /proc/meminfo
+starship
+gen cli hello
+uname 
+you are right 
+vim wob/
+yay elastic 
+fddd 
+./bin cli
+git branch  -a 
+why 
+z nvim
+protoc --help
+cd web/
+wget localhost:9191/stream 
+brightnessctl set 10
+mkdir cross-platform 
+0x20
+fd proto
+sudo netstat -napt
+docker stop clickhouse 
+starship module golang
+cd sway
+pgrep -l -f /usr/bin/waybar
+git clnoe --depth=1 https://github.com/M8850/Evremap-GUI.git
+netstat-nat  
+systemctl --help
+which fdd 
+cd grpc-demo
+repo https://github.com/ccfos/nightingale.git
+minikube dashboard
+ps -l | where name =~ "clash"
+starship module
+/home/km/Templates/python/venv/bin/obsidianhtml serve --directory output/html --port 8000
+mako
+obsidianhtml convert -i config.yaml<\n>
+git commit -m "add linux and windows release version"
+rem 
+ssh root@21.123.12.12
+ps | where name =~ "waybart"
+ps | where mem > 100Mib  | select name mem  | sort-by mem 
+hotpot d
+git tag 
+gen init crossplatform 
+./epilogue epilogue
+mongod 
+repo https://github.com/TsMask/graphql-server-go.git
+z benchmakr
+notify-send -i Feishu hello 
+pkill wemeet
+cp -r template pprof
+cd mod
+docker run --name redis-cluster-2 -d myredis:0.0.1
+cp -r nwg-look/ ~/.config
+protoc --go_out=./api/. --go-grpc_out=./api/. --proto-path=/home/km/go/src  ./api/example.proto 
+./rpc-capture cap
+cd common/
+z fiber
+pgrep -a -f wob
+sudo mv pc /usr/bin/pc
+/home/km/Templates/python/venv/bin/obsidianhtml  convert -i ./config.yaml<\n>
+fd go-files
+./bin 
+ls --help
+rm rm epilogue
+cd escape/
+cp user-flags.conf ../user-flags.conf
+z hotpot\
+docker run --name redis-test myredis:0.0.1
+cd Thunar/
+vim tet.txt
+vim hotpot.toml
 cd ..
+docker network create redis
+cp -r gtk-3.0/ ~/.config
+code .
+mv index index.html
+cd work
+cd gtk-4.0/
+touch .vimrc
+kubectl
+cd vercanium/
+nvim style
+./cmd 
+docker start clickhosue
+cd /
+sys mem 
+mkdir export 
+mkdir es-demo
+cd /etc
+alias v 
+cd 6.5840-golabs-2024/
+foot-clinet
+cd tcp
+cd python/
+go  config
+~/.config/sway/scripts/wob.sls
+yay xclip
+wofi --show -icons
+eww ping
+sudo netstat-nat   -p tcp
+cd client 
+swayidle  -w timeout 10
+notify-send -i /usr/bin/apifox hello 
+pkill swayidle
+mv code-flags.conf ./Code/
+mkdir goquery 
+ls | select name type  | where type == file | get name  |  each  {|it|  rm $it}
+wev
+clash --help
+cd provider/
+z git 
+yay --noconfirm
+curl localhost:9191/stream 
+clash-meta  -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml
+cd mongodb/
+fd rpc
+ss | grep 127.0.0.1:3000
+cd system
+5 + 8 + 9 + 8 
+z github]
+which clash-mata
+ps | where mem > 100Mib  | select name mem  | sort-by mem  | reverse  | first 5 
+man nwg-drawer
+cd .config/nushell
+mv --help
+keyd
+cd gen-test/
+./clean-yay
+pgrep -f waybar
+docker start redis 
+go tool pprof -inuse_space http://127.0.0.1:8080/debug/pprof/heap
+cat test.sh 
+gofmt -w /tmp/main.go
+fd go
+cd crossplatform/
+make
+sudo bandwhich
+go run main.go | save -f test.json 
+cd dict
+wofi --show
+protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/*.proto 
+gen init mongodb 
+hotpot w 
+manjaro-downgrade obsidian 
+docker start clickhouse
+gh repo 
+helm upgrade --install kubernetes-dashboard kubernetes-dashboard/kubernetes-dashboard 
+./hotpot 
+file /usr/bin/fastfetch
+yay --noconfirm Thunar
+gh repo clone huihongxiao/MIT6.S081
+KEYS
+cd api-client/
+curl localhost:9200
+z gin
+pc dict
+update-grub
+cd ../../
+pgrep  waybar
+pkexec file
+cd nvim
+fd css
+fd ci
+redis-cli 
+helm upgrade --install kubernetes-dashboard kubernetes-dashboard/kubernetes-dashboard --create-namespace --namespace kubernetes-dashboard<\n>
+go mod init client 
+curl localhost:9008
+cd data
+pgrep -f  clash-verge
+kubeadmi
+wl-clip-persist -d
+cool
+ps | where mem > 100Mib | group 10 | get 2 
+go env
+curl http://localhost:3000/v1/word/query/?word=好 | save -f ggood.json
+z once
+ss | grep 3000
+cd test
+nvim
+ps | where mem > 10Mib | where mem < 100Mib  | select  name mem 
+mongoc
+pgrep  -f waybar
+just do it 
+pwd
+go build main.go 
+git commit -m "7-22"
+docker container rm redis 
+gen init hot
+sudo netstat-nat -p tcp -s localhost
+ss  | grep "listen|LISTEN"<\n><\n>
+wev --help
+netstat-nat
+clean 
+curl localhost:3000/v1/word/query?word=english
+journalctl  --help
+vim conf
+tproxy -p 3001 -r localhost:300 -t rpc -d 100ms
+generate 
+cd toolbox
+gen hotpot-demo
+1 * 1024 * 1024 / 1000 / 1000
+docker images
+sudo wev 
+z vercanium
+go build ; sudo mv hotpot /usr/bin/hotpot
+go build ; ./epilogue epilogue
+kubectl nodes
+keyd-application-mapper 
+.
+wofi  --gtk-dark --show drun
+pacman -Qi openjdk
+which code
+./once.sh  /usr/bin/waybar
+go run . | rofi -dmenu
+rm -rf hot
+vim clean-history
+git tag v0.0.2
+	go install github.com/ofabry/go-callvis@master
+hotpot e ./make.py
+yay 
+ss | grep 127.0.0.1:7897
+docker stop redis-2
+du 
+yay --noconfirm wofi
+z python
+ls electron 
+cd Documents/ls
+go run dp.go
+mongod  
+cd github/
+ss -s | grep "listen|LISTEN"<\n><\n>
+cp -r grpc-demo/ grpc-example
+sudovim redis.conf
+cp -r nwgbar-icons ~/.config
+touch remember.db
+neofetch
+yay --noconfirm -S nwg-drawer
+hotpt
+his
+docker run elasticsearch 8.14.1
+yay typora 
+mongosh 
+docker run --name redis-cluster-5 -d myredis:0.0.1
+journalctl --disk-usage<\n>
+mkdir client
+mongos 
+the fast way to deploy your server 
+cd scripts/
+which electron
+vim json.txt
+ls | select name type  | where type == file | get name  |  each <\n>
+ps | where mem > 100Mib
+p 
+cd sway 
+tproxy -p 3001 -r localhost:300  -d 100ms
+wl-clip-persist  --server
+ps | where name =~ "clash"
+cd hello
+wofi  --show drun
+python translate.py
+z notebook
+path 
+minikube start<\n>
+kubectl get services 
+cd .local
+cd google
+man keyd
+rmdir rpc
+~/.config/sway/scripts/help.sh --toggle
+pgrep -f vscode
+cd ci
+fd code-flags.conf
+go tool pprof -http=:8080 cpu.pprof
+touch main.ipynb
+./epilogue epilogue\
+poweroff
+pgrep  -l -f   waybar 
+yay clash verge
+journalctl -r
+hotpot init
+pkill waybar
+touch default.conf
+sudo mv ret /usr/bin/ret
+pls
+rm epilogue
+cat wob.ini
+vim .vimrc
+vim .wezterm.lua
+sudo file 
+manjaro-sway-settings
+rm main.go 
+cd one-api/
+python test.py
+gen  init gen-test
+vim wob.ini
+gofmt  --help
+cd interview
+docker run --name redis-cluster-4 -d myredis:0.0.1
+curl http://localhost:3000/v1/word/query?word=%E5%A5%BD | save ggood.json
+pgrep clash-verge
+sudo netstat-nat  
+mongosh --username mangodb --password cmstop
+rmdir esdemo
+wemeet
+cd script/
+docker start redis-4
+alias v=vim
+sudo rm  /run/log/journal/* 
+rm *.py
+rm *.pprof
+right 
+git add  * 
+hugo --help
+hotpot 
+./once hello
+yay hugo
+mkdir grpc-client
+python translate.py --json_file_path=./en.json
+ss -tuna<\n>
+sudo rm * 
+curl http://localhost:3000/v1/word/query?word=%E5%A5%BD | save -f ggood.json
+go build ; sudo mv once /usr/bin/once
+footclinet
+autotiling
+pnpm 
+kubectl pods
+ls -l /usr/bin/clash
+yay --noconfirm graphviz
+go run main.g o
+go mod tidy 
+yay manjaro theme 
+gin
+log out
+mkdir log
+pkill waybar 
+yay -R go
+z fish
+cp -r nwg-launchers/ ~/.config
+sudo systemctl start  mongodb
+which go
+once clash-meta -d ~/.local/share/io.github.clash-verge-rev.clash-verge-rev -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml
+mv char.html index.html
+z gen
+sudo rm -rf *
+ps | where crp
+cd server
+cd tools
+yay 11 
+which mihomo
+sudo vim /etc/bin/pc
+wl-clip-persist  --help
+wofi --help
+fd wob
+sudo manjaro-downgrade obsidian
+pgrep -f /usr/bin/waybar
+10 * 30  * 40
+1 * 1024 * 1024
+make start 
+go build 
+cd api
+etcdctl  
+fd protoc
+docker run --name redis  redis:alpine
+npm install 
+pgrep -f waybar 
+notify-send -i google hello 
+cat VERSION
+systemctl status docker 
+hugo 
+mkdir rpc 
+go run -race main.go
+starship module --list | save -f log
+wofi --show-run
+cd Desktop/
+docker container 
+go test -bench ,.
+mysql -u root 
+nwg-drawer
+go-callvis main.go
+netstat -s | grep "listen|LISTEN"<\n><\n>
+man nwg-warpper
+minikube list
+./wezterm.sh
+pacman -Qi clickhouse
+rmdir chromedp/
+redis-cli
+clash-meta -f ~/.config/clash/config.yaml
+cd tiu
+ps | where mem > 100Mib  | select name mem  | sort-by mem  | reverse  | limit 10 
+tokie
+rm -rf hello
+cd Applications/
+cd mm
+alias
+cd Dress/
+rem hello
+swaymsg "[app_id=org.wezfurlong.wezterm] move to scratchpad"
+z github
+go run main.go cli
+wob
+yay alacritty
+history | last 5 | get command|  save -f log
+sudo lsof etcd
+netui
+cd grpc-go/
+fd -d 
+clash-meta -d ~/.local/share/io.github.clash-verge-rev.clash-verge-rev -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml<\n>
+tcpdump 
+git stash pop 
+sworkstyle
+./rem docker
+kill 1675
+ps -l  | where mem > 10Mib
+code . 
+kubectl get pod
+docker stop redis-cluster-5
+mv code-flags.conf code-flags.conf-disable
+ansible --help
+3150 / 180
+./hello
+tcpdump\
+which clash-verge
+yay manjaro sway 
+cp user-flags.conf ./Code/
+netstat-nat  -nat
+vim /etc/profile
+hugo new content post
+vim im-multipress.conf
+yay tcpdump
+rm | where type = file
+go version
+pgrep swayrd
+cd grpc-server/
+ps | where mem > 100Mib  | select  name mem 
+which pp 
+touch process_test.go
+vim config
+cd hwmon6/
+z tools
+ls | select name type  | where type == file
+netstat -an 
+redis-cli -h 172.39.1.6 -p 10001
+cd etcd
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+python header_parser.py
+top
+cd Xray-core/
+python 
+once /usr/bin/code
+swayidle
+yay --noconfirm pnpm 
+go  build 
+etcd --help
+gen cmd 
+z Note
+once clash-meta
+2.7 * 14
+mv google/ /home/km/src
+how stupid 
+v
+docker iamges
+nwg-wrapper  --help
+vim /etc/bash.bashrc
+cd /tmp
+fd Code/
+curl localhost:3000/v1/word/query 计算
+fd ~ .
+ss -tuna
+python nutstore.py
+sudo tcpdump  tcp prot 3000
+pgrep -a vscode
+pgrep -a clash-verge
+./bin args 
+git rebase origin/master 
+swaylock
+vim config.yaml
+z hotpot-demo
+go run  main.go 
+neofetch 
+gofmt -s -w /tmp/main.go
+once
+wemeet-x11
+hotpot e  go run main.go 
+nvtop
+z export 
+sad 
+go build -buildmode=plugin ../marapps/wc.go
+protoc --go_out=./api/. --go-grpc_out=./api/.  -I=/home/km/go/src ./api/*.proto 
+yay micro
+lscpu
+cd vim
+cd go/cli
+swaymsg "scratchpad show "
+cd /var
+git checkout -b develop
+swayidle -w timeout 5 "brightnessctl -s && brightnessctl set 10" resume "brightnessctl -r"
+git push -f 
+git clone --depth=1 https://github.com/yurihikari/garuda-sway-config.git
+which cli
+rm main
+ps | where name =~ "wob"
+gh repo clone KM911/GO-CI
+protoc --go_out=. --go-grpc_out=. example.proto <\n>
+z note
+./rem ssh
+sudo vim default.conf
+cd ls
+5 + 4  + 3 + 2 + 1 
+tproxy
+docker run --name redis-test1 myredis:0.0.1 -v /etc/redis/redis.conf:/etc/redis/redis.conf
+cd okg
+ssh root@87.123.12.12 
+hotpot-dev 
+yay mail
+./rem docker image
+./ret
+docker run elasticsearch:5.0.0 
+clash-meta
+rem
+minikube --help
+pgrep -x /usr/bin/waybar
+code.
+./bin
+rm go.mod
+logo
+which vscode
+etcdctl  client
+rmdir embed 
+docker run --name redis-test2 -v /etc/redis/redis.conf:/etc/redis/redis.conf myredis:0.0.1
+cd go
+cd /sys
+vim init.lua
+m go proxy
+gen init rpc-capture
+yay obsidian 
+starship module cpp
+yay --noconfirm -S protobuf
+pgrep --help
+git  add * 
+rm -rf .config
+inix -G 
+make doc
+160 * 22
+ps | where name =~ "ele"
+kubectl get rs
+cp -r ./template ./gen
+code /home/km/.cache/tools/remember.db
+cp -r template/ grpc-demo
+cd bin
+ls | select name type 
+go get -u github.com/grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway<\n>
+3960 / 180 1+6 dan I need to make bigger money , how , enter the bigger company , every thing will be fine 
+kubectl get nodes
+ps 
+./tiu upload
+cd upload
+fd KM911
+gprep -f swayidle
+sudo go build -o /usr/bin/gen
+rm mr-out*
+notify-send just
+sudo netstat-nat 
+swayidle -w timeout 10 echo hello
+47 / 12
+repo https://github.com/lonnyzhang423/douyin-hot-hub.git
+cat /proc/sys/net/ipv4/tcp_fin_timeout
+vimn test.go
+cd goquery/
+bandwhich
+protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
+ss | rg 3000
+pgrep  -a waybar
+pgrep -l vscode
+cd code/go
+	redis-cli --cluster create 172.17.0.2:6379 172.17.0.3:6379 172.13.0.4:6379 172.17.0.5:6379 172.17.0.6:6379 172.17.0.7:6379 --cluster-replicas 1
+cd template
+cd aata
+pp 
+ps | where mem > 100Mib | group 10
+args
+which clash
+ip -a
+docker start redis-2
+yay --noconfirm  -S manjaro-downgrade
+cp wob.ini default.ini
+ls 
+clash-verge
+cd clash-core/
+fd files
+fd -type d . 
+waybar 
+go get github.com/PuerkitoBio/goquery
+cd Xboard/
+z hello
+curl localhost:3000/v1/word/query?word=计
+bash test.sh
+docker run --network redis --name redis-1 -d  myredis:0.0.1
+fish 
+git clone --depth=1 https://github.com/catppuccin/swaylock.git
+cd /temp
+mkdir gen 
+rm cmd
+kubectl get pods
+cd benchmarks/
+cd grpc-demo/
+./go env 
+swaymsg "scratchpad show"
+ps | where mem > 100Mib | select name mem  | math sum 
+cd syst
+mkdir remap
+hotpot e go run main.go 
+cd protobuf/
+ps | where  ppid = 141403
+flashfetch 
+go install  google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
+cd garuda-sway-config/
+wofi 
+cdl
+go run client/main.go
+ps -l | where name =~ "wob"
+rm stream
+echo 23 >>hotpot.sock
+wl-clip-persist --help
+cd venv/
+sudo netstat-nat -p tcp -s localhost:3000
+brightnessctl 10
+yay --noconfirm protoc
+mv src go/
+vim repo
+cava 
+vim main.rs
+./rem echo he
+repo huihongxiao/MIT6.824
+pp wob
+inxi -G
+cd go=template/
+rm -rf foot
+cd api-server/
+cd go-grpc-demo
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Battlesquid/dotfiles/main/install.sh)"
+sudo rm /usr/bin/vim 
+pkill keys 
+mkdir src
+yay miku theme 
+cd `Nutstore Files/`
+once.sh
+nwg-launchers
+pgrep -l -f waybar
+z cute
+ps -i 12990
+mkdir embed 
+z export
+go build -o gen && sudo mv gen /usr/bin/gen
+gopls 
+journalctl  -xeu
+starship module  go
+netstat -napt
+cave
+fd proto -x mv {} /home/km/code/go/grpc-demo/{.}
+man way-displays
+once code
+upx 
+mv 计算机 index.html
+pkexec pacmanfm
+docker start mysql redis 
+yay protco-gen-go-grpc 
+pgrep -l -f way
+arch 
+mongodb/
+fd -D
+kubectl get replicate
+cd grpc-client/
+cri
+bash -c echo hello | gerp h
+touch main.go 
+cd opt
+sudo tcpdump -iany tcp prot 3000
+./make
+16 * 256
+obsidianhtml serve --directory output/html --port 8000<\n>
+ps | where mem > 100Mib  | get name,mem 
+fd -type d
+180 * 22
+10 * 30  * 50
+z dict
+go mod tid y
+sudo mv rem /usr/bin/rem
+cd zero-examples/
+pgrep -a waybar
+git rebase orgin:master 
+starship module csharp
+size /usr/bin/clash
+swayidle -w timeout 5 "echo hello" resume "echo back"
+cd Templates/
+notify-send -i /usr/bin/code hello 
+rm -rf lib
+ps | where mem > 100Mib | select name mem 
+gen 
+start 
+docker run --network redis --name redis-2 -d  myredis:0.0.1
+ls | select name type  | where type == file | get name echo $in
+z etcd
+cd gin
+3960 / 180
+cd .github
+yay --noconfirm keymonad
+cd $GOPATH/src/google/api/annotations.proto
+pgrep waybar
+mkdir google
+swayrd --help
+file /usr/bin/pc
+echo hello
+export hello=12
+git rebase origin:master 
+go mod init bin
+cd format
+which hyfetch
+pacman -Qi qt<\n>
+sys disk 
+pp
+cd router
+hello
+yay etcd client 
+mongos --help
+kubectl get deploy nginx-deploy --show-labels
+find -type d  . 
+cd .go
+cyberfisher 
+5 + 4 + 6 + 4
+docker es 
+go run maing.o 
+sudo lsof bin
+go-callvis  main
+bash 
+go  run main.go 
+rmdir grpc
+yay  --noconfirm protco-gen-go-grpc 
+footclient
+sudo tcpdump -v host 127.0.0.1 
+curl http://localhost:3000/v1/word/query?word=%E5%A5%BD
+ks
+cd wob
+go install google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
+fd go/src
+ls -l /usr/bin/xray
+git clone --depth=1 https://github.com/M8850/Evremap-GUI.git
+go mod tiyd 
+cat /tmp
+cp -r ./template/ go=template
+mihomo
+gen init hotpot-demo
+./gin 
+cd waybar
+mkdir ansible
+ls | select name type  | where type == file | get name  | flatten | rm $in
+m go static 
+hotpot-dev e echo hello
+fd theme
+notify-send -i obsidian hello 
+npm run build 
+etcdctl  put 1
+go mod init toolbox
+cd douyin/
+go build -o hotpot ; sudo mv hotpot /usr/bin/hotpot 
+swaymsg "move [app_id=org.wezfurlong.wezterm] to scratchpad"
+z hotpot
+ps | where mem > 100Mib  | get name mem 
+npm proxy 
+swaylock 
+rm test12651927641
+rm -rf *
+git push --set-upstream origin develop
+rm -rf fish 
+pkill obsidian 
+cd grpc
+cd wob.ini
+file
+z hotpot 
+vim
+sudo mv go-callvis /usr/bin/go-callvis
+touch config.yaml
+which rofi 
+cd remap/
+cat main.go
+z test
+xray 
+mv index.json word.json
+file /usr/bin/verge-mihomo
+git commit --amend 
+lsof bin
+$ nsqd --lookupd-tcp-address=127.0.0.1:4160<\n>
+git clone --depth=1 https://github.com/Kuingsmile/clash-core.git
+16 * 4
+poweroff 
+repo https://github.com/huihongxiao/MIT6.824.git
+cd ../python/
+kubectl get -h
+docker ps -a 
+z vevn
+cp -r api/ ./grpc-client/
+mkdir hotpot
+fd 
+yay xray core 
+go mod init server
+cp code-flags.conf-disable code-flags.conf
+ps -aux | grep aaa
+history | last 5 | save -f log
+ps -l | where name =~ "waybar"
+ls | select name type  | where type == file | get name  || flatten
+git clone --depth=1 https://github.com/songquanpeng/one-api.git
+sudo clean-yay 
+vim hugo-theme-stack-starter/
+etcd
+cd .obsidian
+eww
+vim redis.conf
+intervimew
+yay etcd
+yay --noconfirm -S xhost
+bluetuith 
+mongosh --username mongodb --password cmstop
+sudo netstat-nat -s 127.0.0.1
+brightnessctl -s
+ssh root@21123.12.12
+sys cpu | get names
+rm tiu.exe
+nwg-wrapper
+swayidle -w timeout 10 "echo hello"
+I do not know 
+wl-paste --watch cliphist store
+mkdir .config
+mkfifo /tmp/wobpipe
+nsqlookupd
+yay helm
+vim app.go
+rofi-wayland
+vim .zshrc
+mkdir zero
+vim 计算机
+yay bandwhich
+cd slice
+ls | select name type  | where type == file | get name  | flatten
+m rs release 
+bash -c echo hello go run main.go 
+docker run myredis --name redsi-test
+cd default/
+cd Documents
+vim 
+l
+gen init test-cli
+dust 
+sudo  cat /proc/meminfo | grep Table<\n>
+rm hot
+journalctl 
+sudo bg 1panel
+sys cpu | get cpu_usage
+cd go-callvis/
+sys get disk 
+yay xray-core
+0x60
+once /usr/bin/autotiling
+go install github.com/go-swagger/go-swagger/cmd/swagger@latest
+wofi --show drun 
+rm -rf nvim
+cd graphql-server-go/
+yay --noconfirm  nsql
+go mod init client
+yay --noconfirm key remap wayland
+hestory | 10
+rm test
+ps | where ppid ==141403
+yay --noconfirm neovim 
+rm -rf go
+wl-paste --watch waybar-signal clipboard
+kubectl get deploys
+rm default.ini
+gen init kata
+mv index.html index
+cat profile.md | wl-copy
+cdoe .
+cd ip
+pc google
+cd kata
+pnpm config set registry=https://registry.npmmirror.com
+kubectl list
+cd hwmon/
+cd grpc-client 
+grep -f /usr/bin/clash-verge
+vim uca.xml
+brightnessctl -r
+47 / 14
+ping google.com
+go-callvis main
+cp -r client ./api-client
+fd GPU
+protoc --go_out=./api/. --go-grpc_out=./api/. ./api/*.proto 
+gen init go-zero
+notify-send -i feishu hello 
+ps | where name =~ "ala"
+python back.py
+once fcitx
+vim default.conf
+./rem echo hello
+ps | where  name =~ "foot"
+z sway 
+docker stop redis-cluster-2
+who 
+cd .dotfile
+cd GO-CI/
+ip -a 
+pip install pillow 
+cd rpc
+mkdir toolbox
+kubectl get deploy nginx-deploy -o yaml
+vim log
+170 -26 - 24
+vim test.file
+./rem docker images
+z dress
+git reset --soft d06538ca913f245c5043d68e82ac2f60e43c9cd7
+swayidle -w timeout 5 "brightnessctl set 10" resume "brightnessctl set 80"
+mongodb
+gen init interview
+pgrep -f /usr/bin/clash-verge
+z keyd
+vim default/
+eww 
+electron 
+cd rempa
+docker images 
+docker start --net redis myredis:0.0.1
+ls | select name type  | where type == file | get name  |  each  {echo $}
+docker run --name redis -p 6379:6379 -d redis:alpine
+swag init 
+go get github.com/KM911/fish
+z tcp
+pamac list --orphans 
+yay --noconfirm github  desktop
+clash -f ~/.config/clash/config.yaml
+cd python
+ok every 
+reboot 
+ret
+vim lua
+ls | where type = file
+cd xdg
+ps | where  ppid =~ 141403
+mkdir tools 
+./bin args  1
+cd app
+z rust
+fd proto -x echo {.} 
+10 * 30  
+starship module c
+micro
+notify-send -i code hello 
+cd .cache
+mkdir time_wait
+chmod +x repo
+yay --noconfirm kafka
+it
+gitui
+wofi --show 
+mv ret /usr/bin/ret
+pp example.proto
+cd cache
+cd .obsidian/
+go build -buildmode=plugin ../mrapps/wc.go
+rm -rf .git
+mkdir cli 
+kubectl po
+yay istio
+sudo netstat-nat -n
+go test 
+cd tsl
+pip install obsidianhtml
+wget https://www.douyin.com/search/%E5%88%80%E7%BE%A4%E8%88%9E%E6%8C%91%E6%88%98 
+sudo vim redis.conf
+gen init provider
+pgrep -f clash-verge
+go get google.golang.org/grpc/cmd/protoc-gen-go-grpc<\n>
+5000 / 22 
+cd fish
+cd class
+./rem
+size clash
+fastfetch 
+sudo lsof -i:3000
+./rem sudo vim /etc/environment
+cd grpc-example
+sudo mhwd-kernel -li
+cd Library/
+group 
+pacman -Qi apifox-bin
+./a.out hello just do tit 
+vim code-flags.conf-disable
+nemo
+notify-send hello
+sudo chmod +x make.py
+repo https://github.com/KM911/tiu.git
+ps -l | where name =~ "clash-verge"
+rm -rf foot 
+/home/km/.config/sway/scripts
+go arch
+rmdir  .gitbook/
+./go
+tar -C /usr/local -xzf go1.22.5.linux-amd64.tar.gz<\n>
+args 133 2
+pgrep -f  /usr/bin/clash-verge
+rmdir hotpot
+pgrep -a clash-meta
+xray version 
+pkill wbo
+cp -r nwg-wrapper/ ~/.config
+`sudo evremap list-devices`
+gen cmd
+ansible -i host all -m ping
+cd ttemplate
+bash -c echo hello | grep h
+rember
+cd .confgi
+ssh root@22.123.12.12 
+go get server/api
+rm test.txt
+redis-cli -h 172.39.1.3 -p 10001
+rm -rf waybar
+protoc --go_out=.  demo.proto <\n>
+docker stop redis-cluster-1
+ls -l /usr/bin/clash-verge
+sudo netstat-nat -d localhost
+fd sysctl
+yay go-torch
+Makefile
+vim .npmrc
+fd 冲突
+zeit
+ss
+etcdctl get key
+rm -rf template/
+impl
+go tool pprof -http=:7778 http://localhost:8080/debug/pprof/heap<\n>
+python main.py
 pc 
 mv gin /home/km/Documents/
-ls
-yay 
-ls
-z
-cd .config
-ls
-vim code-flags.conf
-ls
-mv code-flags.conf code-flags.conf-disable
-go run main.go 
-./gin 
-ls
-cd note
-ls
-cd ..
-ps 
-ps
-ps 
+ss 
+make coor
+pacman -Q java
+fd conf
+rm *
+systemctl cat mongodb | grep ExecStart<\n>
+wl-clip-persist --help 
+start "/home/km/Nutstore Files/Notebook/RESOURCE/IMAGE/hotpot.gif"
+sudo pkill wob
+swayidle -w timeout 5 "brightnessctl set 10" resume "brightnessctl set -r"
+go-callvis main.go args hello
+z ep
+proto  --go_out=api --go-grpc_out=api ./api/example.proto 
+repo https://github.com/cuixueshe/earthworm.git
+fdd
+kubectl create deployment hello-node --image=registry.k8s.io/e2e-test-images/agnhost:2.39 -- /agnhost netexec --http-port=8080<\n>
+netstat-nat -an
+protoc .
+vim config.jsonc
 ps | where cpu > 1
-ps | where name =~ "obsidian"
-ps | where name =~ "ele"
-pip install obsidianhtml
-ls
-mkdir export 
-ls
-cd export 
-ls
-touch config.yaml
-vim config.yaml
-obsidianhtml convert -i config.yaml<\n>
-pip install obsidianhtml
-/home/km/Templates/python/venv/bin
-/home/km/Templates/python/venv/bin/obsidianhtml  convert -i config.yaml<\n>
-/home/km/Templates/python/venv/bin/obsidianhtml  convert -i ./config.yaml<\n>
-pp
-ls
-z export
-/home/km/Templates/python/venv/bin/obsidianhtml  convert -i ./config.yaml<\n>
-z export 
-ls
-vim config.yaml
-ls
-vim config.yaml
-ls
-ls
-/home/km/Templates/python/venv/bin/obsidianhtml  convert -i ./config.yaml<\n>
-cd out
-ls
-cd output/
-ls
-obsidianhtml serve --directory output/html --port 8000<\n>
-ls
-z python
-ls
-cd venv
-ls
-cd bin
-ls
-pc
-sudo vim /etc/environment
-/home/km/Templates/python/venv/bin/obsidianhtml serve --directory output/html --port 8000
-ls
-z notebook
-ls
-code .
-ls
-ls
-cd .obsidian
-ls
-cd snippets/
-ls
-code .
-ls
-cd .config
-cd 
-cd .config
+yay manjaro sway theme
+journalctl -S=7
+docker run --network redis myredis:0.0.1
+hyfetch 
+z go
 cd fcitx5/
+git reset --soft 9bb5b27df0490373b987fcfc2034ef7a32a8f8ed
+rm ep
+z work
+go run . | rofi -dmenu | echo 
+nu --help
+manjaro-sway-theme 
+which clean 
+1548433385
+gitlog
+docker container prune -f 
+rem --help
+rm main.go
+cp -r ./template/ rpc
+swag
+pkill elecron
+just do what it want 
+gen init etcd
+rm -rf tsl
+mysql 
+npm install && npm run build 
+wget https://www.douyin.com/discover
+weather 
+feishu
+cp -l /home/km/code/go/grpc-demo/grpc-server/Makefile ./Makefile
+z bench
+go mod tidy
+vim env.nu
+sudo vim /etc/environment 
+alias v vim 
+env | grep go
+kubectl get events<\n>
+kubectl get deploy nginx-deploy --show-labes
+starship --help
+kubectl show pods 
+git add *
+wofi help
+cd code
+./onec
+dex
+npm config set registry=https://registry.npmmirror.com
+cd sys
+vim stream
+mv back_code-flags.conf code-flags.conf
+cd tui
+wofi --show-drun
+gen cli
+cp -r template/ grpc
+fd .
+echo 43 > /tmp/wobpipe
+gen cli obsidian-execute-code-enhancement-go
+repo gh repo clone huihongxiao/MIT6.S081
+cd KM911/
+alias 
+etcdctl  get hello
+cd .obsidian 
+right
+redis-cli -h 172.39.1.2<\n>
+rm -rf obsidian/
+vim default
+rofi
+gh auth login
+./wob.sh
+mkdir venv 
+vim gtk-dark.css
+rmdir pprof
+180 * 22 
+minikube dashboard 
+sudo lsof -i:50051
+swayidle -w timeout 5 "echo hello"
+I am super glag waht you have come 
+z venv
+calcurse
+vim nutstore.py
+docker stop minikube
+cd shorturl/
+pgrep -a -f clash-verge
+cd /opt
+z grpc
+fd mp3
+mkdir target 
+docker run --network redis --ip 172.17.0.4 myredis:0.0.1
+cd Screenshots/
+go build -o hotpot ; sudo mv /usr/bin/hotpot 
+protoc --go_out=. --go-grpc_out=. demo.proto <\n>
+go run . | rofi -dmenu | cliphist decode | wl-copy
+vim tet.tx
+gen cli args 
+sudo mv hotpot /usr/bin/hotpot
+vim /etc/environment
+ps | where mem > 100Mib | math sum 
+cd download/
+sudo cp -r ~/.config/gtk-3.0 /etc
+./server 
+python version
+touch main.go
+yay ansible
+curl localhost:3000/v1/word/query?word=just
+mkdir grpc-http
+ss | grep 0.0.0.0:3000
+pkill clash-meta
+ls | select name type  | where type == file | get name | echo $in
+make doc 
+rm /usr/bin/pc
+ls | select name type  | where type == file | get name  |  each { |it| $"Hello, ($it)!" }<\n>
+sudo vim /etc/environment
+cd ../code/go
+rm -rf * 
+cd  zero
+which autotiling
+which which
+cd grpc-example/ls
+mkdir fish
+vim .profile
+hotpot-dev e go run main.go
+but 
+git clone --depth=1 https://github.com/songquanpeng/go-file.git
+cd /usr/bin/
+protoc  -I --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
+ps | where pid = 12990
+22 * 180
+wemeet 
+./once
+cd lib
+once tail -f /tmp/wobpipe | wob &<\n>
+sudo mhwd 
+cd mysql
+go build ; sudo mv hotpot /usr/bin/hotpot-dev
+cat dzg.pdf
+repo github.com/huihongxiao/MIT6.824
+cp -r api/ ./grpc-server/
+bash test-mr.sh
+alias v = vim
+mangod
+yay k8s
+pnpm install 
+starship module rust
+waybar
+cd epilogue/
+cd MIT/
+kubectl create deploy nginx-deploy --image=nginx:1.7.9
+docker stop redis-cluster-4
+curl localhost:3000/word/query 计算
+nsqd --lookupd-tcp-address=127.0.0.1:4160<\n>
+python make.py
+repo git://g.csail.mit.edu/6.5840-golabs-2024 6.5840<\n>
+./brightness.sh up
+minikube start 
+systemctl status mongodb
+find  . -type d  
+cd grpc-example/
+cd .config
+yay -Runc siyuan-note-bin
+once wob
+cp -r dict /home/km/work/vercanium/common
+a
+cd chromedp/
+rm /home/km/go/bin/go-callvis
+touch config.toml
+gen
+sys cpu
+go ru main.go
+z /usr/bin/
+protoc --go_out=./api/. --go-grpc_out=./api/. --proto_path=/home/km/Downloads/google  ./api/example.proto 
+./tools sudo vim /etc/environment
+make seq
+./weather.py
+swayidle 
+once waybar 
+pacman -Qi feishu
+kafka-jmx.sh 
+cd content
+file /usr/bin/vim
+mkdir slice
+rm log
+git push 00set-upstream origin develop
+hotpot -e ./make.py
+mkdir grpc-server
+rm -rf  hello
+git switch develop
+git push 
+gen init load-balance
+tokei
+pgrep  -f "/usr/bin/waybar"
+cd main.go
+go build ; sudo mv gen /usr/bin/gen
+fd NSCon
+kubectl proxy<\n>
+ps | get name
+sudo chmod 777 mongod.log
+echo 23  | hotpot.sock
+once foot --server
+cp -r ./cli ./gen
+docker start --network redis myredis:0.0.1
+pnpm run tauri dev
+rm -rf pprof/
+gen init once
+z 
+z json
+history
+cp -r wofi ~/.config/wofi
+repo https://github.com/cnbattle/douyin.git
+kubectl get pods 
+./once.sh
+z config
+wget https://www.zdic.net/hans/%E8%AE%A1%E7%AE%97%E6%9C%BA -o index.html
+sudo cp repo /usr/bin/repo
+neovim
+vim main.go 
+python -m venv python 
+mongod
+networkctl 
+cd export 
+clahs -c 
+yay --noconfirm evremap
+lsd
+sudo netstat-nat   -nat
+ps | where mem > 100Mib  | select name mem  | sort-by mem  | reverse  | ulimit 5
+ps | where name =~ "waybar"
+rm -rf google
+vim pymake.py
+protoc   --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
+cd wofi
+sudo rm /run/log/journal/* 
+protobuf
+notify-send -i 
+yay manjaro-downgrade
+pc wob.sh
+xray --help
+redis-cilent
+cd grpc-client
+swaymsg "[app_id=org.wezfurlong.wezterm] scratchpad show"
+docker network prune
+pc example.proto
+ls -f
+cd src
+cd Downloads/
+tree
+range 10- 20 
+protoc --go_out=. example.proto
+ansible web -m ping
+rm /usr/bin/vim 
+cargo run 
+cd config
+kubectl get deployments<\n>
+go instal swag
+swaymsg -t get_tree
+cd remote
+yay netstat
+xhost nemo
+vim user-dirs.conf
+netstat-net -an
+ps | where ppid = "141403"
+helm repo add kubernetes-dashboard https://kubernetes.github.io/dashboard/<\n>
+nwg-drawer help
+history --help
+ssh root@21.123.12.12 -p
+open test.log
+make build 
+starship prompt | save -f log
+kubectl edit deploy nginx-deploy
+goctl api -o shorturl.api
+ps | where mem > 100Mib | group 1
+cp dzg.pdf 1.mp4
+12000 
+bluetoothctl 
+cd output/
+go run main.go args
+pgrep /usr/bin/waybar
+btm
+du
+n
+docker exec -it minikube
+ls | select name type  | where type == file | get name  |  each  {echo $it}
+starship module python
+curl https://cidian.qianp.com/ci/%E8%AE%A1%E7%AE%97%E6%9C%BA
+go run mai.go
+ansible 
+kubectl get
+fd code
+kubectl get deploy
+mongod --help
+cd go-std/
+/home/km/Templates/python/venv/bin
+swayidle -w timeout 5 "brightnessctl set 10" resume "brightnessctl -r"
+go run mian.og
+gen init 
+nvim user-dirs.dirs
+go build -o gen
+repo  git://github.com/mit-pdos/xv6-public.git
+z nushell
+alacritty 
+args 
+sudo mv go /usr/local
+tproxy -p 3001 -r localhost:3000 -d 100ms
+chmox +x repo
+cd foot
+cd swaylock/
+rem echo hello
+curl http://localhost:3000/v1/word/query?word=好 | save -f ggood.json
+gh 
+protoc --go_out=./api/. --go-grpc_out=./api/.   ./api/example.proto 
+git pull 
+rm main.go\
+group list
+ls | where name  =~ "time"
+proto  --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto 
+mongosh -u mongo -p 
+ls | select name type  | where type == file | get name  |  each  {|it|  echo $it}
+ceva
+cd sysconfig/
+yay --noconfirm manjaro theme
+./pc
+sudo tcpdump port 3000
+sudo rm -r ./target
+vim mongodb.conf
+cd time_wait/
+pacman -Qi jdk-openjdk
+go run main.go w
+cd tokio-example/
+etcdctl get hello
+cd google/
+rm *.log
+starship module  package
+cat wobpipe
+fdd 
+notify-send -i apifox hello 
+fd single
+nwg-wrapper 
+cd yazi
 ls
-vim conf
-ls
-vim config
-ls
-3150 / 180
-3960 / 180
-3960 / 180 1+6 dan I need to make bigger money , how , enter the bigger company , every thing will be fine 
-go run dp.go 
-go run dp.go
-ls
-z test
-lv
-vim 
-vim test
-vimn test.go
-ls
-vim test.go
-ls
-rm test.go
-vim main.go
-ls
-vim test.go
-ls
-rm test
-ls
-cd ..
-z github
-ls
+git stash pop
+cd target
+make start
+cd clash
 cd 
+cd rofi
+sudo mhwd-kernel -r linux66
+fd journal/
+ps | where mem > 100Mib | head 10 
+ldd /usr/bin/verge-mihomo
+protoc --go_out=.
+./once.sh  waybar
+cd goquery 
+rm remember.db/
+cd rpc-capture/
+go test -bench .
+vim test.json
+vim config.toml
+cd out
+cd swaylock
+make 
+mongosh --username mongo --password cmstop
+gen init time_wait
+go run mrworker.go wc.so
+hugo server
+docker exec -it  minikube /bin/bash
+xdg 
+htop
+ansible  --list-hosts
+notify-send do
+180 * 18
+ls | select name type  | where type == file | echo $in
+cd flags
+man sway
+docker container  prune
+yay protoc
+lazyvim 
+z /etc
+cat /etc/sysconfig/kernel
+man sway 
+history | length
+256 ** 15
+z repo
+docker start redis-1
+redis-cli -h 172.17.0.3  
+yay upx 
+what 
+ps | where name =~ "obsidian"
+~/.config/sway/scripts/wob.sh 
+wofi show
+tree | wl-copy
+mkdir grpc
+cd themes/
+cp -r wob ~/.config
+docker network ls 
+cd ReverseList/
+go run mrsequential.go wc.so pg*.txt
+$ go install github.com/kevwan/tproxy@latest
+fd *.proto
+kubectl get deploy nginx-deploy --show-lables
+cp -r fish ~/.config
+mv -r grpc-demo/ grpc-example
+git clone https://github.com/CaiJimmy/hugo-theme-stack-starter.git
+cd hotpot-demo/
+wl-paste
+clash 
+go-callvis 
+git init 
+gh repo view
+cp -r ~/.config/gtk-3.0 /etc
+sudo systemctl status  mongodb
+hyperfine 
+hotpot h
+yay nemo
+go rum main.go
+make docs
+ssh root@82.157.251.19
+gp mod init server
+hotpot -e rem
+cp -r template es-demo
+go env | grep ARCH
+ls  /usr/bin/autotiling
+ls | select name type  | where type = file
+rm -rf GPUCache/
+sudo vim mongodb.conf
+nu
+cd /run/log
+make cluster
+rm /usr/bin/gen
+etcdctl  put key value 
+netstat -nat
+z donwload
+cd rust
+go env | grep GOPATH
+pgrep -f ""
+mongosh --username root --password cmstop
+chrome
+sudo netstat-nat -a
+go exit
+pgrep  -l  waybar 
+nu --logo
+ls -l autotiling
+go install github.com/kevwan/tproxy@latest
+/home/km/.config/sway/scripts/wob.sh
+python v
+cd remap
+man 5 sway 
+cd grpc-http
+	go-callvis main.go
+255 - 32
+go 
+mkdir grpc-demo
+c
+pkill wob
+go  help
+repo git clone git://github.com/mit-pdos/xv6-public.git
+etcdctl get key 
+z .config
+lsof etcd
+starship module  --list
+protoc --go_out=./api/. --go-grpc_out=./api/.  -I=/home/km/code/go/grpc-demo ./api/*.proto 
+rm -rf data
+tree 
+pip install rich 
+cd
+cd cli
+cd .ssh
+tail -f /tmp/wobpipe | wob
+cp -r server ./api-server
+dc ..
+cd modes/
+systemctl show docker
+ps | get name | rofi -dmenu 
+git tag v0.0.1
+./main 计 | save -f char.json
+rofi 
+pacman -Qi kafka
+o g
+gen init consumer
+m go bin
+git rebase master 
+go-callvis
+cd basic
+goctl api new demo
+bash
+cd../code/
+logout
+which notify-send
+cd km
+tproxy -p 3001 -r localhost:300 -t tpc -d 100ms
+grub 
+journalctl -S=0705
+vim .bashrc
+npm 
+cd note
+rem list 
+yay --noconfirm  nsq
+yay clash 
+mkdir swaylock
+cd cmd
+term
+pkexec nemo
+rmdir export 
+protoc --go_out=./api/. --go-grpc_out=./api/. --proto_path=/home/km/Downloads  ./api/example.proto 
+z kat
+sudo pacmanfm
+rm main.png
+cp -r /home/km/code/go/grpc-demo/server/google/ google
+la
+kubectl  list
+pkill tail
+lg
+npm config get registry
+env | grep GO
+python -v
+systemctl show sway
+pgrep -a -f waybar
+cd /usr/local
+go run main.go
+cd Documents/
+go run main.goi 
+hotpot e 
+which go-callvis
+lv
+go run . 
+file /usr/bin/neofetch
+file /usr/bin/clash-verge
+hotpot e go run maing.o
+0x80
+code /home/km/Nutstore Files/Notebook/.
+mkdir script 
+mv -r go /home/km
+./client
+wget https://cidian.qianp.com/ci/%E8%AE%A1%E7%AE%97%E6%9C%BA
+env.GOPATH
+rm .git
+git fetch origin:master 
+sys disks
+more mr-out-0
+cd Code/
+rm -rf  !k!m911/
+go get sway 
+coor
+gprep -f clash-verge
+ps -i 1830
+rmdir es-demo/
+cd sysctl.d/
+sudo nemo
+fd -t d
+yay -Runc elasticsearch-bin
+cd consumer/
+cp -r template/ tcp
+go
+cd gen
+which fd
+hotpot e go run . 
+cp  /home/km/code/go/grpc-demo/grpc-server/Makefile ./Makefile
+cd waybar/
+cd MIT6.824/
+not problme 
+gen cli execute-code
+z wokr
+cargo new cmd
+./main 计算机 | save -f index.json
+vim reds.conf
+vim settings.ini
+size /usr/bin/clash-verge
+cp "/home/km/Nutstore Files/Notebook/RESOURCE/IMAGE/hotpot.gif" ./server.gif
+docker stop redis-cluster-*
+vim test
+160 * 20
+pamac list --orphans openjdk
+rm -rf go-std
+cd go/src
+start .
+pgrep -a swayrd
+sudo grep vmalloc /proc/vmallocinfo  |awk '{total+=$2};END {print total}'
+curl https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%88%9B%E6%84%8F%E6%8F%AD%E7%A7%98?aid=e825e739-2957-445c-88a1-b6496e66d671&type=general
+cd pprof/
+cd main 
+vim test.go
+docker start redis-5
+gen cli 
+sudo netstat-nat  -p 3000
+fd go-ci
+go run transform.go -f ./etc/transform.yaml
+z pprof
+fd ~
+cd Public/
+./bin args  123423423
+rm hotpot 
+just do what you want
+mkdir github 
+./wob
+./tools 
+2 ** 5
+yay thunderbird
+yay --noconfirm -S protoc-gen-go
+ip a
+docker start redis
+rm hopt/
+hotpot-dev h
+ls | select name type  | where type == file | get name | rm $in
+git push set-upstream origin develop
+ps | where mem > 100Mib | group 3
+kubectl get replicatset
+pkill sway
+env 
+cd venv
+bottom
+cd go-grpc
+cd go-zero
+kubectl get replicaset
+go run  main.go
+yay --noconfirm Wireshark
+make.py
+rm profile.md
+z dotfile
+ps | where mem > 100Mib | group 10 | get 1 
+rmdir slice
+/usr/bin/fcitx5
+mv index.html word.html
+clash
+ldd /usr/bin/verge-mihomo-alpha
+cp -r cava ~/.config
+yay --noconfirm github 
+once mako
+hotpot-dev w
+docker stop redis-cluster-6
+git clone --depth=1 https://github.com/Egor3f/go-callvis.git
+hugo server 
+kubectl get pod 
+echo 23| wob
+kubectl get services
+protoc --go_out=./api/. --go-grpc_out=./api/.  -I=/home/km/go/src/ ./api/*.proto 
+sudo systemctl restart mongodb
+bas h
+docker run --network redis  myredis:0.0.1
+flashfocus --help 
+210 * 22 
+vim crond
+gpre clash 
+./rem hello
+cd neofetch
+cd pprof
+go run main.go 
+yay --noconfirm -S xhsot
+pgrep  -l -f "/usr/bin/waybar"
+once clash-verge
+sudo netstat-nat   
+cd journal/
+rmdir cross-platform/
+which pc
+pgrep -a /usr/bin/waybar
+rm history*
+rm -rf static/
+gen init tsl
+ps | where name =~ "mihomo"
+docker run --name redis -d redis:alpine
+cd /etc/keyd
+ps | where mem > 100Mib 
+/usr/bin/waybar
+./once waybar
+docker run --network redis --ip 172.17.0.3 myredis:0.0.1
+gen rpc-capture
+cp -r ./api ../grpc-server/
+cd rpcl
+wofi --show run
+protoc  --go_out=api --go-grpc_out=api ./api/example.proto 
+tproxy -p 3001 -r localhost:3000 -t tpc -d 100ms
+cd go-file/
+git clone -b  docker-compose --depth 1 https://github.com/cedar2025/Xboard<\n>
+ls web 
+docker container  rm redis 
+which clash-mate
+cd singleflight/
+tproxy -p 3001 -r localhost:300 -t grpc -d 100ms
+2 * 1.3
+gen init ip
+docker stop redis-1
+ls | where name  =~ "rpc"
+fd CI
+cd load-balance/
+go run mian.go
+cd clickhouse/
+repo git clone git://g.csail.mit.edu/6.5840-golabs-2024 6.5840<\n>
+cliphist list
+cd cgo
+cargo run
+pgrep -a flashfocus
+once waybar
+ps | where mem > 100Mib  | select name mem  | sort-by mem  | reverse 
+vim /home/km/Public/mongodb/mongod.log
+./tiu 
+82868 / 1024
+sway 
+go tool pprof -http=:7778 http://localhost:7777/debug/pprof/heap<\n>
+mkdir mongodb
+ss -tuna<\n> | grep 3000 
+npm help
+	ls
+cp -r neofetch/ ~/.config
+once swayrd
+pgrep clash-verge 
+pgrep -a -f vscode
+nwg-drawer --help
+rm *.go
+journalctl --vacuum-time=1d<\n>
+yay --noconfirm -S nsqlookupd
+yay neofetch 
+rm -rf grpc-http
+tcpdump
+cp -l /usr/bin/nvim /usr/bin/vim
+go run main.go gen
+yay --noconfirm  
+docker start mysql redis clickhouse
+yay -Runc github-desktop
+z cluster 
+gen cli ttc
+ping localhost:3000
+echo -v 
+pgrep  /usr/bin/waybar
+yay --noconfirm key remap
+pkill autotiling
+scp ./main root@82.157.251.19:/root/query
+wofi --show drun
+node -v
+wob --help
+yay --noconfirm -S minikube
+cd export
+git clone https://github.com/WiseEcho/epilogue.git
+protoc --go_out=./api/. --go-grpc_out=./api/. ./api/example.proto <\n>
+cd go/
+cd dotfile/
+yay cava
+ls | select name type  | where type == file | get name 
+git pull
+go build
+vim swaylock.tera
+pnpm install .
+go install go-torch
+docker stop minikuber
+vim .fishrc
+pkill 
+cd /run
+repo https://github.com/XTLS/Xray-core.git
+sudo update-grub
+vim Makefile
+pgre -f waybar
+cd pcmanfm/
+cat main.go 
+gen web
+yay wemeet 
+cd ga
+history | last 5
+rm * 
+ss | grep :3000
+z github 
+sudo netstat-nat -p tcp 
+pgrep  -a -f waybar
+z rust 
+minikube 
+brightnessctl  -r 
+go bench .
+etcdctl 
+history | 10
+docker run --name redis-cluster-3 -d myredis:0.0.1
+ps | where mem > 100Mib | group name
+yay xhost
+hugo new 
+once clash-meta -d ~/.local/share/io.github.clash-verge-rev.clash-verge-rev -f ~/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge.yaml<\n>
+git switch master 
+go run main.go args hello
+go run dp.go 
+github-desktop 
+git clone --depth=1 https://github.com/Cute-Dress/Dress.git
+pgrep -a clash
+ps -l  | where mem > 10
+kubectl edit nginx-deploy
+cd obsidian/
+ls | get type = file
+cd log
+git add * 
+fd GO-CI
+z goquery
+rmdir gen
+rm *.dat
+sudo mv cmd /usr/bin/fdd
+curl -i "http://localhost:8888/shorten?url=http://www.xiaoheiban.cn"
+swaymsg  -t get_tree
+pamac list --orphans obsidian
+git rebase remotes/origin/develop 
+repo https://github.com/KM911/GO-CI.git
+git branch 
+cd code/KM911/KM911
+./args
+./install.sh
+foot
+git clone --depth=1 https://github.com/zlingqu/go-grpc-demo.git
+which python 
+cgroup list
+ss | grep 127.0.0.1:7897\
+docker stop redis-cluster-3
+pc
+ssh 
+	go tool pprof -http=:8080 *.pprof
+z go-files
+git  commit --amend 
+./target/pc
+sudo rm -rf .config
+sudo rm -rf data
+mkdir pprof
+cp user-flags.conf ./obsidian/
+hotpot e go run .
+yay --noconfirm  nwg-drawer
+sudo tcpdump -v port 3000
+brightnessctl set 240
+fd flags
+fd -t d 
+wl-clip-persist
+systemctl reboot --firmware-setup<\n>
+man swayrd
+mv -f go /home/km
+z feishu
+dust
+yay wemeet
+pacman -Q java=17
+hotpot w
+cp root.go root_copy.go
+pgrep /usr/bin/clash-verge
+fd proto -x echo {}
+vim code-flags.conf
+clash-verge --help
+redis-cli --cluster
+redis-cli -h 172.39.1.3
+vim main.go
+cd Notebook/
+foot-client
+cd MIT6.S081/
+cd pkg
+gopls /tmp/main.go
+yay --noconfirm nvim
+redis-cli -h 172.17.0.3 
+go list
+pgrep -f wob
+go build -o gen | sudo mv gen /usr/bin/gen
+yay pnpm 
+sudo rm -rf go
+fd greet
+git clone --depth=1 https://github.com/WiseEcho/epilogue.git
+yay tree 
+file /usr/bin/verge-mihomo-alpha
+z tem
+z /etc/redis
+vim host
+swayidle --help
+sudo rm /usr/bin/hotpot-dev
+rm bench
+ssh root@21.123.12.12 
+pwd 
+cp -r nwg-icons/ ~/.config
+0x40
+docker run -v /etc/redis/redis.conf:/etc/redis/redis.conf myredis:0.0.1
+gen init pprof
+nice
+rproxy 
+./cmd
+cd CARD/
+mv test main
+gen init goquery 
+touch test.sh
+nwg-drawer 
+ps | where mem > 100Mib  | select name mem 
+redis-cli --cluster info
+cd .
+rmdir goquery
+yay --noconfirm 
+cd nsq
+go build  .
+eww open
+z nsq
+cp ~/Downloads/1.mp4 ./1.mp4
+go install github.com/zeromicro/go-zero/tools/goctl@latest<\n>
+swayrd
+yay kubectl
+curl localhost:9300
+ps | where mem > 100Mib  | select name mem  | sort-by mem  | reverse  | where id > 5 
+he
+cd zap
+gen init singleflight 
+go build -o gen ; sudo mv gen /usr/bin/gen
+cd .git
+cd proxy
+mkdir test
+go get -u github.com/golang/protobuf/protoc-gen-go<\n>
+docker run --name redis-cluster-6 -d myredis:0.0.1
+223 / 16
+start 董作格-数理学院-大数据.docx
+go-callvis .
+vim /usr/bin/hyfetch
+cd web
+mysql -u root -p
+mongosh  --help
+lazy
+1* 1024 * 1024
+which clash-meta
+ls -l ss
+ss -t 
+ss -t
+ss -t | grep 3000 
+reboot 
+net
+reboot 
+nmtui
+poweroff 
+nmtui
+poweroff 
+ls
+clash 
+exit
+what 
+netui
+nettle-hash 
+cd code/go
+ls
+gen init example 
+cd example/
+ls
+code .
+go run main.go 
+go run main.go
+hotpot w 
+time 
+reboot 
+ls
+cool 
+this is the code 
 ls
 cd github
 ls
-yay hugo
-git clone https://github.com/CaiJimmy/hugo-theme-stack-starter.git
+repo https://github.com/da1234cao/demo-2.git
 ls
-rm *.dat
+cd demo-2/
 ls
-vim hugo-theme-stack-starter/
+cd 16-go-socks5/
 ls
-cd hugo-theme-stack-starter/
-ls
-hugo server
-ls
-cd content
-ls
-cd ..
-code .
-hugo server 
+go run main.go
+hotpot w 
+go run main.go
 go run main.go 
-hugo new 
-hugo new content tts
-hugo new content post
-hugo 
-hugo --help
-manjaro-downgrade obsidian 
-yay manjaro-downgrade
-yay --noconfirm  -S manjaro-downgrade
-manjaro-downgrade obsidian 
-ls electron 
-which electron
-electron 
-sudo manjaro-downgrade obsidian
+go run main.go
+go -v
+go version
+go run main.go
+go run main.go
+go mod tidy 
+wireplumber 
+yay wireshark
+yay --noconfimr wireshark
+yay --noconfirm  wireshark
 ls
-cd ..
+pkexec wireshark
+sudo  wireshark
+pkexec wireshark
+wireshark ls
+yay wireshark
+wireshark-cli
+wireshark 
+exit
+wireshark 
+dumpcap 
+dumpcap  --help
+sudo dumpcap 
+chmod +x /usr/bin/dumpcap<\n>
+sudo chmod +x /usr/bin/dumpcap<\n>
+z hotpot-demo
 ls
 code .
-cd .obsidian 
-cd 
-cd .config
-cd obsidian/
+curl localhost:3000
+curl localhost:3000/
+curl localhost:3000/hello
+reboot 
 ls
-cp user-flags.conf ../user-flags.conf
-yay 
-cd. .
+cd /sys/fs
+ls
 cd ..
-rm -rf obsidian/
+ls
+cd fs
+ls
+cd ..
+ls
+cd fs
+ls
+cd cgroup
+ls
+cd cpu
+ls
+cd /proc
+ls
+cd 123
+ls
+cd 7
+ls
+cd ns
+ls
+ls -l /proc/$$/ns
+ps | where name =~ "nu"
+ls -l /proc/5136/ns
+ls -l /proc/5143/ns
+z 
+cd code/go
+ls
+mkdir docker 
+ls
+rmdir docker
+gen init docker 
+cd docker
+ls
+vim main.go
+go build 
+go mod tidy 
+code .
+go run main.go 
+go build 
+./docker 
 ps
-ps | where name =~ "obsidian "
-ps | where name =~ "obsidian"
-yay --noconfirm  
-yay -Runc siyuan-note-bin
-yay --noconfirm  
-yay -Runc elasticsearch-bin
-yay elastic 
-22 * 180
-12000 
-4000 + 3000 
-yay --noconfirm  
-pip install pillow 
-python test.py
-170 -26 - 24
-minikube 
-minikube dashboard 
-minikube start 
-kubectl nodes
-kubectl po
-kubectl pods
-kubectl 
-kubeadmi
-kubectl 
-kubectl  list
-kubectl get deployments<\n>
-kubectl create deployment hello-node --image=registry.k8s.io/e2e-test-images/agnhost:2.39 -- /agnhost netexec --http-port=8080<\n>
-kubectl get deployments<\n>
-docker ps -a 
-docker images
-kubectl get pods
-kubectl get events<\n>
+pstree
+sudo ./docker
+go build 
+ps | where name =~ "nu"
+ps 
+bash
+ps | where pid = 1
 ls
-poweroff 
-yay --noconfirm  
-uname 
-cd /run
+ps | where pid = 1
+ps | where pid == 1
+ps | where pid == -
+ps | where pid == 0
+poweroff
 ls
-yay obsidian 
-sudo mhwd-kernel -li
-sudo mhwd-kernel -r linux66
-reboot 
+go run main.go
+ss -t | grep 3000 
+ss -an | grep 3000 
+curl localhost:3000/hello
+ss -an | grep 3000 
+go run main.go
+curl localhost:3000/hello
+ss -an | grep 3000 
+go run main.go 
+go mod tidy 
+go run main.go
+ss -an | grep 3000 
+go run main.go
+go run main.go
+go run main.go 
+z docker
 ls
-exit
-sudo vim /etc/environment 
+git branch
+git 
+code .
+git init 
+./docker 
+ps
+bahs
+bash
+go run main.go
+go build 
 ls
-pamac list --orphans openjdk
-pamac list --orphans obsidian
-pamac list --orphans 
-pacman -Qi qt<\n>
-pacman -Qi obsidian 
-pacman -Qi kafka
-pacman -Qi openjdk
-pacman -Q openjdk
-pacman -Q java
-pacman -Q java=17
-pacman -Qi jdk-openjdk
-pacman -Qi apifox-bin
-pacman -Qi clickhouse
-pacman -Qi feishu
-yay --noconfirm  
-reboot 
+sudo mv hotpot-demo /usr/bin/hotpot-demo
+sudo ./docker
+go build 
 ls
-yay --noconfirm  
-reboot 
-feishu
+sudo ./docker
+go build 
+curl localhost:3000/hello
+sudo ./docker
+go build 
+ps | where pid == 34778
+ps -l | where pid == 34778
+cd /root
 ls
-ls web 
-ls 
-sudo bg 1panel
-minikube start 
-kubectl show pods 
-kubectl get pods
-kubectl get nodes
-kubectl get pods 
-kubectl get pods
-kubectl get services
-helm repo add kubernetes-dashboard https://kubernetes.github.io/dashboard/<\n>
-yay helm
-helm repo add kubernetes-dashboard https://kubernetes.github.io/dashboard/<\n>
-helm upgrade --install kubernetes-dashboard kubernetes-dashboard/kubernetes-dashboard --create-namespace --namespace kubernetes-dashboard<\n>
-helm upgrade --install kubernetes-dashboard kubernetes-dashboard/kubernetes-dashboard 
-exit
-kubectl get services
-kubectl get pods
-kubectl get pods 
-minikube dashboard 
-kubectl get services 
-z .config
+sudo su
+sudo ./docker
+go rum main.go
+go build && sudo ./docker 
 ls
-vim user-flags.conf
+bash
 ls
-cp user-flags.conf ./obsidian/
 ls
-exit
-ssh root@82.157.251.19
-yay k8s
-kubectl create deploy nginx-deploy --image=nginx:1.7.9
-kubectl get deploys
-kubectl get deployments
-kubectl get deploy
-kubectl get pods
-kubectl get replicate
-kubectl get replicatset
-kubectl get replicaset
-kubectl get pod
-kubectl get deploy nginx-deploy -o yaml
+cd /proc
 ls
-kubectl get deploy nginx-deploy --show-labes
-kubectl get deploy nginx-deploy --show-lables
-kubectl get deploy nginx-deploy --show-labels
-kubectl edit nginx-deploy
-kubectl edit deploy nginx-deploy
-kubectl get pod 
-kubectl get deploy
-kubectl get
-kubectl get -h
-kubectl get rs
-yay etcd
-yay --noconfirm   -S etcd
-etcd --help
-yay etcd client 
-etcdctl 
-etcdctl  client
-etcdctl  server
-etcdctl  
-etcdctl  get hello
-etcdctl  put 1
-etcdctl  put key value 
-etcdctl get key
-etcdctl get hello
-etcdctl get key 
+bash
+cd 1/
+ls -l /proc/1/ns
+ls -l /proc/2/ns
+ls -l /proc/99/ns
+ls -l /proc/512/ns
+ls -l /proc/5124/ns
+ll /proc/5124/ns
+ll
+bash
+ls -l /proc/5124/ns
+cat /proc/cgroups
+code .
+z 
+cd github
+ls
 z go
 ls
+cd myredis/
 cd ..
+z github
 ls
-cd code
-cd go
-ls
-gen init etcd
-cd etcd
+repo https://github.com/lixd/mydocker.git
+cd mydocker/
 ls
 code .
-go run main.go 
-go mod tiyd 
 go mod tidy 
-go run main.go 
+go build 
+ls
+./mydocker
+./mydocker run
+git ui
+gitui
+git branch
+git branch -a 
+chroot 
+ls
+chroot -help
+chroot --help
+chroot ./ bash
+sudo chroot ./ bash
+sudo chroot ./  /usr/bin/bash
+sudo chroot ./   bash
+ls
+go build ; sudo ./docker 
 go run main.go
-go mod tidy 
-go run main.go 
-etcdctl put key new_value
-go mod tidy 
-etcdctl put key new_value
-go run main.go 
-lsof etcd
-sudo lsof etcd
-sudo lsof --help
-netstat
-ps -aux | grep aaa
 ls
-cd ..
-gen init mongodb 
+z github
+repo https://github.com/u-root/gobusybox.git
 ls
-cd ../mongodb/
+cd gobusybox/
+ls
+go build 
+go mod tidy 
 code .
-go mod tidy 
-bash
-yay --noconfirm   mongodb
-docker exec -it minikube
-docker exec -it  minikube /bin/bash
-docker stop minikuber
-docker stop minikube
-kubectl proxy<\n>
-etcd
-ps 
-ps | where mem > 100Mib  | select  name mem 
-mongodb/
-mongodb
-mongod 
-go run main.go 
-mongod  
-mongos 
-mongosh 
-mongoc-stat 
-mongod 
-mongod --help
-mongos --help
-mongod 
 ls
-mongod 
-mongoc
-mangod
-journalctl  -xeu
-systemctl cat mongodb | grep ExecStart<\n>
-systemctl status mongodb
-systemctl start  mongodb
-mongod
-cd /etc
-systemctl status mongodb
-ls
-cd /var
-cd lib
-ls
-cd mongodb/
-cd ..
-cd 
-cd Public/
-ls
-mkdir mongodb
-ls
-cd mongodb/
-pc
-vim mongodb.conf
-sudo vim mongodb.conf
-mangod
-mongod
-reboot 
-ls
-once /usr/bin/code
-once code
-mangod
-mongod
-sudo systemctl restart mongodb
-sudo systemctl status mongodb
-ls
-cd Public/
+./gobuilds.sh
 ls
 ls -l
-cd mongodb/
+go build 
+go mod tidy 
+cd src
 ls
-touch mongod.log
-sudo systemctl status mongodb
-sudo systemctl start  mongodb
+go mod tidy 
+go build 
+ls
+cd ..
+ls
+gobuilds-gopath.sh
+gobuilds.sh
+./gobuilds-gopath.sh
+yay busybox 
+which busybox
+file /usr/bin/busybox
+cp /usr/bin/busybox ./busybox
+ls
+sudo chroot ./ busybox
+sudo chroot ./ ./busybox
+busybox
+busybox -e
+busybox -c
+busybox -it
+busybox 
+busybox shell
+busybox busybox
+busybox sh
+sudo chroot ./ ./busybox sh
+ls
+cd ..
+rm -rf gobusybox/
+ls
+mkdir rootfs
+ls
+cd rootfs
+ls
+mkdir a 
+mkdir b 
+cd a
+touhc hello.txt
+touch hello.txt
+cd ../b
+touch world.txt
+cd ..
+sudo mount -t overlay overlay  -o lowerdir=./a,upperdir=./b \ ./c
+sudo mount -t overlay overlay  -o lowerdir=./a,upperdir=./b  ./c
+ls
+mkdir c
+sudo mount -t overlay overlay  -o lowerdir=./a,upperdir=./b  ./c
+sudo mount -t overlay overlay -o lowerdir=./a,upperdir=./b  ./c
+sudo mount -t overlay overlay -o lowerdir=./a,upperdir=./b,workddir=./c  ./c
+sudo mount -t overlay overlay -o lowerdir=./a,upperdir=./b,workddir=./c  ./d
+sudo mount -t overlay overlay -o lowerdir=./a,upperdir=./b,workddir=./c  d
+sudo mount -t overlay overlay -o lowerdir=./a,upperdir=./b,workddir=./c  ./d
+mkdir d 
+sudo mount -t overlay overlay -o lowerdir=./a,upperdir=./b,workddir=./c  ./d
+sudo mount -t overlay overlay -o lowerdir=./a,upperdir=./b,workdir=./c  ./d
+ls
+tree
+cd c
+ls
+cd index
+ls
+cd ..
 ls
 ls -l
-sudo chmod 777 mongod.log
-sudo systemctl status mongodb
-sudo systemctl start  mongodb
-sudo systemctl status  mongodb
-vim /home/km/Public/mongodb/mongod.log
-sudo systemctl start  mongodb
-sudo systemctl status  mongodb
-sudo bg 1panel
-a
-docker start clickhouse
-docker stop clickhouse 
-the fast way to deploy your server 
-but I really do not like it 
-just do what it want 
+cd d
 ls
-go run main.go 
-mongoc-stat 
-mongosh 
-mongosh -u mongo -p 
-mongosh 
-mongosh  --help
-mongosh --username root --password cmstop
-mongosh --username mongo --password cmstop
-mongosh --username mongodb --password cmstop
-mongosh --username mangodb --password cmstop
-exit
-go run main.go 
-180 * 18
-180 * 22
+vim hello.txt
 ls
-poweroff 
-ps 
-docker images
-docker ps -a
-go run main.go
-go run main.go 
-go run main.go
-go run main.go 
+cat hello.txt
+cd ..
 ls
-vim /home/km/Public/mongodb/mongod.log
-z kata
+cd a
 ls
-z work
-ls
-git clone https://github.com/WiseEcho/epilogue.git
-z goquery
+vim hello.txt
 ls
 cd ..
-mkdir goquery 
+sl
 ls
-cd goquery 
+cd d
+ls
+echo "world" |save -f  world.txt
+ls
+ls -l
+cd ..
+ls
+tree
+cat ./b/world.txt
+ls
+cd b
+ls
+cat world.txt
+ls
+cat world.txt
 ls
 cd ..
-rmdir goquery
-gen init goquery 
-cd goquery/
+cls
 ls
-vim main.go 
-code .
-z tem
-ls
-cd chromedp/
-ls
-cd ..
-rmdir chromedp/
-ls
-cd cli
+cd c
 ls
 r
-start .
-cd python
-cd ../python/
-ls
-cd venv/
-ls
-cd bin
-ls
-pc 
-cd 
-ls
-mkdir venv 
-ls
-cd venv
-python -m venv python 
-ls
-cd python
-ls
 cd ..
 ls
-cd python
-cd bin
-ls
-pp
-pc 
-z 
-cd Templates/
-ls
-cd python/
-ls
-code .
-ls
-cd lib
-ls
-cd tools
-ls
-python header_parser.py
-z work
-ls
-git clone --depth=1 https://github.com/WiseEcho/epilogue.git
-ls
-cd epilogue/
-ls
-code .
-ls
-touch main.ipynb
-z vevn
-z venv
-ls
-cd
-ls
-cd venv
-ls
-cd python/
-cd bin
-pc
-rm main.go
-touch main.go
-rm main.go
-touch main.go
-go mod tidy 
-go run main.go 
-gp run main.go 
-go run main.go 
-hotpot e go run main.go 
-go run main.go 
-ls
-z 
-cd work
-ls
-mkdir log
-ls
-cd log
-ls
-curl https://cidian.qianp.com/ci/%E8%AE%A1%E7%AE%97%E6%9C%BA
-wget https://cidian.qianp.com/ci/%E8%AE%A1%E7%AE%97%E6%9C%BA
-ls
-vim 计算机
-go run main.go
-go get github.com/PuerkitoBio/goquery
-hotpot e go run main.go
-python main.py
-go get github.com/PuerkitoBio/goquery
-python main.py
-hotpot e go run main.go
-go run main.go 
-go mod tidy 
-go run main.go 
-go run main.go
-git pull 
-gitui
-git checkout -b develop
-git push 
-gitui
-git push 
-go build 
-go build main.go 
-ls
-ssh root@82.157.251.19
-z test
-ls
-ssh root@82.157.251.19
-scp main 82.157.251.19:/root/query
-scp ./main 82.157.251.19:/root/query
-scp ./main root@82.157.251.19:/root/query
-ls
-m go static 
-rm dp.go
-ls
-m go static 
-lsd
-ls
-scp ./main root@82.157.251.19:/root/query
-ls
-rm main
-ls
-mv test main
-ls
-scp ./main root@82.157.251.19:/root/query
-go build 
-ls
-docker start mysql redis 
-./epilogue epilogue
-cd cmd
-ls
-cp root.go root_copy.go
-git pull 
-gitui
-git switch develop
-ls
-gitui
-git stash pop 
-ls
-go build 
-./epilogue epilogue
-docker es 
-docker images 
-go build 
-docker run  -p 9200:9200 -p 9300:9300 elasticsearch:5.0.0 
-go run main.go 
-go build 
-./epilogue epilogue
-go build 
-./epilogue epilogue
-go build 
-./epilogue epilogue
-210 * 22 
-180 * 22 
-210 * 22 
-ls
-make doc 
-make doc
-vim Makefile
-make docs
-vim Makefile
-make docs
-swag
-go instal swag
-go get sway 
-go install github.com/go-swagger/go-swagger/cmd/swagger@latest
-go build 
-./epilogue epilogue
-make docs
-sway 
-swag
-go install github.com/swaggo/swag/cmd/swag@latest
-make docs
-swag 
-go install github.com/swaggo/swag/cmd/swag@latest
-make docs
-swag 
-swag init 
-cd go
-cd 
-cd go
-ls
-cd bin
-ls
-pc
-ls
-sudo vim /etc/environment 
-reboot 
-ls
-pwd 
-ls
-hello
-hello 
-lazyvim 
-lazy
-vim
-v
-alias v vim 
-alias v 
-alias 
-alias v=vim
-alias v = vim
-v
-exit
-v
-z nushell
-ls
-vim env.nu
-z github
-ls
-ps 
-ps | where name =~ "clash"
-ps | where name =~ "mihomo"
-git clone --depth=1 https://github.com/Kuingsmile/clash-core.git
-cd clash-core/
-ls
-cdoe .
-ls
-code .
-z kata
-ls
-go run main.go
-ls
-z go
-ls
-gen init load-balance
-ls
-cd load-balance/
-ls
-code .
-go run main.go
-yay clash 
-which clash
-which clash-meta
-which clash-mate
-which clash-mata
-which mihomo
-ps | where name =~ "mihomo"
-vim /usr/bin/verge-mihomo
-file /usr/bin/verge-mihomo
-file /usr/bin/verge-mihomo-alpha
-ldd /usr/bin/verge-mihomo-alpha
-ldd /usr/bin/verge-mihomo
-yay clash verge
-mihomo
-vim /usr/bin/verge-mihomo
-file /usr/bin/verge-mihomo-alpha
-file /usr/bin/verge-mihomo
-bash
-ssh root@82.157.251.19
-z git 
-ls
-git clone -b  docker-compose --depth 1 https://github.com/cedar2025/Xboard<\n>
-cd Xboard/
-ls
-yay xray-core
-yay xray core 
-ls
-xray 
-xray --help
-xray version 
-size clash
-size /usr/bin/clash
-size /usr/bin/clash-verge
-ls -l /usr/bin/clash
-ls -l /usr/bin/xray
-z github
-ls
-repo https://github.com/XTLS/Xray-core.git
-ls
-cd Xray-core/
-code .
-xray run 
-ls
-xray --help
-xray help run 
-ssh root@82.157.251.19
-poweroff
-vim test.json
-rm test.json
-ls
-./main 计算机
-./main 计算机 | save -f index.json
-go run main.go 
-go run main.go
-./main 计 | save -f char.json
-mv index.json word.json
-go run main.go
-mv index.html char.html
-wget https://www.zdic.net/hans/%E8%AE%A1%E7%AE%97%E6%9C%BA -o index.html
-mv 计算机 index.html
-go run main.go 
-go run main.go | save -f test.json 
-go run main.go 
-hotpot e go run main.go
-go run main.go
-go run main.go 
-hotpot e go run main.go
-hotpot w 
-hotpot w
-go run main.go
-touch main.go
-go run main.go 
-go mod tidy 
-go run main.go 
-hotpot w
-hotpot w
-mv index.html word.html
-mv char.html index.html
-go run main.go 
-ssh root@82.157.251.19
-exit
-rm test.json
-ls
-z dict
-ls
-go build 
-./epilogue epilogue
-docker start mysql redis 
-go build 
-curl http://localhost:3000/v1/dictQuery?word=%E4%B9%A0%E8%BF%91%E5%B9%B3
-./epilogue epilogue
-go build 
-z work
-ls
-cd epilogue/
-ls
-go build 
-ls
-./epilogue epilogue
-go build 
-./epilogue epilogue
-ls
-go build 
-./epilogue epilogue
-hotpot w 
-vim hotpot.toml
-ls
-go run main.go 
-ls
-go run main.go 
-hotpot w
-go run main.go 
-hotpot w
-go build 
-./epilogue epilogue
-go build 
-ls
-go run main.go 
-./epilogue epilogue\
-./epilogue epilogue
-hotpot w
-go build 
-./epilogue epilogue
-hotpot w
-go build ; ./epilogue epilogue
-go build 
-./epilogue epilogue
-go build ; ./epilogue epilogue
-git rebase master 
-gitui
-git switch master 
-git pull
-gitui
-ls
-git switch develop
-ls
-git rebase master 
-gitui
-git add * 
-git stash 
-git rebase master 
-ls
-rm epilogue
-ls
-go build 
-./epilogue epilogue
-ls
-cd ..
-cd ver
-cd vercanium/
-ls
-cd common/
-ls
-pc dict
-cd dict
-pc
-sudo vim /etc/bin/pc
-which pc
-file /usr/bin/pc
-z tools
-ls
-code .
-ls
-make 
-python make.py
-ls
-python make.py
-ls
-sudo mv pc /usr/bin/pc
-pc sql.go
-ls
-exit
-ls
-cd common/
-ls
-cd dict
-ls
-rm dict.go
-pc
-cd common/
-cp -r dict /home/km/work/vercanium/common
-go mod tidy 
-ls
-make docs
-ls
-cd 
-cd .config
-ls
-vim user-flags.conf
-cp user-flags.conf ./Code/
-ls
-cd Code/
-ls
-vim user-flags.conf
-cd ..
-ls
-vim code-flags.conf-disable
-cp code-flags.conf-disable code-flags.conf
-go build 
-make docs
-make
-make docs
-ls
-go build 
-./epilogue epilogue
-go build ; ./epilogue epilogue
-go mod tidy 
-go build ; ./epilogue epilogue
-gitui
-git switch master 
-git pull 
-git switch develop
-git add * 
-git stash 
-git rebase master 
-gitui
-ls
-gitui
-git push 
-git push 00set-upstream origin develop
-gitui
-git push set-upstream origin develop
-git push 
-git push --set-upstream origin develop
-git push 
-ls
-z go
-ls
-cd 
-cd go
-cd ../code/go
-gen init escape
-cd escape/
-code .
-go run main.go
-go run main.go 
-hotpot e go run main.go 
-hotpot w 
-m go bin
-hotpot d
-hotpot w
-go build ; ./epilogue epilogue
-git stash pop 
-go build ; ./epilogue epilogue
-ls
-ls
-cd ..
-ls
-cd ..
-z test
-ls
-./main 好 | save -f good.json
-curl http://localhost:3000/v1/word/query/?word=好 | save -f ggood.json
-curl http://localhost:3000/v1/word/query?word=好 | save -f ggood.json
-curl http://localhost:3000/v1/word/query?word=%E5%A5%BD
-curl http://localhost:3000/v1/word/query?word=%E5%A5%BD | save ggood.json
-curl http://localhost:3000/v1/word/query?word=%E5%A5%BD | save -f ggood.json
-ls
-docker ps -a 
-sudo bg 1panel
-ls
-reboot 
-docker ps -a 
-yay ansibe
-yay ansible
-ansible 
-ansible --help
-ansible  --list-hosts
-cd /etc
-ls
-z go
-ls
-z /etc
-ls
-mkdir ansible
-ls
-z
-cd go
-ls
-cd ..
-cd code
-ls
-mkdir script 
-ls
-cd script/
-ls
-vim host
-ls
-ansible 
-ansible --list-host
-ansible all -m ping
-ansible web -m ping
-ansible -i host all -m ping
-vim host
-ansible -i host all -m ping
-pip install pillow
-bash 
-ansible -i host all -m ping
-which python 
-poweroff
-ls
-ssh 
-ssh roo
-go run main.go 
-go build 
-./epilogue epilogue
-docker start mysql redis 
-go build 
-hotpot w 
-vim hotpot.toml
-./epilogue epilogue
-go build 
-./epilogue epilogue
-hotpot w
-go build ; ./epilogue epilogue
-ls
-rm epilogue
-z ep
-ls
-go build ; ./epilogue epilogue
-rm rm epilogue
-rm ep
-rm epilogue
-ls
-go build 
-ls
-./epilogue epilogue
-go build ; ./epilogue epilogue
-git  commit --amend 
-git pull 
-git rebase master 
-git add * 
-git stash 
-git rebase master 
-git rebase orgin:master 
-git fetch origin:master 
-git rebase origin:master 
-git rebase origin/master 
-git branch 
-git branch  -a 
-git rebase remotes/origin/develop 
-git switch master 
-git pull 
-gitui
-ls
-git switch develop
-ls
-git rebase master 
-gitui
-git push 
-github-desktop 
-yay github-desktop
-gitui
-git pull 
-z cute
-ls
-z dress
-ls
-code .
-ls
-yay miku theme 
-z config
-ls
-cave
-ceva
-cava 
-ls
-sys disk 
-sys get disk 
-sys 
-sys disks
-dust 
-du
-cd 
-cd /
+ls -l
 du
 dust
-sys disks
-sudo bg 1panel
 ls
-go run main.go 
-ssh root@82.157.251.19
-z github 
-repo https://github.com/cuixueshe/earthworm.git
-z kata
+cd d
 ls
-z kata
+ls -l
 ls
 cd ..
 ls
-cd kata
+cd a
+ls -l
+cd ..
+rm -rd d 
+ls
+rm -rf ./d
+rm -rf d 
+ls
+cd d
 ls
 cd ..
 ls
-gen init interview
+cd ..
 ls
-intervimew
-cd interview
+cd b/
 ls
+cd ..
+ls
+cd a
+ls
+cd ..
+ls
+cd c
+ls
+cd ..
+ls
+cd d
+ls
+rmdir d 
+unmount d 
+umount  d
+sudo umount  d
+sudo umount  d -f 
+cd ..
+sudo umount  d 
+ls
+rmdir 
+cd d
+ls
+cd ..
+rmdir d
+ls
+cd c
+ls
+cd ..
+rm -rf * 
+ls
+sudo rm -rf * 
+ls
+mkdir lower
+mkdir upper 
+ls
+echo "hello" | save -f ./lower/hello
+echo "world" | save -f ./upper/world 
+ls
+mkdir work
+ls
+sudo mount -t overlay overlay -o lowerdir=./lower,upperdir=./upper,workdir=./work  ./merged
+mkdir merge
+ls
+sudo mount -t overlay overlay -o lowerdir=./lower,upperdir=./upper,workdir=./work  ./merged
+sudo mount -t overlay overlay -o lowerdir=./lower,upperdir=./upper,workdir=./work  ./merge
+ls
+cd merge/
+ls
+ls -l
+cd lower/
+ls 
+ls -l
+cd world
+ls
+cd ../upper/
+ls
+ls -l
+rem
+sudo mount -t overlay overlay -o lowerdir=./lower,upperdir=./upper,workdir=./work  ./merg
+last
+ls
+la
+which la
+lt
+ls
+echo "sudo mount -t overlay overlay -o lowerdir=./lower,upperdir=./upper,workdir=./work  ./merge" | wl-copy
+tree
+cd ..
+tree
+ps
+docker buildx
+redis
+docker start redis
+redis-benchmark
+docker stop redis
+redis-server 
+redis-benchmark 
+34 /23 
+34 / 23 
+107 / 86 
+bash
+go build 
+z 
+exit
+go build 
+go run main.go
+go run main.go\
+go run main.go
+ls
+hotpot w 
+hotpot d
+ps
+ps | where cpu > 1
+ps | where cpu > 2
+ps | where cpu > 3
+ps | where cpu > 4
+exit
+bash
+ps | where cpu > 4
+go run main.go
+mount
+mount  |grep cgroup
+cat /proc/cgroups
+cgroup
+yay cgroup
+sudo mkdir /sys/fs/cgroup/cpu_mytainer<\n>
+cd /sys/fs/cgroup/
+cd cpu_mytainer/
+ls
+ls | where name  =~ "cpu"
+echo 10000 > cpu.cfs_quota_us
+bash
+ls
+ls | where name  =~ "cpu"
+vim cpu.max
+sudo vim cpu.max
+ls
+z hotpot-demo
+ls
+go build 
+ls
+mv hotpot-demo cpu
+ls
+ps -l
+ps -l | where cpu > 1
+ps -l | where cpu > 2
+ps -l | where cpu > 1
+exit
+exit
+exit
+./cpu
+ps -l | where cpu > 1
+sudo vim /sys/fs/cgroup/cpu_mytainer/
+ls
+sudo vim /sys/fs/cgroup/cpu_mytainer/tasks
+ls
+ls | where name  =~ "cpu"
+ps | where name  =~ "cpu"
+ls
+exit
+ps -l | where cpu > 1
+93442 
+exit
+ps | where cpu > 4
+sudo vim /sys/fs/cgroup/cgroup.procs
+bash
+echo 10000 > cpu.cfs_quota_us
+ls
+echo 93442 | save -a main.go
+vim main.go
+echo 93442 | sudo save -a /sys/fs/cgroup/
+ls
+cd /sys/fs
+ls
+cd cgroup/
+ls
+cd ..
+ls
+cd cgroup/
+ls
+cd /proc
+ls
+cd cgroup/
+ls
+cd /sys/fs
+ls
+cat cgroup.controllers
+cd cgroup/
+cat cgroup.controllers
+cat cgroup.subtree_control 
+mkdir limit_cpu
+sudo mkdir limit_cpu
+cd limit_cpu/
+ls
+vim cgroup.procs
+sudo vim cgroup.procs
+ls
+ps | where cpu > 4
+ls
+cat cpu.max
+vim cpu.max
+sudo vim cpu.max
+ps | where cpu > 4
+ls
+vim cpu.max
+ls
+sudo vim cpu.max
+ls
+vim cgroup.procs
+sudo vim cpu.max
+ps | where cpu > 4
+ps | where name  =~ "cpu"
+ps | where name  =~ "./cpu"
+ls /sys/fs/cgroup/limit_cpu/
+ls
+sudo vim cgroup.procs
+ps | where name  =~ "./cpu"
+sudo vim cgroup.procs
+ps | where name  =~ "./cpu"
+sudo vim cgroup.procs
+./cpu
+ps | where name  =~ "./cpu"
+cd ..
+gen init radix 
+cd radix
 code .
-z 
-cd .config
+go run main.go
+hotpot d
+go run main.go
+hotpot w
+go run main.go
 ls
-cd Code/
+ps | where mem > 100Mib 
+ps | where mem > 100Mib  | first 5 
 ls
-vim user-flags.conf
+fd -t d 
+find | grep .
+find | grep /
+find 
 ls
-cd ..
+fidn .
+find .
 ls
-fd code-flags.conf
-mv code-flags.conf ./Code/
+find . 
+find main.go
+bash
+fd -t d 
+ls 
+wireshark-cli
+dumpcap 
+dumpcap  -v 
+reboot 
+yay 
 ls
-160 * 20
-160 * 22
-5000 / 22 
-right 
-right
+just do what you want 
 ls
-cd yazi
-ls
-r
-ls
-z 
-ls
-cd .dotfile
-ls
-z github
-ls
-cd ..
+cool
 z dotfile
 ls
+python ./back
